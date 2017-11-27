@@ -31,7 +31,7 @@
                 <div class="list-item {{ post.filters }}">
                   <a href="{{ post.url }}">
                     {% assign postSlug = post.url | split: "/" | last %}
-                    {% for file in site.static_files%}
+                    {% for file in site.static_files %}
                       {% if file.path contains postSlug %}
                         {% assign postCover = site.baseurl | append: file.path %}
                         {% break %}

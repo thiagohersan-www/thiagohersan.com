@@ -8,7 +8,7 @@ vimeo: https://vimeo.com/171869957
 www: http://tmp.thiagohersan.com/tmp/XOXOXOLOLOLOL/xoxoxolololol.pdf
 collab: http://www.incubadoradeartistas.com.br/
 ---
-![](/assets/projects/xoxoxolololol/envelope02.jpg)
+![](/assets/projects/xoxoxolololol/Envelope02.jpg)
 
 <div style="text-align:right;" markdown="1">
   *Our Age of Anxiety is, in great part, the result of trying to do today's job with yesterday's tools and yesterday's concepts.*  
@@ -19,9 +19,9 @@ XOXOXOLOLOLOL is a project of projects; an exploration into the possibilities of
 
 It starts with the recognition of the internet as an experiment that we conduct on ourselves, with all of its (commercial, personal, political) ramifications and (cultural, psychological, economic) consequences, and the need for other networks, interfaces, organisms and agential systems that take into account the desires created by our present forms of communication.
 
-Physically, it began as a kind of mail art game: participants received a mouth-shaped stamp along with an inkpad and "[instructions](/assets/projects/xoxoxolololol/A6_regras.pdf){:target="_blank"}" for how to play. The stamps were used in a variety of ways.
+Physically, it began as a kind of mail art game: participants received a mouth-shaped stamp along with an inkpad and "[instructions](/assets/projects/xoxoxolololol/regras_A6.pdf){:target="_blank"}" for how to play. The stamps were used in a variety of ways.
 
-![](/assets/projects/xoxoxolololol/envelope00.jpg)
+![](/assets/projects/xoxoxolololol/Envelope00.jpg)
 
 ## O Afeto na Era de Sua Reprodutibilidade Digital
 A few months later, the project was reformulated as a two-day workshop for discussing the effects of the internet on the body. After a short presentation about how the internet works and what is behind some of the more popular sites, we talked about how this technology influences our behavior on- and offline.

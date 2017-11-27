@@ -47,4 +47,4 @@ As well as plants and coins without starting fires:
 
 ![](/assets/projects/kirlian-machine/kirlianPlant.jpg)
 
-![](/assets/projects/kirlian-machine/kirlianCoin.jpg)
+![](/assets/projects/kirlian-machine/Coin.jpg)
