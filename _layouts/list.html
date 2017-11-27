@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+    {% include analytics.html %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="main-div-container">
+      {% include navbar.html %}
+      <div class="main-div">
+        <div class="post">
+          <div class="post-title">{{ page.title }}</div>
+          {% if page.filters %}
+            <div class="filter-container">
+              <div class="selector-button filter-all">
+                <span class="filter-button-text filter-active">all</span>
+              </div>
+              {% for filter in page.filters %}
+                <div class="selector-button {{ filter }}">
+                  | <span class="filter-button-text">{{ filter | replace: 'filter-', '' }}</span>
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+          <div class="list-container">
+            {% for post in site.posts %}
+              {% assign pagedescription = page.description | downcase %}
+              {% if pagedescription contains post.category %}
+                <div class="list-item {{ post.filters }}">
+                  <a href="{{ post.url }}">
+                    {% assign postSlug = post.url | split: "/" | last %}
+                    {% for file in site.static_files%}
+                      {% if file.path contains postSlug %}
+                        {% assign postCover = site.baseurl | append: file.path %}
+                        {% break %}
+                      {% endif %}
+                    {% endfor %}
+                    <div class="list-image" style="background-image: url('{{ postCover }}');" alt="{{ post.title }}" title="{{ post.title }}"></div>
+                    <div class="list-title">{{ post.title }}</div>
+                  </a>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <!-- <script defer type="text/javascript" src="/js/lol.js"></script> -->
+  <script defer type="text/javascript" src="/js/project-filter.js"></script>
+</html>

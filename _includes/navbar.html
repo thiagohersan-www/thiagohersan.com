@@ -1,0 +1,27 @@
+<div id="navbar-mobile" class="nav-container">
+  <span id="show-menu" class="menu-icon" onclick="showMenu()">&#9776;</span>
+  <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+</div>
+
+<div id="navbar">
+  <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
+  {% include navbar-content.html %}
+</div>
+
+<div id="navbar-desktop">
+  <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
+  {% include navbar-content.html %}
+</div>
+
+<script>
+  function showMenu() {
+    document.getElementById('navbar').classList.remove("menu-hide");
+    document.getElementById('navbar').classList.add("menu-show");
+  }
+
+  function hideMenu() {
+    document.getElementById('navbar').classList.remove("menu-show");
+    document.getElementById('navbar').classList.add("menu-hide");
+  }
+</script>
+

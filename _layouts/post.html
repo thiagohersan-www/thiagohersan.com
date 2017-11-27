@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+    {% include analytics.html %}
+  </head>
+  <body>
+    <div class="main-div-container">
+      {% include navbar.html %}
+      <div class="main-div">
+        <div class="post">
+          {% unless page.permalink == '/' %}
+            <div class="post-title">{{ page.title }}</div>
+          {% endunless %}
+          <content>
+            {{ content }}
+            {% if page.swipebox %}
+              {% include swipebox.html prefix=page.swipebox %}
+            {% endif %}
+            {% include social-footer.html %}
+          </content>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

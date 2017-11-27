@@ -1,0 +1,13 @@
+<a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+<div class="menu-item menu-subtitle"><a href="{{ site.baseurl }}/projects">######</a></div>
+{% assign projectPosts = site.posts | where:"category","project" %}
+{% for post in projectPosts %}
+  <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+
+<div class="menu-item menu-subtitle"><a href="{{ site.baseurl }}/collaborations"><3<3<3</a></div>
+{% assign collabPosts = site.posts | where:"category","collaboration" %}
+{% for post in collabPosts %}
+  <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+{% endfor %}

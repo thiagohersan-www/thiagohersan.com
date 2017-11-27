@@ -1,0 +1,32 @@
+# Site
+title: Thiago Hersan
+
+# URL
+url: https://thiagohersan.com
+baseurl: ''
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4322
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"
+
+# Data
+social:
+  facebook_user: "thiago.hersan"
+  twitter_user: "thiagohersan"
