@@ -8,12 +8,21 @@
       <div class="menu-item menu-year">{{ postYear }}</div>
       {% assign currentYear = postYear %}
     {% endif %}
-    {% case post.category %}
-      {% when 'project' %}{% assign menuBullet = "hashtag" %}
-      {% when 'collaboration' %}{% assign menuBullet = "heart" %}
-    {% endcase %}
-    <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">
-      <i class="fa fa-{{ menuBullet }}" aria-hidden="true"></i> {{ post.title }}
-    </a>
+
+    <div class="menu-item-post-container">
+      {% if post.category == 'collaboration' %}
+        <a class="menu-item menu-item-post" href="{{site.baseurl}}/collaborations/">
+          <i class="fa fa-heart" aria-hidden="true"></i>
+        </a>
+      {% else %}
+        <a class="menu-item menu-item-post" href="{{site.baseurl}}/projects/">
+          <i class="fa fa-hashtag" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+
+      <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </div>
   {% endunless %}
 {% endfor %}

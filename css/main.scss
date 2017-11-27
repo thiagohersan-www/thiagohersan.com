@@ -98,6 +98,10 @@ body {
     padding-top: 4 * $MENU-ITEM-SPACING;
   }
 
+  .menu-item-post {
+    display: inline;
+  }
+
   .menu-year {
     padding: 20px 0 4px;
     border-bottom: 1px solid $TEXT-COLOR;

@@ -94,7 +94,7 @@ a, .email-icon {
     }
   }
 
-  .menu-item-post, .menu-item-page {
+  .menu-item-post {
     font-size: $MENU-ITEM-SIZE;
     font-weight: normal;
     @include media-query(DESKTOP) {
