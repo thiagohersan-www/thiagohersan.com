@@ -5,7 +5,7 @@ description: performance/ritual
 filters: 'filter-analog'
 github: https://github.com/thiagohersan/AngryLetters
 vimeo: https://vimeo.com/98120021
-swipebox: angry-letters/xIMG_
+swipebox: angry-letters
 ---
 ![](/assets/projects/angry-letters/xIMG_0491.jpg)
 

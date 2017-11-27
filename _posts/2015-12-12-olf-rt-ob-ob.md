@@ -19,9 +19,7 @@ The group was initially formed by [Alex](http://alexpearl.miriadonline.info/){:t
 ## Reading & Thinging
 Reading and Thinging is an informal monthly get-together that crosses a reading group with a ’show and tell’ session, exploring different themes in philosophy, science and culture through a curated reading list, discussions and manipulation of objects. It is an opportunity to make different areas of research, like philosophy, media theory and robotics, open and accessible, and to develop a community of readers, thinkers and thingers! that mix theory and making.
 
-![](/assets/projects/olf-rt-ob-ob/rt0101.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/rt0102.jpg)
+{% include swipebox.html prefix="rt010" %}
 
 We've discussed topics like: emotional labour; post-humanism and post-internet networks; the difference between reflection, refraction and diffraction; [Parapoetics](http://www.brokendimanche.eu/para-poetics/){:target="_blank"} and mechanics as non-anthropocentric reading/writing systems; and Technoxamanism.
 
@@ -29,23 +27,9 @@ We've read texts by: [Donna Haraway](https://muse.jhu.edu/journals/configuration
 
 Some of the *thingings* we've done: playing cat's craddle, building machines that draw straight lines, performative readings, breaking and rebuilding ceramic objects and ritualistic desoldering of circuits.
 
-![](/assets/projects/olf-rt-ob-ob/rt0401.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/rt0402.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/rt0500.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/rt0501.jpg)
+{% include swipebox.html prefix="rt_" %}
 
 ## Ob_ject and Ob_serve
 Ob_ject and Ob_serve was an exhibition we put together at [A Small View](http://asmallview.co.uk/){:target="_blank"} in Liverpool in February of 2016. Alex presented work that looks at the relationship between breakdown in machines and people. Radamés, Edgar and Thiago presented ongoing work that deals with the hidden lives of our communication technologies. Sam presented a collection of text-based prints and ephemera drawn from archival research, conversations with former Liverpool observatory employees, and his project notebooks.
 
-![](/assets/projects/olf-rt-ob-ob/obob00.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/obob01.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/obob02.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/obob03.jpg)
-
-![](/assets/projects/olf-rt-ob-ob/obob04.jpg)
+{% include swipebox.html prefix="obob0" %}

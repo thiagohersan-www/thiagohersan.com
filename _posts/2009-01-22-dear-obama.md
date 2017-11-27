@@ -5,7 +5,7 @@ description: performance/protest
 filters: 'filter-analog'
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw
 collab: https://karhoff.wordpress.com/
-swipebox: dear-obama/dear
+swipebox: dear-obama
 ---
 ![](/assets/projects/dear-obama/dear05.jpg)
 
