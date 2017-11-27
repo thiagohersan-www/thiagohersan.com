@@ -173,6 +173,13 @@ body {
   }
 }
 
+.inline-image-container {
+  margin-bottom: $VERTICAL-SECTION-SPACING/2;
+  img {
+    display: inline;
+  }
+}
+
 .list-container {
   display: flex;
   flex-direction: row;
