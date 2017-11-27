@@ -1,13 +1,19 @@
-<a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+{% assign projectPosts = site.posts | where:"category",include.category %}
+{% assign currentYear = "foo" %}
 
-<div class="menu-item menu-subtitle"><a href="{{ site.baseurl }}/projects">######</a></div>
-{% assign projectPosts = site.posts | where:"category","project" %}
-{% for post in projectPosts %}
-  <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
-
-<div class="menu-item menu-subtitle"><a href="{{ site.baseurl }}/collaborations"><3<3<3</a></div>
-{% assign collabPosts = site.posts | where:"category","collaboration" %}
-{% for post in collabPosts %}
-  <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+{% for post in site.posts %}
+  {% unless post.category == 'draft' %}
+    {% assign postYear = post.date | date: "%Y" %}
+    {% if postYear != currentYear %}
+      <div class="menu-item menu-year">{{ postYear }}</div>
+      {% assign currentYear = postYear %}
+    {% endif %}
+    {% case post.category %}
+      {% when 'project' %}{% assign menuBullet = "hashtag" %}
+      {% when 'collaboration' %}{% assign menuBullet = "heart" %}
+    {% endcase %}
+    <a class="menu-item menu-item-post" href="{{site.baseurl}}{{ post.url }}">
+      <i class="fa fa-{{ menuBullet }}" aria-hidden="true"></i> {{ post.title }}
+    </a>
+  {% endunless %}
 {% endfor %}

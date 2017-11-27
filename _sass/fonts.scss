@@ -101,6 +101,12 @@ a, .email-icon {
       font-size: $MENU-ITEM-SIZE;
     }
   }
+
+  .menu-year {
+    &:hover {
+      color: $MENU-TEXT-COLOR;
+    }
+  }
 }
 
 .menu-title {

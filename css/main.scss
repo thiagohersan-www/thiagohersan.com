@@ -97,6 +97,12 @@ body {
   .menu-subtitle {
     padding-top: 4 * $MENU-ITEM-SPACING;
   }
+
+  .menu-year {
+    padding: 20px 0 4px;
+    border-bottom: 1px solid $TEXT-COLOR;
+    margin-bottom: 4px;
+  }
 }
 
 #navbar.menu-hide {
