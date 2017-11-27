@@ -136,12 +136,13 @@ body {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 
-  margin: $RESPONSIVE-SPACING auto;
+  margin: 3*$RESPONSIVE-SPACING auto;
 
   width: 100vw - 4 * $RESPONSIVE-SPACING;
 
   @include media-query(DESKTOP) {
-    width: 70vw - 2 * $RESPONSIVE-SPACING;    
+    width: 70vw - 2 * $RESPONSIVE-SPACING;
+    margin: $RESPONSIVE-SPACING auto;
   }
 }
 
@@ -184,18 +185,22 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-content: flex-start;
 }
 
 .list-item {
-  width: 30%;
+  width: 45%;
   position: relative;
   padding: 12px 0;
   overflow: hidden;
   filter: grayscale(1);
   transition: filter $TRANSITION-PERIOD linear;
-  
+
+  @include media-query(DESKTOP) {
+    width: 30%;
+  }
+
   &:hover {
     filter: grayscale(0);
     .list-title {
