@@ -2,8 +2,9 @@
 category: collaboration
 title: Kirlian Machine
 description: mystic apparatus
+swipebox: kirlian_
 ---
-![](/assets/projects/kirlian-machine/kirlian_draw.jpg)
+![](/assets/projects/kirlian-machine/kirlian-draw.jpg)
 
 While I was the technical coordinator at Marginalia+Lab, I got to work with artists/photographers Livia Chagas and Wemersom Machado on their project, *Auras*.
 
@@ -17,7 +18,7 @@ That meant building up a super high potential difference between two electrodes,
 
 Our first idea was to just use a neon sign transformer, but those are a little too expensive and hard to find in Belo Horizonte, so we set out to build our own high-voltage signal circuit using an automotive ignition coil. The first circuit we built was based on this schematic, that we found [here](http://wiki.4hv.org/index.php/Ignition_Coil), along with an explanation of how/why it works (the thing on the right is the coil):
 
-![](/assets/projects/kirlian-machine/Ignitioncoildimmer.jpg)
+![](/assets/projects/kirlian-machine/kirlian-ignitioncoildimmer.jpg)
 
 This worked pretty well, and we made some fun sparks with it, but since the signal is more or less coming straight from the wall, its current is still pretty high, and it does not feel nice to touch the high-voltage wires. It would be pretty hard (and painful) to use this to take electro-pictures of living things.
 
@@ -35,16 +36,6 @@ Here’s the circuit diagram for the final version of our Kirlian Machine. It is
 
 Here’s a picture of the circuit on a board. That huge white ceramic rectangle is the 20-watt resistor, and that big yellow thing to the right is the ignition coil:
 
-![](/assets/projects/kirlian-machine/kirlian_board.jpg)
+![](/assets/projects/kirlian-machine/kirlian-board.jpg)
 
-Now we could take pictures of our hands and fingers and other body parts without getting hurt:
-
-![](/assets/projects/kirlian-machine/kirlian0.jpg)
-
-![](/assets/projects/kirlian-machine/kirlian1.jpg)
-
-As well as plants and coins without starting fires:
-
-![](/assets/projects/kirlian-machine/kirlianPlant.jpg)
-
-![](/assets/projects/kirlian-machine/Coin.jpg)
+Now we could take pictures of our hands, fingers and other body parts without getting hurt, and of plants and coins without starting fires:
