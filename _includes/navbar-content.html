@@ -1,3 +1,13 @@
+<div class="menu-item-post-container">
+  <a class="menu-item menu-item-post" href="{{site.baseurl}}/projects/">
+    <i class="fa fa-hashtag" aria-hidden="true"></i>
+  </a>
+
+  <a class="menu-item menu-item-post" href="{{site.baseurl}}/collaborations/">
+    <i class="fa fa-heart" aria-hidden="true"></i>
+  </a>
+</div>
+
 {% assign projectPosts = site.posts | where:"category",include.category %}
 {% assign currentYear = "foo" %}
 

@@ -1,16 +1,16 @@
-<div id="navbar-mobile" class="nav-container">
-  <span id="show-menu" class="menu-icon" onclick="showMenu()">&#9776;</span>
+<div class="navbar-mobile">
+  <span class="menu-icon show-menu-icon" onclick="showMenu()">&#9776;</span>
   <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 </div>
 
 <div id="navbar">
-  <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
+  <div class="menu-icon hide-menu-icon" onclick="hideMenu()">✖</div>
   <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
   {% include navbar-content.html %}
 </div>
 
 <div id="navbar-desktop">
-  <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
+  <div class="menu-icon hide-menu-icon" onclick="hideMenu()">✖</div>
   <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
   {% include navbar-content.html %}
 </div>

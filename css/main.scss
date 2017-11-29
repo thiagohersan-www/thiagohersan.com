@@ -22,14 +22,14 @@ body {
   background-color: $BACKGROUND;
 }
 
-#navbar-mobile {
+.navbar-mobile {
   display: block;
   z-index: 10;
   position: relative;
   padding: $RESPONSIVE-SPACING 0 $RESPONSIVE-SPACING / 2;
   text-align: center;
 
-  #show-menu {
+  .show-menu-icon {
     position: absolute;
     left: 2 * $RESPONSIVE-SPACING;
     top: 0.5vw;
@@ -66,7 +66,7 @@ body {
     transition: none;
   }
 
-  #hide-menu {
+  .hide-menu-icon {
     display: block;
     position: absolute;
     top: $RESPONSIVE-SPACING / 2;
