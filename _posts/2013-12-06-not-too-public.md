@@ -22,6 +22,6 @@ Not Too Public provides an interface for passersby to interact with each other t
 
 ![](/assets/projects/not-too-public/ko_screen2.jpg)
 
-It's an ongoing collaboration with designer Ko Nakatsu, and partially supported by [The Great Wall of Oakland](http://greatwallofoakland.org/).
+It's an ongoing collaboration with designer Ko Nakatsu, and partially supported by [The Great Wall of Oakland](http://greatwallofoakland.org/){:target="_blank"}.
 
 ![](/assets/projects/not-too-public/ko_screen1.jpg)

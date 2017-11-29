@@ -27,7 +27,7 @@ During editing, an inaudible 20kHz signal is inserted in the audio track of the 
 
 This way, after the system is calibrated and working, the video can be changed without having to change anything in the machine or the Arduino. No text files have to be updated and no code has to be re-compiled.
 
-Using a whole Arduino to basically do what a [monostable 555 timer](http://en.wikipedia.org/wiki/555_timer_IC#Monostable) does, seems a little exaggerated, but since the project was developed by 3 different people, in 3 different cities, this was the safest and easiest way to have an adjustable trigger/synchronizer circuit whose signals could easily be adjusted/delayed in the millisecond range.
+Using a whole Arduino to basically do what a [monostable 555 timer](http://en.wikipedia.org/wiki/555_timer_IC#Monostable){:target="_blank"} does, seems a little exaggerated, but since the project was developed by 3 different people, in 3 different cities, this was the safest and easiest way to have an adjustable trigger/synchronizer circuit whose signals could easily be adjusted/delayed in the millisecond range.
 
 ![](/assets/projects/video-boleba/bolebaCircuitStill.jpg)
 

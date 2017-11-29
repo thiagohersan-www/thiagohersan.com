@@ -12,11 +12,9 @@ collab: https://www.radames.in/
 
 Interactive sculpture/installation, done in collaboration with Radamés Ajna, for the event Circuito Vivo arte.mov 2012 - São Paulo, in May of 2012.
 
-Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml)*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".
+Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml){:target="_blank"}*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".
 
 ![](/assets/projects/fofoque-me/fofocas.jpg)
-
-[[Super Interessante article about gossiping](http://super.abril.com.br/blogs/como-pessoas-funcionam/tag/fofoca/)]
 
 And then came facebook... and twitter... and other interfaces that (in my understanding) promote broadcasting communication instead of the "social grooming talk" that was seen as positive by the article.
 
@@ -29,7 +27,7 @@ Once we become solely concerned with sending (and "trending", "like-ing", etc), 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43057300" webkitallowfullscreen=""></iframe>
+  <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43057300" webkitallowfullscreen=""></iframe>
 </div>
 
 These messages are first passed through a series of cell phones before being broadcast through a megaphone and speech synthesis system. In addition to giving physicality to the message, these cell phones can also interfere with the message in their own way, adding a little bit of their personalities and anxieties.
@@ -37,11 +35,11 @@ These messages are first passed through a series of cell phones before being bro
 Since these broadcasts only exist for a short amount of time in a specific physical location, we hope they can promote a unique kind of "social grooming" that motivates physical interactions amongst participants.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43858648" webkitallowfullscreen=""></iframe>
+  <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43858648" webkitallowfullscreen=""></iframe>
 </div>
 
 The system uses custom software written for the Android platform to trigger the voice synthesis and an Arduino microcontroller that controls the physical interactions of the cell phones.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43282923" webkitallowfullscreen=""></iframe>
+  <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/43282923" webkitallowfullscreen=""></iframe>
 </div>

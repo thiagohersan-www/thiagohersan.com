@@ -22,7 +22,7 @@ Anyone who understands big data will agree that:
 </div>
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-This project is part of an ongoing [series](/project/ilikeme-on-facebook/ ) of web [applications](/project/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.
+This project is part of an ongoing [series](/ilikeme-on-facebook/ ) of web [applications](/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

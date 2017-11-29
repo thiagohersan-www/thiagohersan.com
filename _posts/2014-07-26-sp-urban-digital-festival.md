@@ -40,10 +40,10 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 </div>
 
 **Radamés Ajna**
-Brazilian multimedia artist with background in physics, mathematics and computation. Has worked as the coordinator for the interfaces lab at the **Museum of Image and Sound**, in São Paulo, and as a consultant for many media artists, designers, musicians, and architects, helping them create works with new technologies. As an educator, created the space **Hacklab.es**, teaching art and technology to students of various backgrounds. Was the recipient of a **[VIDA 15.0](http://vida.fundaciontelefonica.com/)** Production Incentive award from **Fundación Telefónica**, with Thiago Hersan.
+Brazilian multimedia artist with background in physics, mathematics and computation. Has worked as the coordinator for the interfaces lab at the **Museum of Image and Sound**, in São Paulo, and as a consultant for many media artists, designers, musicians, and architects, helping them create works with new technologies. As an educator, created the space **Hacklab.es**, teaching art and technology to students of various backgrounds. Was the recipient of a **[VIDA 15.0](http://vida.fundaciontelefonica.com/){:target="_blank"}** Production Incentive award from **Fundación Telefónica**, with Thiago Hersan.
 
 **Thiago Hersan**
-Oakland-based Brazilian. Used to design circuits for next-generation semiconductor manufacturing technologies. Interested in the interfaces and mediations inherent in human communication technologies. Currently working on interactive robotic toy design at **[BeatBots](http://beatbots.net/)** in San Francisco. Also a member of the art and design collective **[Astrovandalistas](http://astrovandalistas.cc/)**. Recently awarded an AiR residency at **[Autodesk](http://www.instructables.com/id/Pier-9-Machine-Catalog/)**, with Radamés Ajna.
+Oakland-based Brazilian. Used to design circuits for next-generation semiconductor manufacturing technologies. Interested in the interfaces and mediations inherent in human communication technologies. Currently working on interactive robotic toy design at **[BeatBots](http://beatbots.net/){:target="_blank"}** in San Francisco. Also a member of the art and design collective **[Astrovandalistas](http://astrovandalistas.cc/){:target="_blank"}**. Recently awarded an AiR residency at **[Autodesk](http://www.instructables.com/id/Pier-9-Machine-Catalog/){:target="_blank"}**, with Radamés Ajna.
 
 **Technical and Production Requirements**
 - Computer (mac or linux) to run an openFrameworks application
@@ -52,9 +52,9 @@ Oakland-based Brazilian. Used to design circuits for next-generation semiconduct
 - Mirror and tripod
 
 **Proposta Workshop**
-A oficina tem como objetivo introduzir conceitos básicos de programação criativa, desmistificar o processo de criação, e criar um outro canal de participação da audiência com a faixada. Serão apresentados conceitos básicos da linguagem de programação [Processing](http://processing.org/) voltada para o aprendizado de técnicas de manipulação de imagem.
+A oficina tem como objetivo introduzir conceitos básicos de programação criativa, desmistificar o processo de criação, e criar um outro canal de participação da audiência com a faixada. Serão apresentados conceitos básicos da linguagem de programação [Processing](http://processing.org/){:target="_blank"} voltada para o aprendizado de técnicas de manipulação de imagem.
 
-Serão **4 encontros** de **duas horas e meia** cada, durante a primeira semana do festival, para no máximo **10 pessoas**. Apesar de não ter pré-requisitos, pedimos aos participantes que tragam seus próprios computadores com a última versão do [Processing](http://processing.org/) instalada.
+Serão **4 encontros** de **duas horas e meia** cada, durante a primeira semana do festival, para no máximo **10 pessoas**. Apesar de não ter pré-requisitos, pedimos aos participantes que tragam seus próprios computadores com a última versão do [Processing](http://processing.org/){:target="_blank"} instalada.
 
 Durante o primeiro encontro vamos apresentar o nosso projeto, como ele dialoga com questões de comunicação, interatividade e arte no espaço público, e nossa interpretação do _afterimage_. Coletivamente, vamos discutir e propor outras possibilidades de _afterimage_ coletivos, embasadas em ilusões de ótica, halucinações e abstrações.
 

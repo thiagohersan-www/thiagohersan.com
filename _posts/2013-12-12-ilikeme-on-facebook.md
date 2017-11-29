@@ -14,18 +14,18 @@ Data is not just a part of today's commons, it's becoming its currency: literall
 
 iLikeMe (on facebook) is a self-promoting app and intervention platform for bumping someone's social-networking status.
 
-It uses a real-time [face tracking library](https://github.com/kylemcdonald/ofxFaceTracker) to generate exaggeratedly colored images in the style of Andy Warhol's silkscreens, that are then posted to facebook for 15 minutes straight, along with predictions about the future based on popular google searches.
+It uses a real-time [face tracking library](https://github.com/kylemcdonald/ofxFaceTracker){:target="_blank"} to generate exaggeratedly colored images in the style of Andy Warhol's silkscreens, that are then posted to facebook for 15 minutes straight, along with predictions about the future based on popular google searches.
 
 ![](/assets/projects/ilikeme-on-facebook/fb-lookBrazilian.png)
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="//player.vimeo.com/video/82536764" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe src="//player.vimeo.com/video/82536764" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 A short video showing the real-time Warhol effect:
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="//player.vimeo.com/video/82446848" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe src="//player.vimeo.com/video/82446848" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-This project is part of an ongoing [series](/project/ilikeyou-on-facebook/) of web [applications](/project/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.
+This project is part of an ongoing [series](/ilikeyou-on-facebook/) of web [applications](/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

@@ -10,13 +10,13 @@ While I was the technical coordinator at Marginalia+Lab, I got to work with arti
 
 Conceptually, the project makes reference to Walter Benjamin's use of the word "aura" to classify authenticity, and to the more mystical and pedestrian uses of the word "aura". Practically, we were trying to take picture of people's energy fields and other invisible phenomena.
 
-So we started by trying to replicate a process called electrophotography using a [Kirlian machine](http://en.wikipedia.org/wiki/Kirlian_photography). This is a way to capture images by ionizing moisture particles in the air around an object. Or... by exciting their aura.
+So we started by trying to replicate a process called electrophotography using a [Kirlian machine](http://en.wikipedia.org/wiki/Kirlian_photography){:target="_blank"}. This is a way to capture images by ionizing moisture particles in the air around an object. Or... by exciting their aura.
 
 One can read more about this process on wikipedia, but, basically, we needed to build a high-voltage, high-frequency, low-amperage signal generator that could be used to ionize stuff and glow.
 
 That meant building up a super high potential difference between two electrodes, of, say, 20,000 volts, and making sure this super high voltage was accompanied by super low current, so we didn’t kill anyone or anything.
 
-Our first idea was to just use a neon sign transformer, but those are a little too expensive and hard to find in Belo Horizonte, so we set out to build our own high-voltage signal circuit using an automotive ignition coil. The first circuit we built was based on this schematic, that we found [here](http://wiki.4hv.org/index.php/Ignition_Coil), along with an explanation of how/why it works (the thing on the right is the coil):
+Our first idea was to just use a neon sign transformer, but those are a little too expensive and hard to find in Belo Horizonte, so we set out to build our own high-voltage signal circuit using an automotive ignition coil. The first circuit we built was based on this schematic, that we found [here](http://wiki.4hv.org/index.php/Ignition_Coil){:target="_blank"}, along with an explanation of how/why it works (the thing on the right is the coil):
 
 ![](/assets/projects/kirlian-machine/kirlian-ignitioncoildimmer.jpg)
 

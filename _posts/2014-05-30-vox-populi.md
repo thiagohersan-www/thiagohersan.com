@@ -29,7 +29,7 @@ The project is grounded in the public demonstrations and protests that happened 
 
 Specifically, it plays with the ambiguities that arise when trying to define social behavior in dense urban areas, where everyday activities are already violent and chaotic.
 
-Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.org.br/multitude) exhibition at SESC Pompéia in São Paulo, and was developed in collaboration with Radamés Ajna during a residency at Autodesk.
+Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.org.br/multitude){:target="_blank"} exhibition at SESC Pompéia in São Paulo, and was developed in collaboration with Radamés Ajna during a residency at Autodesk.
 
 ![](/assets/projects/vox-populi/fofoque-me-vox-populi.jpg)
 

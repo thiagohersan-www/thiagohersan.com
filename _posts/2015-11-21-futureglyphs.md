@@ -10,7 +10,7 @@ astros: http://astrovandalistas.cc/futureglyphs/
 ---
 ![](/assets/projects/futureglyphs/alaser01.jpg)
 
-In November of 2015 we were part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68) exhibition at the Rubin Center for the Arts in El Paso. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of [laser-connected modems](/project/laser-chat-fronterizo/) on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
+In November of 2015 we were part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68){:target="_blank"} exhibition at the Rubin Center for the Arts in El Paso. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of [laser-connected modems](/laser-chat-fronterizo/) on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
 
 ![](/assets/projects/futureglyphs/scan00.jpg)
 

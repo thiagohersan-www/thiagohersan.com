@@ -10,11 +10,11 @@ collab: http://lessnullvoid.cc/
 ---
 ![](/assets/projects/pulsu-m-plantae-v-2/interface01.jpg)
 
-What a pleasure it was to work with [Leslie García](http://lessnullvoid.cc/) on the latest version of her (a)live installation, Pulsu(m) Plantae.
+What a pleasure it was to work with [Leslie García](http://lessnullvoid.cc/){:target="_blank"} on the latest version of her (a)live installation, Pulsu(m) Plantae.
 
 ![](/assets/projects/pulsu-m-plantae-v-2/plantae02.jpg)
 
-People have always pondered and conjectured about the subtle mechanisms that plants use to sense, communicate and fulfill their biological needs. Whether it's through [electric fields](http://www.scientificamerican.com/article.cfm?id=bumblebees-sense-electric-fields-in-flowers) or [ESP](https://en.wikipedia.org/wiki/Plant_perception_%28paranormal%29 ), these biological networks are mostly the result of specific physiological properties, making them imperceptible to our senses.
+People have always pondered and conjectured about the subtle mechanisms that plants use to sense, communicate and fulfill their biological needs. Whether it's through [electric fields](http://www.scientificamerican.com/article.cfm?id=bumblebees-sense-electric-fields-in-flowers){:target="_blank"} or [ESP](https://en.wikipedia.org/wiki/Plant_perception_%28paranormal%29){:target="_blank"}, these biological networks are mostly the result of specific physiological properties, making them imperceptible to our senses.
 
 In Pulsu(m) Plantae, Leslie uses different kinds of sensors to reveal some of these biological processes and expose the results of human-plant interactions.
 

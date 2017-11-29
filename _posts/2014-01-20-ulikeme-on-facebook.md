@@ -23,4 +23,4 @@ If this information is already available to the government, why not make it avai
     <iframe src="//player.vimeo.com/video/112552633" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-This project is part of an ongoing [series](/project/ilikeme-on-facebook/ ) of web [applications](/project/ilikeyou-on-facebook/) meant to explore different aspects of our technology-mediated interactions.
+This project is part of an ongoing [series](/ilikeme-on-facebook/ ) of web [applications](/ilikeyou-on-facebook/) meant to explore different aspects of our technology-mediated interactions.
