@@ -1,6 +1,6 @@
 ---
 category: draft
-title: SP_Urban Digital Festival 1.0
+title: "SP_Urban Digital Festival (draft)"
 description: public intervention
 ---
 **Motivations**

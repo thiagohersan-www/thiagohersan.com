@@ -33,20 +33,10 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 - every picture taken shows up on the façade, sometimes overexposed, blurred, distorted, and then fades out
 
 **Illustrative Example**
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_01.jpg)
-
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_07.jpg)
-
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_12.jpg)
-
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_11.jpg)
-
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_16.jpg)
-
-![](/assets/projects/sp-urban-digital-festival/FIESP00_tgh_14.jpg)
+{% include swipebox.html prefix="FIESP00_tgh_" %}
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="//player.vimeo.com/video/101879119" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe src="//player.vimeo.com/video/101879119" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 **Radamés Ajna**
