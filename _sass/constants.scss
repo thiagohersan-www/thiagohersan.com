@@ -22,11 +22,15 @@ $RESPONSIVE-SPACING: 2vw;
 $MENU-ITEM-SPACING: 4px;
 $MENU-WIDTH: 280px;
 
+$one_column: 2 * $MENU-WIDTH;
 $two_columns: 3 * $MENU-WIDTH;
 $three_columns: 4 * $MENU-WIDTH;
 
 @mixin media-query($canvas) {
-  @if $canvas == DESKTOP {
+  @if $canvas == SMALLPHONE {
+   @media only screen and (min-width: $one_column) { @content; }
+  }
+  @else if $canvas == DESKTOP {
    @media only screen and (min-width: $two_columns) { @content; }
   }
   @else if $canvas == LGDESKTOP {

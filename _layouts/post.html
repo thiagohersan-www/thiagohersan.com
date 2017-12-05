@@ -9,7 +9,11 @@
     <div class="main-div-container">
       {% include navbar.html %}
       <div class="main-div">
-        <div class="post">
+        {% assign homeContent = "" %}
+        {% if page.permalink == '/' %}
+          {% assign homeContent = "home-content" %}
+        {% endif %}
+        <div class="post {{ homeContent }}">
           {% unless page.permalink == '/' %}
             <div class="post-title">{{ page.title }}</div>
           {% endunless %}

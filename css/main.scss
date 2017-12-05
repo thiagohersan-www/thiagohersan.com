@@ -159,20 +159,23 @@ body {
 .post {
   display: block;
   position: relative;
+  width: 100%;
   box-sizing: border-box;
 
-  width: 100%;
-
-  @include media-query(DESKTOP) {
-    width: 90%;
-  }
-
-  padding: $RESPONSIVE-SPACING;
+  padding: 14px;
   margin: 0 auto;
   background-color: $TEXT-BACKGROUND;
 
   box-shadow: 8px 8px 32px $TEXT-COLOR;
   border-radius: 10px;
+
+  @include media-query(SMALLPHONE) {
+    padding: 2.2vw;
+  }
+  @include media-query(DESKTOP) {
+    width: 90%;
+    padding: $RESPONSIVE-SPACING;
+  }
 
   img {
     display: block;
@@ -180,6 +183,13 @@ body {
     max-width: 100%;
     max-height: 78vh;
     border-radius: 5px;
+  }
+}
+
+.home-content p {
+  text-align: center;
+  @include media-query(DESKTOP) {
+    text-align: inherit;
   }
 }
 
