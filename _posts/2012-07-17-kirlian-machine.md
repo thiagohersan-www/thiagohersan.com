@@ -22,7 +22,7 @@ Our first idea was to just use a neon sign transformer, but those are a little t
 
 This worked pretty well, and we made some fun sparks with it, but since the signal is more or less coming straight from the wall, its current is still pretty high, and it does not feel nice to touch the high-voltage wires. It would be pretty hard (and painful) to use this to take electro-pictures of living things.
 
-<div class="video-wrapper-small">
+<div class="video-wrapper-wrapper-small">
   <div class="video-wrapper video-wrapper-16x9">
     <iframe src="//www.youtube.com/embed/BvtqCPFPWos" frameborder="0" allowfullscreen></iframe>
   </div>
