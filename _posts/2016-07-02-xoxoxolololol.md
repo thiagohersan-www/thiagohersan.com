@@ -1,5 +1,5 @@
 ---
-category: draft
+category: project
 title: XOXOXOLOLOLOL
 description: installation, software and collective public intervention
 filters: 'filter-analog filter-internet'
