@@ -5,7 +5,7 @@ description: tecnoxamanic ritual and social reprogramming
 github: https://github.com/interspecifics/ProyectoLiquido
 vimeo: https://vimeo.com/178385468
 pics: https://www.flickr.com/photos/microhom/albums/72157670706506893
-www: http://interspecifics.cc/topologia/
+www: http://interspecifics.cc/work/topologies-of-desire-2016/
 collab: http://www.interspecifics.cc/
 ---
 ![](/assets/projects/topologias-del-deseo/topologia04.jpg)

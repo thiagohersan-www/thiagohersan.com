@@ -5,6 +5,7 @@ description: insterspecific installation
 github: https://github.com/interspecifics/micro-ritmos
 vimeo: https://vimeo.com/170066980
 pics: https://www.flickr.com/photos/microhom/albums/72157673924298176
+www: http://interspecifics.cc/work/geobacter-micropulse-2016/
 collab: http://www.interspecifics.cc/
 ---
 ![](/assets/projects/geobacter-micropulse/geobacter00.jpg)
