@@ -3,6 +3,8 @@ category: collaboration
 title: Os Que Chegam Com a Noite
 description: public intervention
 github: https://github.com/thiagohersan/osQueChegamComANoite
+vimeo: https://vimeo.com/70635175
+www: http://oqccan.pedroveneroso.com/
 collab: https://vimeo.com/cimarcelle/
 ---
 ![](/assets/projects/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg)
