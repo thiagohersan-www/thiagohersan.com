@@ -13,6 +13,15 @@ In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.
 
 The project was an installation/intervention that modified the behavior of the lights in a park in order to create unique spacial/temporal environments during the event’s duration. It also provided for an interesting visual experience because it switched the lights on and off intermittently in specific patterns.
 
+<video loop autoplay muted width="100%">
+  <source src="/assets/projects/os-que-chegam-com-a-noite/oqccan.webm" type="video/webm">
+  <source src="/assets/projects/os-que-chegam-com-a-noite/oqccan.mp4" type="video/mp4">
+</video>
+
+<p style="margin-top:-4px; font-size: 16px;" markdown="1">
+  fotos: <a href="http://pedroveneroso.com/" target="_blank" style="font-size: 16px;">Pedro Veneroso</a>
+</p>
+
 In order to do that, we had to build circuits that were capable of switching lights on and off based on signals coming from a microcontroller through an RF transmitter. The circuit is really quite simple, it consists of an atmega328 chip, a 434 MHz RF receiver and a relay. I helped prototype the receiver circuit, but Pedro Cimini was responsible for the final board design that we used. It looked something liked this:
 
 ![](/assets/projects/os-que-chegam-com-a-noite/osQueChegamCircuit.jpg)
