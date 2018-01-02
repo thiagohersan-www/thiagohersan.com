@@ -2,7 +2,6 @@
 category: draft
 title: Other Uses for (An)Other
 description: installation, parapoetics, non-human agency
-filters: 'filter-cellphone'
 ---
 ![](/assets/projects/other-uses-for-an-other/other-uses_00.jpg)
 

@@ -2,7 +2,7 @@
 category: project
 title: La Sonora Telemática
 description: collaborative installation
-filters: 'filter-astrovandalistas filter-public-spaces filter-megaphone'
+filters: 'filter-astrovandalistas filter-public-spaces'
 github: https://github.com/astrovandalistas/LaSonoraMontreal
 astros: http://astrovandalistas.cc/lasonora/
 ---

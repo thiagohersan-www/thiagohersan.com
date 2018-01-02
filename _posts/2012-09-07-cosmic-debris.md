@@ -2,6 +2,7 @@
 category: project
 title: Cosmic Debris
 description: performance/ritual
+filters: 'filter-analog'
 github: https://github.com/thiagohersan/cosmicDebrisOF
 vimeo: https://vimeo.com/46084655
 ---

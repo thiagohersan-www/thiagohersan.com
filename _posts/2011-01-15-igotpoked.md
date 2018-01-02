@@ -2,7 +2,7 @@
 category: project
 title: iGotPoked
 description: performance/collage
-filters: 'filter-analog filter-internet'
+filters: 'filter-analog'
 ---
 ![](/assets/projects/igotpoked/iGotPoked.png)
 

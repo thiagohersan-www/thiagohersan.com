@@ -2,7 +2,6 @@
 category: project
 title: iLikeYou (on facebook)
 description: online app
-filters: 'filter-internet'
 github: https://github.com/thiagohersan/iLikeYou
 vimeo: https://vimeo.com/83561856
 www: http://ilikeyou.thiagohersan.com/

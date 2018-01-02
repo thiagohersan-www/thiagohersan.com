@@ -2,7 +2,6 @@
 category: project
 title: uLikeMe (on facebook)
 description: online app
-filters: 'filter-internet'
 github: https://github.com/thiagohersan/uLikeMe
 vimeo: https://vimeo.com/112552633
 www: http://ulikeme.thiagohersan.com/
