@@ -6,9 +6,10 @@ github: https://github.com/thiagohersan/FullSpectrumCitizenry
 ---
 ![](/assets/projects/full-spectrum-citizenry/radio-diagram.png)
 
-The radio would be the finest possible communication apparatus in public life ... if it knew how to receive as well as to transmit, how to let the listener speak as well as hear, how to bring him into a relationship instead of isolating him. 
-
-Bertolt Brecht, 1932
+<div style="text-align:right;" markdown="1">
+  *The radio would be the finest possible communication apparatus in public life ... if it knew how to receive as well as to transmit, how to let the listener speak as well as hear, how to bring him into a relationship instead of isolating him.*  
+  -- Bertolt Brecht, 1932
+</div>
 
 Full-spectrum dominance, is a military entity's achievement of control over all dimensions of the battlespace, effectively possessing an overwhelming diversity of resources in such areas as terrestrial, aerial, maritime, subterranean, extraterrestrial, psychological, biological, or cyber-technological, in order to permit the conduct of joint operations without effective opposition or prohibitive interference.
 
