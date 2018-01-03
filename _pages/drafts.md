@@ -1,6 +1,7 @@
 ---
-layout: list
-permalink: '/drafts/'
 title: Drafts
+permalink: '/drafts/'
+layout: list
 description: drafts
+category: draft
 ---
