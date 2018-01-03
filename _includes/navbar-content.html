@@ -8,11 +8,16 @@
   </a>
 </div>
 
-{% assign projectPosts = site.posts | where:"category",include.category %}
-{% assign currentYear = "foo" %}
+{% assign menuCategories = "collaboration,project" | split: ',' %}
+
+{% if page.menu-categories %}
+  {% assign menuCategories = page.menu-categories %}
+{% endif %}
+
+{% assign currentYear = "" %}
 
 {% for post in site.posts %}
-  {% unless post.category == 'draft' %}
+  {% if menuCategories contains post.category %}
     {% assign postYear = post.date | date: "%Y" %}
     {% if postYear != currentYear %}
       <div class="menu-item menu-year">{{ postYear }}</div>
@@ -34,5 +39,5 @@
         {{ post.title }}
       </a>
     </div>
-  {% endunless %}
+  {% endif %}
 {% endfor %}
