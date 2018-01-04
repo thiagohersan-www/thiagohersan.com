@@ -6,7 +6,7 @@ filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/FullSpectrumCitizenry
 swipebox: radio_37
 ---
-![](/assets/projects/some-spectrum-dominance/diagram.png)
+![](/assets/projects/some-spectrum-dominance/diagram00.png)
 
 <div class="quote">
   The radio would be the finest possible communication apparatus in public life ... if it knew how to receive as well as to transmit, how to let the listeners speak as well as hear, how to bring them into relationships instead of isolating them.<br>
@@ -25,14 +25,13 @@ The project's title is a reference to the military concept of [full-spectrum dom
 
 ![](/assets/projects/some-spectrum-dominance/reports.jpg)
 
-Unlike full-spectrum dominance, Some Spectrum Dominance acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and then transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications.
+Unlike full-spectrum dominance, Some Spectrum Dominance acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and then transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications. It amplifies the ambiguities that arise when trying to define social behavior in dense urban areas, where everyday activities are already violent and chaotic.
 
-**(( --- insert drawing here --- ))**
+![](/assets/projects/some-spectrum-dominance/diagram01.jpg)
 
-**Give a short outline of the project you propose for the Impakt Works residency (150 words)**
-The project consists of a database of song lyrics whose grammatical structure will be pre-analyzed using neural network algorithms and used to train classifiers. Then, an online system will scrape twitter and other networking sites for messages of dissent and general discontent at a given location, and also use neural network algorithms to analyze the content and structure of these messages. Then, in a final stage, another program will combine the 2 kinds of data to make texts that have the structure of the songs, but words from the public messages.
+This particular system consists of a database of song lyrics whose grammatical structure has been analyzed and annoted using Part-of-Speech and sentiment classifiers. At the same time, twitter and other social networking sites are scraped for messages and hashtags voicing discontent, and their text is also analyzed using the Part-of-Speech and sentiment classifiers. Finally, custom software combines the tagged data to create texts that have the structure of the songs, but words from the public messages. These new songs are then "sung" by a modified Text-to-Speech system and broadcast by a small FM trasmitter hidden inside a radio.
 
-It is inspired by the public demonstrations that happened throughout Brazil in 2013, and the government's attempt to regulate the use of public spaces. Specifically, it plays with the ambiguities that arise when trying to define social behavior in dense urban areas, where everyday activities are already violent and chaotic.
+At the end, there are protests hidden within songs, and a transmitter hidden inside a receiver, much like a public manifestation can be disguised as a party.
 
 <div class="img-mp3-container" markdown="1">
   ![](/assets/projects/some-spectrum-dominance/radio_3775.jpg)
@@ -43,5 +42,3 @@ It is inspired by the public demonstrations that happened throughout Brazil in 2
   ![](/assets/projects/some-spectrum-dominance/radio_3781.jpg)
   <audio class="audio-player" controls src="/assets/projects/some-spectrum-dominance/tweet.tristeza.vox.mp3"></audio>
 </div>
-
-More specifically, Thiago developed a generative system that creates and transmits songs of protest. The project consists of a database of song lyrics whose grammatical structure has been analyzed and categorized, and an online system that scrapes Twitter and other social networking sites for messages of dissent and general discontent at a given location. Custom software is then used to combine these two kinds of data to make texts that use the structure of the songs, but have words from the public messages. These new songs are then sung out loud by text-to-speech synthesis systems and broadcast using a short-range FM transmitter.
