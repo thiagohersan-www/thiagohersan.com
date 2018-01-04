@@ -1,6 +1,6 @@
 ---
 category: draft
-title: Full Spectrum Citizenry
+title: Some Spectrum Domination
 description: public interference radio software
 filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/FullSpectrumCitizenry
