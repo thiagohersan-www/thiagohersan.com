@@ -10,9 +10,9 @@ collab: http://www.incubadoradeartistas.com.br/
 ---
 ![](/assets/projects/xoxoxolololol/envelope02.jpg)
 
-<div style="text-align:right;" markdown="1">
-  *Our Age of Anxiety is, in great part, the result of trying to do today's job with yesterday's tools and yesterday's concepts.*  
-  -- **Marshall McLuhan**
+<div class="quote">
+  Our Age of Anxiety is, in great part, the result of trying to do today's job with yesterday's tools and yesterday's concepts.<br>
+  <span class="quote-author">Marshall McLuhan</span>
 </div>
 
 XOXOXOLOLOLOL is a project of projects; an exploration into the possibilities of post-internet connection, communication and affection.

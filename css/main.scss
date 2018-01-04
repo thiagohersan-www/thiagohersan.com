@@ -185,8 +185,29 @@ body {
     border-radius: 5px;
   }
 
-  .audio-player {
-    width: 100%;
+  .quote {
+    text-align: right;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .quote-author {
+    font-style: normal;
+    font-weight: bold;
+  }
+  .quote-author::before {
+    content: "— ";
+  }
+
+  .img-mp3-container {
+    margin-bottom: 1em;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    .audio-player {
+      width: 100%;
+    }
   }
 
   h3 + p, h2 + p {

@@ -6,9 +6,9 @@ description: installation, parapoetics, non-human agency
 ![](/assets/projects/other-uses-for-an-other/other-uses_00.jpg)
 
 ### ART
-<div style="text-align:right;" markdown="1">
-  *If philosophy hasn't evolved ... it is because our language has remained the same and keeps seducing us into asking the same questions.*  
-  -- Ludwig Wittgenstein
+<div class="quote">
+  If philosophy hasn't evolved ... it is because our language has remained the same and keeps seducing us into asking the same questions.<br>
+  <span class="quote-author">Ludwig Wittgenstein</span>
 </div>
 
 Given the complex relationships that humans have nowadays with both “natural” systems (as evidenced by global warming), and engineered systems (internet as surveillance), how can we avoid the anthropocentric error of always measuring these articulations against the arbitrariness of human linguistic signs? Shouldn't we at least consider alternative modes of representation where the division between human and nonhuman agents don’t make as much sense as they used to?
@@ -20,9 +20,9 @@ The project challenges the notions of what it means to signify, and in what agen
 The project explores a different languages for revealing the desires, memories and inner conversations of objects, in an attempt to understand how they shape the construction of their own worlds, and in turn, ours.
 
 ### TECHNOLOGY
-<div style="text-align:right;" markdown="1">
-  *Our Age of Anxiety is, in great part, the result of trying to do today's jobs with yesterday's tools.*  
-  -- Marshall McLuhan
+<div class="quote">
+  Our Age of Anxiety is, in great part, the result of trying to do today's jobs with yesterday's tools.<br>
+  <span class="quote-author">Marshall McLuhan</span>
 </div>
 
 In the beginning of the 2000’s, many social psychologists were optimistic about the benefits of mobile communication. There was evidence that suggested that using mobile texting was actually promoting tighter social bonds in the [“fast-paced modern world”](http://www.sirc.org/publik/gossip.shtml){:target="_blank"}. And then came facebook, twitter... and other interfaces that promote incessant, unilateral broadcasting instead of the “social cultivation” that was seen as positive by the psychologists.
@@ -35,9 +35,9 @@ I used phones here as a metonym for the technologies explored by this project: t
 
 
 ### CULTURE
-<div style="text-align:right;" markdown="1">
-  *Not even the elite are aware of the biases of the media and technologies they are using to control everyone. That’s why they’re getting such unpredictable results.*  
-  -- Douglas Rushkoff (2011)
+<div class="quote">
+  Not even the elite are aware of the biases of the media and technologies they are using to control everyone. That’s why they’re getting such unpredictable results.<br>
+  <span class="quote-author">Douglas Rushkoff (2011)</span>
 </div>
 
 On one hand, this project is about the non-commonsensical metaphysics of speculative realism and other philosophies that favor non-anthropocentric ontologies and the belief that existence is not intrinsically correlated with human thought or perception.
