@@ -6,21 +6,21 @@ filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/FullSpectrumCitizenry
 swipebox: radio_37
 ---
-![](/assets/projects/full-spectrum-citizenry/diagram.png)
+![](/assets/projects/some-spectrum-domination/diagram.png)
 
 <div style="text-align:right;" markdown="1">
   *The radio would be the finest possible communication apparatus in public life ... if it knew how to receive as well as to transmit, how to let the listener speak as well as hear, how to bring him into a relationship instead of isolating him.*  
   -- Bertolt Brecht, 1932
 </div>
 
-![](/assets/projects/full-spectrum-citizenry/radio_3775.jpg)
-![](/assets/projects/full-spectrum-citizenry/radio_3781.jpg)
-![](/assets/projects/full-spectrum-citizenry/radio_3782.jpg)
+![](/assets/projects/some-spectrum-domination/radio_3775.jpg)
+![](/assets/projects/some-spectrum-domination/radio_3781.jpg)
+![](/assets/projects/some-spectrum-domination/radio_3782.jpg)
 
 Full-spectrum dominance, is a military entity's achievement of control over all dimensions of the battlespace, effectively possessing an overwhelming diversity of resources in such areas as terrestrial, aerial, maritime, subterranean, extraterrestrial, psychological, biological, or cyber-technological, in order to permit the conduct of joint operations without effective opposition or prohibitive interference.
 
-![](/assets/projects/full-spectrum-citizenry/reports.jpg)
-![](/assets/projects/full-spectrum-citizenry/fsd.jpg)
+![](/assets/projects/some-spectrum-domination/reports.jpg)
+![](/assets/projects/some-spectrum-domination/fsd.jpg)
 
 [Department of Defense Dictionary of Military and Associated Terms](http://www.dtic.mil/doctrine/new_pubs/jp1_02.pdf){:target="_blank"}
 
@@ -39,8 +39,8 @@ It is inspired by the public demonstrations that happened throughout Brazil in 2
 
 Like some previous work, this project addresses forms of resistance to established power and pre-established channels of legitimization. It asks how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to virtual communications.
 
-<audio class="audio-player" controls src="/assets/projects/full-spectrum-citizenry/tweet.homem.vox.mp3"></audio>
-<audio class="audio-player" controls src="/assets/projects/full-spectrum-citizenry/tweet.tristeza.vox.mp3"></audio>
+<audio class="audio-player" controls src="/assets/projects/some-spectrum-domination/tweet.homem.vox.mp3"></audio>
+<audio class="audio-player" controls src="/assets/projects/some-spectrum-domination/tweet.tristeza.vox.mp3"></audio>
 
 Thiago was a resident from late May until mid July of 2015, and during that time he further developed some tools and concepts for something he calls “Full Spectrum Citizenship”; a term he uses to describe different ways of occupying physical and virtual spaces using technology. More specifically, Thiago developed a generative system that creates and transmits songs of protest. The project consists of a database of song lyrics whose grammatical structure has been analyzed and categorized, and an online system that scrapes Twitter and other social networking sites for messages of dissent and general discontent at a given location. Custom software is then used to combine these two kinds of data to make texts that use the structure of the songs, but have words from the public messages. These new songs are then sung out loud by text-to-speech synthesis systems and broadcast using a short-range FM transmitter. Thiago spent his time developing the software for this system and experimenting with different kinds of transmitter circuits.
 
