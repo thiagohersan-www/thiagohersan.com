@@ -1,5 +1,5 @@
 ---
-category: draft
+category: project
 title: Some Spectrum Dominance
 description: public interference radio software
 filters: 'filter-public-spaces'
@@ -25,13 +25,13 @@ The project's title is a reference to the military concept of [full-spectrum dom
 
 ![](/assets/projects/some-spectrum-dominance/reports.jpg)
 
-Unlike full-spectrum dominance, Some Spectrum Dominance acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and then transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications. It amplifies the ambiguities that arise when trying to define social behavior in dense urban areas, where everyday activities are already violent and chaotic.
+Unlike full-spectrum dominance, Some Spectrum Dominance acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and then transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications.
 
 ![](/assets/projects/some-spectrum-dominance/diagram01.jpg)
 
 This particular system consists of a database of song lyrics whose grammatical structure has been analyzed and annoted using Part-of-Speech and sentiment classifiers. At the same time, twitter and other social networking sites are scraped for messages and hashtags voicing discontent, and their text is also analyzed using the Part-of-Speech and sentiment classifiers. Finally, custom software combines the tagged data to create texts that have the structure of the songs, but words from the public messages. These new songs are then "sung" by a modified Text-to-Speech system and broadcast by a small FM trasmitter hidden inside a radio.
 
-At the end, there are protests hidden within songs, and a transmitter hidden inside a receiver, much like a public manifestation can be disguised as a party.
+So in the end, there are protests hidden within songs, and a transmitter hidden inside a receiver.
 
 <div class="img-mp3-container" markdown="1">
   ![](/assets/projects/some-spectrum-dominance/radio_3775.jpg)
