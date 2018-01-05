@@ -33,6 +33,8 @@ This particular system consists of a database of song lyrics whose grammatical s
 
 So in the end, there are protests hidden within songs, and a transmitter hidden inside a receiver.
 
+For its first broadcast, the system used tweets and blog posts written during the 2013 manifestations in Brazil, along with MPB music.
+
 <div class="img-mp3-container" markdown="1">
   ![](/assets/projects/some-spectrum-dominance/radio_3775.jpg)
   <audio class="audio-player" controls src="/assets/projects/some-spectrum-dominance/tweet.homem.vox.mp3"></audio>
