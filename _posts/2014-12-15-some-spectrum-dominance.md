@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: Some Spectrum Dominance
 description: public interference radio software
 filters: 'filter-public-spaces'
