@@ -2,7 +2,7 @@
 category: project
 title: Facebukkake
 description: online performance
-swipebox: facebukkake_jpgs
+swipebox: facebukkake_
 ---
 ![](/assets/projects/facebukkake/tgh02.jpg)
 
