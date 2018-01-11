@@ -31,6 +31,8 @@ Unlike full-spectrum dominance, Spectrum Dominance Radio acts very locally, prom
 
 This particular system consists of a database of song lyrics whose grammatical structure has been analyzed and annoted using part-of-speech and sentiment classifiers. At the same time, twitter and other social networking sites are scraped for messages and hashtags expressing discontent, and their text is also analyzed using the part-of-speech and sentiment classifiers. Finally, custom software combines the tagged data to create texts that have the structure of the songs, but words from the public messages. These new songs are then "sung" by a modified Text-to-Speech system and broadcast by a small FM trasmitter hidden inside a radio.
 
+![](/assets/projects/spectrum-dominance-radio/radio_3774.jpg)
+
 So in the end, there are protests hidden within songs, and a transmitter hidden inside a receiver.
 
 For its first broadcast, the system used tweets and blog posts written during the 2013 manifestations in Brazil, along with MPB songs.
