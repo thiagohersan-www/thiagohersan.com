@@ -5,8 +5,9 @@ description: photography and installation
 filters: 'filter-astrovandalistas'
 github: https://github.com/thiagohersan/Fronteras
 astros: http://astrovandalistas.cc/imaginario/
+swipebox: fronteras_laser0
 ---
-![](/assets/projects/fronteras/laser00.jpg)
+![](/assets/projects/fronteras/fronteras_laser00.jpg)
 
 *Imaginario Inverso* is a project that began during a residency in the border region between the states of Chihuahua in Mexico, and Texas and New Mexico in the United States. In this region, the city of Juárez/El Paso marks where the border between the two countries is no longer defined by the Rio Bravo and instead is formed by straight lines running to the Pacific Ocean.
 
@@ -16,10 +17,11 @@ The desert region also houses the United States Air Force, the Karl G. Jansky Ve
 
 Of course, before all of this, well before, the region was already inhabited by indigenous peoples, such as the Suma, Rarámuri, Jumano and Tarahumara, and their technologies.
 
-*Fronteras* is a sculpture that celebrates and quesions our use of technology to demarcate territory, whether on the ground or outer space. It uses a laser pointer and a couple of motors to draw the US/Mexico border on a wall.
-
 ![](/assets/projects/fronteras/device00.jpg)
 
-![](/assets/projects/fronteras/laser01.jpg)
+*Fronteras* is a sculpture that celebrates and quesions our use of technology to demarcate territory, whether on the ground or outer space. It uses a laser pointer and a couple of motors to draw the US/Mexico border on a wall.
 
-![](/assets/projects/fronteras/laser02.jpg)
+<video loop autoplay muted width="100%">
+  <source src="/assets/projects/fronteras/fronteras_mov01.webm" type="video/webm">
+  <source src="/assets/projects/fronteras/fronteras_mov01.mp4" type="video/mp4">
+</video>
