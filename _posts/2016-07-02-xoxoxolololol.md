@@ -30,18 +30,14 @@ We then used alginate, silicone rubber and other analog materials to create obje
 
 Once we had our objects, we performed our network in a town plaza, implicating other objects, humans and animals in our communication rituals.
 
-![](/assets/projects/xoxoxolololol/workshop01.jpg)
-
-![](/assets/projects/xoxoxolololol/workshop04.jpg)
-
-![](/assets/projects/xoxoxolololol/workshop06.jpg)
+![](/assets/projects/xoxoxolololol/FATA2016_workshop01.jpg)
 
 <video loop autoplay muted width="100%">
-  <source src="/assets/projects/xoxoxolololol/workshop08.webm" type="video/webm">
-  <source src="/assets/projects/xoxoxolololol/workshop08.mp4" type="video/mp4">
+  <source src="/assets/projects/xoxoxolololol/movWorkshop08.webm" type="video/webm">
+  <source src="/assets/projects/xoxoxolololol/movWorkshop08.mp4" type="video/mp4">
 </video>
 
-![](/assets/projects/xoxoxolololol/workshop09.jpg)
+{% include swipebox.html prefix="FATA2016_workshop" %}
 
 ## Atibaia
 When invited to show the project, XOXOXOLOLOLOL became an exhibition inside an exhibition. In order to make visible the idea of a distributed affection network, I invited everyone who had been a part of the project so far to contribute to the installation.
@@ -50,20 +46,14 @@ It ended up becoming a space that explored the way we transfer, translate and tr
 
 The exhibition was made up of a couple of video and photography pieces, some of the objects from the workshop and the original mail art game, as well as documentation for the process.
 
-![](/assets/projects/xoxoxolololol/FATA00.jpg)
-
-![](/assets/projects/xoxoxolololol/FATA01.jpg)
+![](/assets/projects/xoxoxolololol/FATA2016_xoxolol00.jpg)
 
 <video loop autoplay muted width="100%">
-  <source src="/assets/projects/xoxoxolololol/FATA03.webm" type="video/webm">
-  <source src="/assets/projects/xoxoxolololol/FATA03.mp4" type="video/mp4">
+  <source src="/assets/projects/xoxoxolololol/movFATA03.webm" type="video/webm">
+  <source src="/assets/projects/xoxoxolololol/movFATA03.mp4" type="video/mp4">
 </video>
 
-![](/assets/projects/xoxoxolololol/FATA04.jpg)
-
-![](/assets/projects/xoxoxolololol/FATA06.jpg)
-
-![](/assets/projects/xoxoxolololol/FATA07.jpg)
+{% include swipebox.html prefix="FATA2016_xoxolol" %}
 
 <div class="video-wrapper video-wrapper-16x9">
   <iframe src="//player.vimeo.com/video/171869957?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
