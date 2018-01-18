@@ -21,7 +21,4 @@ A simple ritual for sharing angry messages with the world:
 6. Add return address (optional).
 7. Send, burn, burry or eat the letters.
 
-
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/98120021?byline=0&title=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+{% include vimeo.html id="98120021" %}

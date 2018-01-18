@@ -20,8 +20,6 @@ Anyone who understands big data will agree that:
   Much like real love, the amount of data you can actually ![](/assets/projects/ilikeyou-on-facebook/like.png) using this app is determined by the other person's privacy settings and how much they trust you.
 </div>
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="83561856" %}
 
 This project is part of an ongoing [series](/ilikeme-on-facebook/ ) of web [applications](/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

@@ -42,9 +42,7 @@ Once we had our objects, we performed our network in a town plaza, implicating o
 ## Atibaia
 When invited to show the project, XOXOXOLOLOLOL became an exhibition inside an exhibition. In order to make visible the idea of a distributed affection network, I invited everyone who had been a part of the project so far to contribute to the installation.
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/251641273?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="251641273" %}
 
 It ended up becoming a space that explored the way we transfer, translate and transform "things" (objects, ideas, feelings) over networks, and in the process blur the distinctions and relationships between actor/network, node/link, object/subject.
 
@@ -59,9 +57,7 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 
 {% include swipebox.html prefix="FATA2016_xoxolol" %}
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/171869957?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="171869957" %}
 
 ## Participants
 This would not have been possible without the participation of some very special people. From the people who received stamps in the mail, to the people who participated in the workshop, interacted with us in the plaza, contributed to the installation, travelled with stamps, helped produce videos, gave advice, documented... 

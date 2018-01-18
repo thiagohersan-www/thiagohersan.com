@@ -17,14 +17,10 @@ It uses a real-time [face tracking library](https://github.com/kylemcdonald/ofxF
 
 ![](/assets/projects/ilikeme-on-facebook/fb-lookBrazilian.png)
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/82536764" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="82536764" %}
 
 A short video showing the real-time Warhol effect:
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/82446848" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="82446848" %}
 
 This project is part of an ongoing [series](/ilikeyou-on-facebook/) of web [applications](/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

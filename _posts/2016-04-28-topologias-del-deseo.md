@@ -30,7 +30,4 @@ I was mostly responsible for writing scripts to turn the time-domain EEG data in
 
 ![](/assets/projects/topologias-del-deseo/topologia03.jpg)
 
-
-<div class="video-wrapper video-wrapper-16x9">
-    <iframe src="//player.vimeo.com/video/178385468?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="178385468" %}

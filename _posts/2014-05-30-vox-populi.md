@@ -33,6 +33,4 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 
 ![](/assets/projects/vox-populi/fofoque-me-vox-populi.jpg)
 
-<div class="video-wrapper">
-  <iframe src="//player.vimeo.com/video/98495273?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="98495273" %}

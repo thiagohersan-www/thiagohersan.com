@@ -29,4 +29,4 @@ This communication system with the future uses a laser cutter to engrave some of
 
 Once engraved, these stones are returned to construction sites, gentrifying neighborhoods, abandoned factories, unfinished public projects, and other contested zones on both sides of the border.
 
-{% include vimeo-16x9.html id="228727744" %}
+{% include vimeo.html id="228727744" %}

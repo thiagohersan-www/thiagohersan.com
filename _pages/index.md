@@ -5,9 +5,7 @@ github: https://github.com/thiagohersan
 vimeo: https://vimeo.com/thiagohersan
 email: 'thiago.hersan'
 ---
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/66541476?title=0&amp;portrait=0&amp;byline=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="66541476" %}
 
 [CMU+PDF](https://www.pdf.com/upload/File/Publications/Maximization_of_layout_printability.pdf){:target="_blank"} //
 [Marginalia+Lab](https://vimeo.com/marginalialab){:target="_blank"} //

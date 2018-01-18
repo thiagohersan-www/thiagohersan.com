@@ -35,9 +35,7 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 **Illustrative Example**
 {% include swipebox.html prefix="FIESP00_tgh_" %}
 
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/101879119" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+{% include vimeo.html id="101879119" %}
 
 **Radamés Ajna**
 Brazilian multimedia artist with background in physics, mathematics and computation. Has worked as the coordinator for the interfaces lab at the **Museum of Image and Sound**, in São Paulo, and as a consultant for many media artists, designers, musicians, and architects, helping them create works with new technologies. As an educator, created the space **Hacklab.es**, teaching art and technology to students of various backgrounds. Was the recipient of a **[VIDA 15.0](http://vida.fundaciontelefonica.com/){:target="_blank"}** Production Incentive award from **Fundación Telefónica**, with Thiago Hersan.

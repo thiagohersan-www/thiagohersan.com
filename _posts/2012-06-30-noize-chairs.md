@@ -7,9 +7,7 @@ vimeo: https://vimeo.com/45568573
 www: https://gutorequena.com/noize-1/
 collab: http://gutorequena.com.br/
 ---
-<div class="video-wrapper video-wrapper-16x9">
-  <iframe src="//player.vimeo.com/video/45568573" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
+{% include vimeo.html id="45568573" %}
 
 These chairs were the second project in a series of collaborations with [Estudio Guto Requena](http://www.gutorequena.com.br/){:target="_blank"} in the beginning of 2012, that combined sound, design and digital fabrication processes to create furniture and decorative objects. 
 
