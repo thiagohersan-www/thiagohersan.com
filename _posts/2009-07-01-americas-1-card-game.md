@@ -1,6 +1,6 @@
 ---
 category: project
-title: 'Americas #1 Card Game'
+title: "America's #1 Card Game"
 description: collage and public service
 filters: 'filter-analog'
 pics: https://www.flickr.com/photos/draw4/albums
