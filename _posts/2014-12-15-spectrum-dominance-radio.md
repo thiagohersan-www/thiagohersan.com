@@ -1,10 +1,10 @@
 ---
-category: draft
+category: project
 title: Spectrum Dominance Radio
 description: public interference radio software
 filters: 'filter-public-spaces'
-github: https://github.com/thiagohersan/FullSpectrumCitizenry
-swipebox: radio_37
+github: https://github.com/thiagohersan/SpectrumDominanceRadio
+collab: http://impakt.nl/
 ---
 ![](/assets/projects/spectrum-dominance-radio/diagram00.png)
 
@@ -25,7 +25,7 @@ The project's title is a reference to the military concept of [full-spectrum dom
 
 ![](/assets/projects/spectrum-dominance-radio/reports.jpg)
 
-Unlike full-spectrum dominance, Spectrum Dominance Radio acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications.
+As a reaction to full-spectrum dominance, Spectrum Dominance Radio acts very locally, promoting the occupation of different virtual spaces. It creates songs of protest by recontextualizing messages from social networking sites, and transmits them over analog radio waves. It explores how technology can be used to legitimize uses of public spaces, and if physical spaces can be used to resignify and give relevance to digital communications.
 
 ![](/assets/projects/spectrum-dominance-radio/diagram01.jpg)
 
@@ -33,16 +33,14 @@ This particular system consists of a database of song lyrics whose grammatical s
 
 ![](/assets/projects/spectrum-dominance-radio/radio_3774.jpg)
 
+{% include swipebox.html prefix="radio_37" %}
+
 So in the end, there are protests hidden within songs, and a transmitter hidden inside a receiver.
 
-For its first broadcast, the system used tweets and blog posts written during the 2013 manifestations in Brazil, along with MPB songs.
+For its first broadcast, the system used MPB songs, along with tweets and blog posts written during the 2013 manifestations in Brazil.
 
-<div class="img-mp3-container" markdown="1">
-  ![](/assets/projects/spectrum-dominance-radio/radio_3775.jpg)
-  <audio class="audio-player" controls src="/assets/projects/spectrum-dominance-radio/tweet.homem.vox.mp3"></audio>
-</div>
+{% include vimeo.html id="251810364" %}
 
-<div class="img-mp3-container" markdown="1">
-  ![](/assets/projects/spectrum-dominance-radio/radio_3781.jpg)
-  <audio class="audio-player" controls src="/assets/projects/spectrum-dominance-radio/tweet.tristeza.vox.mp3"></audio>
-</div>
+{% include vimeo.html id="251812165" %}
+
+This project was realized during an [Impakt Works Residency](http://impakt.nl/headquarters/works/impakt-artist-in-residence-2015/resident-artist-thiago-hersan/){:target="_blank"} at Impakt Headquarters, in Utrecht, Netherlands.
