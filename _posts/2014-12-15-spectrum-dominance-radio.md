@@ -4,6 +4,7 @@ title: Spectrum Dominance Radio
 description: public interference radio software
 filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/SpectrumDominanceRadio
+vimeo: https://vimeo.com/252647372
 collab: http://impakt.nl/
 ---
 ![](/assets/projects/spectrum-dominance-radio/diagram00.png)
