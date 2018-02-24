@@ -15,15 +15,4 @@
   {% include navbar-content.html %}
 </div>
 
-<script>
-  function showMenu() {
-    document.getElementById('navbar').classList.remove("menu-hide");
-    document.getElementById('navbar').classList.add("menu-show");
-  }
-
-  function hideMenu() {
-    document.getElementById('navbar').classList.remove("menu-show");
-    document.getElementById('navbar').classList.add("menu-hide");
-  }
-</script>
-
+<script src="{{ site.baseurl }}/js/navbar.js"></script>
