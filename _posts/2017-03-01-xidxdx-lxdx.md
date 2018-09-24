@@ -32,7 +32,7 @@ We begin the ritual by marking emotional points on a map -- places related to wh
 
 We are not suggesting that these glyphs -- the result of mathematical and mystical calculations -- be used as substitutes for words; merely that they serve as a tool that affords alternative readings of our personal, social and political relations.
 
-{% include swipebox.html prefix="cidade_lida" %}
+{% include swipebox.html prefix="cidade_lida1" %}
 
 ### Queer Lida
 The same system was used to create alternative readings of the [Cidade Queer Reader](http://www.edicoesaurora.com/cidade-queer-uma-leitora/){:targte="_blank"} publication. Rather than using affective points on a map, the software uses an algorithm to identify common themes between texts based on words, phrases and rhythms. Using these points in common, the algorithm draws paths of nonlinear interactions within the texts.
