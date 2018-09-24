@@ -17,7 +17,7 @@ Every day we find ourselves before symbols of this desterritoriality, usually in
 
 We can think of the city as a symbology that resembles these complex aspects of a culture’s language. For the British author and philosopher G. K. Chesterton, "The city is a chaos of conscious forces [...] There is no stone in the street, no brick in the wall that is not a deliberate symbol -- a message from some man, as much as if it were a telegram or a postcard -- a hieroglyph."
 
-![](/assets/projects/xidxdx-lxdx/cidade_lida06.jpg)
+![](/assets/projects/xidxdx-lxdx/cidade_lida01.jpg)
 
 The city is a simulacrum that communicates through physical, concrete morphemes, forming a language that is at once incomprehensible and unfamiliar. The city fires off messages transmitted through dynamic poems; drawn paths that form constellations of meanings in search of Others that might distinguish the morphological values of this language.
 
@@ -28,7 +28,7 @@ Xidxdx Lxdx is a system/ritual for representing and visualizing this post-human 
 
 We begin the ritual by marking emotional points on a map -- places related to what we are trying to read/understand/represent. These points represent a word, a sentence, a series of events, a routine, people or some other concept that manifests in the intra-actions between humans, the city and language. Next, [custom software](https://xidxdxlxdx.thiagohersan.com/){:target="_blank"} developed specifically for this project analyzes the markers and reveals a glyph.
 
-![](/assets/projects/xidxdx-lxdx/cidade_lida07.jpg)
+![](/assets/projects/xidxdx-lxdx/cidade_lida06.jpg)
 
 We are not suggesting that these glyphs -- the result of mathematical and mystical calculations -- be used as substitutes for words; merely that they serve as a tool that affords alternative readings of our personal, social and political relations.
 
