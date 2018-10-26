@@ -10,10 +10,6 @@
 
 {% assign menuCategories = "collaboration,project" | split: ',' %}
 
-{% if page.category %}
-  {% assign menuCategories = page.category | split: ',' %}
-{% endif %}
-
 {% assign currentYear = "" %}
 
 {% for post in site.posts %}
