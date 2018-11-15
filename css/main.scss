@@ -385,7 +385,7 @@ body {
   }
 }
 
-.social-footer {
+.fu-footer {
   display: -webkit-flex;
   display: flex;
   -webkit-justify-content: center;
@@ -393,7 +393,7 @@ body {
 
   margin: $VERTICAL-SECTION-SPACING 0;
 
-  .social-icon {
+  .fu-icon {
     padding: 0 $HORIZONTAL-ITEM-SPACING/2;
     @include media-query(TWO) {
       padding: 0 $HORIZONTAL-ITEM-SPACING;
