@@ -44,4 +44,6 @@ For its first broadcast, the system used MPB songs, along with tweets and blog p
 
 {% include vimeo.html id="251812165" %}
 
+{% comment %}
 This project was realized during an [Impakt Works Residency](http://impakt.nl/headquarters/works/impakt-artist-in-residence-2015/resident-artist-thiago-hersan/){:target="_blank"} at Impakt Headquarters, in Utrecht, Netherlands.
+{% endcomment %}
