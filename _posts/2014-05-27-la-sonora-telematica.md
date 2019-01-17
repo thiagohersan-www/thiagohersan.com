@@ -1,5 +1,5 @@
 ---
-category: project
+category: astrovandalistas
 title: La Sonora Telemática
 description: collaborative installation
 filters: 'filter-astrovandalistas filter-public-spaces'

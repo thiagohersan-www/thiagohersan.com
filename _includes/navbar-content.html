@@ -6,9 +6,13 @@
   <a class="menu-item menu-item-post" href="{{site.baseurl}}/collaborations/">
     <i class="fa fa-heart" aria-hidden="true"></i>
   </a>
+
+  <a class="menu-item menu-item-post" href="{{site.baseurl}}/astrovandalistas/">
+    <i class="fa fa-asterisk" aria-hidden="true"></i>
+  </a>
 </div>
 
-{% assign menuCategories = "collaboration,project" | split: ',' %}
+{% assign menuCategories = "collaboration,project,astrovandalistas" | split: ',' %}
 
 {% assign currentYear = "" %}
 
@@ -28,6 +32,10 @@
       {% elsif post.category == 'project' %}
         <a class="menu-item menu-item-post" href="{{site.baseurl}}/projects/">
           <i class="fa fa-hashtag" aria-hidden="true"></i>
+        </a>
+      {% elsif post.category == 'astrovandalistas' %}
+        <a class="menu-item menu-item-post" href="{{site.baseurl}}/astrovandalistas/">
+          <i class="fa fa-asterisk" aria-hidden="true"></i>
         </a>
       {% else %}
         <a class="menu-item menu-item-post" href="{{site.baseurl}}/projects/">

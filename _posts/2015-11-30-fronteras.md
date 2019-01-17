@@ -1,5 +1,5 @@
 ---
-category: project
+category: astrovandalistas
 title: "Imaginario Inverso: Fronteras"
 description: photography and installation
 filters: 'filter-astrovandalistas'

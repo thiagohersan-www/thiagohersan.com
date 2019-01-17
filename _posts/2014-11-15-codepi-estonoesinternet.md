@@ -1,5 +1,5 @@
 ---
-category: project
+category: astrovandalistas
 title: 'CoDEPI: #EstoNoEsInternet'
 description: intangible installation
 filters: 'filter-astrovandalistas filter-public-spaces'

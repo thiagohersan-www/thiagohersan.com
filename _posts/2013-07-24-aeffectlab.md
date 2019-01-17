@@ -1,5 +1,5 @@
 ---
-category: project
+category: astrovandalistas
 title: ÆffectLab
 description: affective communication framework
 filters: 'filter-astrovandalistas'

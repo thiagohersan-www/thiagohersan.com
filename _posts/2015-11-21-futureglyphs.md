@@ -1,12 +1,12 @@
 ---
-category: project
+category: astrovandalistas
 title: "Imaginario Inverso: Futureglyphs"
 description: interactive public installation and transborder land intervention
 filters: 'filter-astrovandalistas filter-analog filter-public-spaces'
 github: https://github.com/astrovandalistas/word_encoder
 vimeo: https://vimeo.com/228727744
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
-www: http://rubin.utep.edu/index.php/past1/68
+www: https://futureglyphs.astrovandalistas.cc/
 astros: http://astrovandalistas.cc/futureglyphs/
 ---
 ![](/assets/projects/futureglyphs/alaser01.jpg)

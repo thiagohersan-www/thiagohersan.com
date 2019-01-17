@@ -1,5 +1,5 @@
 ---
-category: project
+category: astrovandalistas
 title: "Imaginario Inverso: Laser Chat Fronterizo"
 description: interactive public installation and transborder intervention
 filters: 'filter-astrovandalistas'
