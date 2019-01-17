@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: Not Too Public
 description: interactive public installation/intervention
 filters: 'filter-public-spaces'
