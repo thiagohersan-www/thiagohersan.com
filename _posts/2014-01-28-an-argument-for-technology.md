@@ -1,5 +1,5 @@
 ---
-category: astrovandalistas
+category: draft
 title: An Argument For Technology
 description: installation
 filters: 'filter-astrovandalistas'
