@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: "America's #1 Card Game"
 description: collage and public service
 filters: 'filter-analog'

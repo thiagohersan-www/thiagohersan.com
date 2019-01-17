@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: Xidxdx Lxdx
 description: application, performance, text, publication
 github: https://github.com/thiagohersan/xidxdxlxdx.thiagohersan.com

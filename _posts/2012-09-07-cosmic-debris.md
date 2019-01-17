@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: Cosmic Debris
 description: performance/ritual
 filters: 'filter-analog'

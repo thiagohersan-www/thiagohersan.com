@@ -1,5 +1,5 @@
 ---
-category: collaboration
+category: draft
 title: Um jardim para Epicuro
 description: collaborative garden
 github: https://github.com/thiagohersan/JardimParaEpicuroProcessing/

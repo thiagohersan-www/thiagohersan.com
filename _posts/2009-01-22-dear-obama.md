@@ -1,5 +1,5 @@
 ---
-category: project
+category: draft
 title: 'Dear Obama, ...'
 description: performance/protest
 filters: 'filter-analog'
