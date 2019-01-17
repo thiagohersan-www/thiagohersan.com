@@ -11,7 +11,6 @@ email: 'thiago.hersan'
 [Marginalia+Lab](https://vimeo.com/marginalialab){:target="_blank"} //
 [Astrovandalistas](https://astrovandalistas.cc/){:target="_blank"} //
 [BeatBots](http://www.beatbots.net/){:target="_blank"} //
-[memememe](https://memememememememe.me/){:target="_blank"} //
 [FACTLab](https://fact.alab.space/){:target="_blank"} //
 [OLF](https://olf.alab.space/){:target="_blank"} //
 [Silo](https://silo.org.br/){:target="_blank"}
