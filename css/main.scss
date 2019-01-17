@@ -166,9 +166,6 @@ body {
   margin: 0 auto;
   background-color: $TEXT-BACKGROUND;
 
-  box-shadow: 8px 8px 32px $TEXT-COLOR;
-  border-radius: 10px;
-
   @include media-query(SMALLPHONE) {
     padding: 2.2vw;
   }
@@ -236,7 +233,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   box-sizing: border-box;
 }
 
