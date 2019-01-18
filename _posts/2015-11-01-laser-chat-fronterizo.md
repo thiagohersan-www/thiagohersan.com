@@ -46,3 +46,7 @@ In November of 2015 we showed a final version of the system in Juárez/El Paso, 
 ![](/assets/projects/laser-chat-fronterizo/rubin00.jpg)
 
 ![](/assets/projects/laser-chat-fronterizo/rubin01.jpg)
+
+![](/assets/projects/laser-chat-fronterizo/rubin02.jpg)
+
+![](/assets/projects/laser-chat-fronterizo/rubin03.jpg)
