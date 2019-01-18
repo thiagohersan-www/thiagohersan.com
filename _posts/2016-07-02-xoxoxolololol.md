@@ -57,6 +57,8 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 
 {% include swipebox.html prefix="FATA2016_xoxolol" %}
 
+![](/assets/projects/xoxoxolololol/rules.jpg)
+
 {% include vimeo.html id="171869957" %}
 
 ## Participants
