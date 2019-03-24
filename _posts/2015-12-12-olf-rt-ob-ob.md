@@ -1,5 +1,5 @@
 ---
-category: project
+category: collaboration
 title: "OLF's R&T + Ob_ & Ob_"
 description: reading group and exhibition
 filters: 'filter-analog'
