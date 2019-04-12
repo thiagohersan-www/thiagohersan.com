@@ -10,7 +10,9 @@ collab: http://www.delfinafoundation.com/
 
 The starting point for this research was the astrolabe. An ancient instrument used by Islamic astronomers from around 550 AD, the astrolabe was made up of elaborate sliding metal discs and pointers, which were aligned to celestial bodies in order to give answers to astronomical, astrological and religious questions. Later on, this early measuring device had its moment in European history. It proved invaluable in helping to propagate and teach Islamic geometry during The Renaissance, and then, during the European age of empires, it was instrumental in maritime “discovery” expeditions.
 
-Seeing the astrolabe as a technology that connected humans to a larger network of agents (stars), its function was that of a translator for some of the important questions of its time: harvest dates, prayer times, tidal cycles. The human, the astrolabe and the stars had to come up with answers by performing a ritual together. There was a sense of humility (at least in scale) in recognising that the human was only a part of this system.
+{% include swipebox.html prefix="astrolabe-project_1308" %}
+
+Recognizing the astrolabe as a network technology that connected humans to a larger network of agents (stars), its function was that of a translator for some of the important questions of its time: harvest dates, prayer times, tidal cycles. The human, the astrolabe and the stars had to come up with answers by performing a ritual together. There was a sense of humility (at least in scale) in recognising that the human was only a part of this system.
 
 {% include swipebox.html prefix="astrolabe-project_821" %}
 
