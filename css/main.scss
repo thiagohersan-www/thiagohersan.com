@@ -344,44 +344,6 @@ body {
   }
 }
 
-.filter-container {
-  display: none;
-
-  @include media-query(DESKTOP) {
-    display: flex;
-  }
-
-  flex-wrap: wrap;
-  justify-content: center;
-
-  margin-top: $LIST-SPACING/2;
-  margin-bottom: $LIST-SPACING*2;
-}
-
-.filter-button-text {
-  transition: opacity $TRANSITION-PERIOD linear;
-  opacity: 1;
-}
-
-.filter-active {
-  border-bottom: 3px solid $TEXT-COLOR;
-}
-
-.selector-button {
-  padding: 0 5px;
-  cursor: pointer;
-}
-
-.selector-button:hover {
-  .filter-button-text {
-    opacity: 0.5;
-  }
-
-  .filter-active {
-    opacity: 1;
-  }
-}
-
 .fu-footer {
   display: -webkit-flex;
   display: flex;
