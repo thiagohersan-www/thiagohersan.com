@@ -2,7 +2,6 @@
 category: collaboration
 title: "OLF's R&T + Ob_ & Ob_"
 description: reading group and exhibition
-filters: 'filter-analog'
 vimeo: https://vimeo.com/165095890
 pics: http://olf.alab.space/post/ob-ject-and-ob-serve/#swipebox-gallery
 www: http://olf.alab.space/

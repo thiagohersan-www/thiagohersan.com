@@ -1,8 +1,7 @@
 ---
 category: project
 title: Untitled Astrolabe Project
-description: sensitivity, hybridity, photography, antenna
-filters: 'filter-analog filter-public-spaces'
+description: sensitivity, hybridity, photography, antenna, astrolabe
 github: https://github.com/thiagohersan/gr-scan
 collab: http://www.delfinafoundation.com/
 ---

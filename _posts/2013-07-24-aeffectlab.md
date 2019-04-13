@@ -2,7 +2,6 @@
 category: astrovandalistas
 title: ÆffectLab
 description: affective communication framework
-filters: 'filter-astrovandalistas'
 github: https://github.com/astrovandalistas/AEffect-Lab
 vimeo: https://vimeo.com/77366588
 astros: http://astrovandalistas.cc/aeffect/

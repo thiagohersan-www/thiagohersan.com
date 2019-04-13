@@ -2,7 +2,6 @@
 category: project
 title: 'Fofoque-me: Vox Populi'
 description: communication system installation
-filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli
 vimeo: https://vimeo.com/98495273
 www: http://www.sescsp.org.br/multitude/

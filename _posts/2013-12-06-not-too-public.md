@@ -2,7 +2,6 @@
 category: draft
 title: Not Too Public
 description: interactive public installation/intervention
-filters: 'filter-public-spaces'
 github: https://github.com/thiagohersan/NotTooPublic
 collab: http://www.lo13.com/
 ---

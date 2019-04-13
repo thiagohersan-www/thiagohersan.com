@@ -2,7 +2,6 @@
 category: draft
 title: iGotPoked
 description: performance/collage
-filters: 'filter-analog'
 ---
 ![](/assets/projects/igotpoked/iGotPoked.png)
 
