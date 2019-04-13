@@ -33,8 +33,5 @@ Collection of UNO card decks that were created and distributed in the United Sta
 ### Valentine's Day 2007
 {% include swipebox.html prefix="VD_UNO" %}
 
-### CMU ECE
-{% include swipebox.html prefix="CMU_UNO" %}
-
 ### Heroes
 {% include swipebox.html prefix="Heroes_UNO" %}
