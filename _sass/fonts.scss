@@ -66,13 +66,22 @@ a, .email-icon {
 .post p > a {
   font: 900 $TEXT-SIZE-MOBILE $FAMILY-SANS;
   text-decoration: underline;
-  border-bottom: 2px solid $LINK-COLOR;
+  color: deeppink;
 
   @include media-query(DESKTOP) {
     font: 900 $TEXT-SIZE $FAMILY-SANS;
   }
+
   &:hover {
-    border-bottom: 2px solid $LINK-COLOR-HOVER;
+    color: pink;
+  }
+}
+
+.post .black-links p > a {
+  color: $LINK-COLOR;
+
+  &:hover {
+    color: $LINK-COLOR-HOVER;
   }
 }
 
