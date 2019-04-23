@@ -48,7 +48,7 @@ a, .email-icon {
   cursor: pointer;
   text-decoration: none;
   text-transform: uppercase;
-  transition: color $TRANSITION-PERIOD linear;
+  transition: all $TRANSITION-PERIOD linear;
 
   @include media-query(DESKTOP) {
     font: 900 $LINK-SIZE $FAMILY-SANS;
@@ -60,6 +60,19 @@ a, .email-icon {
 
   &:hover {
     color: $LINK-COLOR-HOVER;
+  }
+}
+
+.post p > a {
+  font: 900 $TEXT-SIZE-MOBILE $FAMILY-SANS;
+  text-decoration: underline;
+  border-bottom: 2px solid $LINK-COLOR;
+
+  @include media-query(DESKTOP) {
+    font: 900 $TEXT-SIZE $FAMILY-SANS;
+  }
+  &:hover {
+    border-bottom: 2px solid $LINK-COLOR-HOVER;
   }
 }
 
