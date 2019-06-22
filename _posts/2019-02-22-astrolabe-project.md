@@ -29,7 +29,7 @@ Given the complex relationships that humans have today with both “natural” s
 
 These are the lines of inquiry of this research: exploring and making explicit the complexities of these relationships (for now in the plane of electromagnetic communications), and creating ways to make these interactions between humans, nature, culture, objects and networks a little more significantly felt.
 
-Traditionally antennae shapes and sizes have been chosen in order to amplify specific wavelengths of electromagnetic signals and specific forms of transmissions (omni-directional vs. directional). If we think about this relationship between shape and wavelength from the point of view of already constituted antennae bodies, we can determine the frequencies and types of signals that resonate for objects of different shapes and sizes. Even though they are not consciously felt, we can determine which signals each body receives and amplifies, ignores and interferes.
+Traditionally, antennae shapes and sizes are chosen in order to amplify specific wavelengths of electromagnetic signals and specific forms of transmissions (omni-directional vs. directional). If we think about this relationship between shape and wavelength from the point of view of already constituted antennae bodies, we can determine the frequencies and types of signals that resonate for objects of different shapes and sizes. Even though they are not consciously felt, we can determine which signals each body receives and amplifies, ignores and interferes.
 
 {% include swipebox.html prefix="astrolabe-project_9" %}
 
