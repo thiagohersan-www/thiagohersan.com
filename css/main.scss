@@ -54,6 +54,7 @@ body {
 
   box-sizing: border-box;
   background-color: $MENU-BACKGROUND-COLOR;
+  background-image: $MENU-BACKGROUND-COLOR;
 
   @include media-query(DESKTOP) {
     position: relative;
@@ -244,7 +245,7 @@ body {
 .list-item {
   width: 45%;
   position: relative;
-  padding: 12px 2%;
+  margin: 12px 2%;
   overflow: hidden;
   filter: grayscale(1);
   transition: filter $TRANSITION-PERIOD linear;
@@ -252,7 +253,7 @@ body {
 
   @include media-query(DESKTOP) {
     width: 30%;
-    padding: 12px 1%;
+    margin: 12px 1%;
   }
 
   &:hover {

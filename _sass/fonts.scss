@@ -59,21 +59,21 @@ a, .email-icon {
   }
 
   &:hover {
-    color: $LINK-COLOR-HOVER;
+    color: $LINK-COLOR-POST-HOVER;
   }
 }
 
 .post p > a {
   font: 900 $TEXT-SIZE-MOBILE $FAMILY-SANS;
   text-decoration: underline;
-  color: deeppink;
+  color: $LINK-COLOR-POST;
 
   @include media-query(DESKTOP) {
     font: 900 $TEXT-SIZE $FAMILY-SANS;
   }
 
   &:hover {
-    color: pink;
+    color: $LINK-COLOR-POST-HOVER;
   }
 }
 
@@ -81,7 +81,7 @@ a, .email-icon {
   color: $LINK-COLOR;
 
   &:hover {
-    color: $LINK-COLOR-HOVER;
+    color: $LINK-COLOR-POST-HOVER;
   }
 }
 
@@ -147,7 +147,7 @@ a, .email-icon {
   transition: color $TRANSITION-PERIOD linear;
 
   &:hover {
-    color: $LINK-COLOR-HOVER;
+    color: $LINK-COLOR-POST-HOVER;
   }
 }
 
