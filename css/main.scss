@@ -161,11 +161,14 @@ body {
   display: block;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+
+  width: 100%;
+
   margin: 0 0;
+  padding: 3 * $RESPONSIVE-SPACING 1.5 * $RESPONSIVE-SPACING;
+
   background-color: $TEXT-BACKGROUND;
   background: $TEXT-BACKGROUND;
-
-  padding: 3 * $RESPONSIVE-SPACING 1.5 * $RESPONSIVE-SPACING;
 
   @include media-query(DESKTOP) {
     padding: $RESPONSIVE-SPACING 1.5 * $RESPONSIVE-SPACING;
@@ -181,12 +184,8 @@ body {
   padding: 14px;
   margin: 0 auto;
 
-  @include media-query(SMALLPHONE) {
-    padding: 2.2vw;
-  }
   @include media-query(DESKTOP) {
-    width: 90%;
-    padding: $RESPONSIVE-SPACING;
+    padding: $RESPONSIVE-SPACING 8%;
   }
 
   img {
