@@ -18,21 +18,22 @@ body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-
-  background-color: $BACKGROUND;
 }
 
 .navbar-mobile {
   display: block;
   z-index: 10;
   position: relative;
-  padding: $RESPONSIVE-SPACING 0 $RESPONSIVE-SPACING / 2;
+  padding: 2*$RESPONSIVE-SPACING 0 $RESPONSIVE-SPACING / 2;
   text-align: center;
+
+  background-color: $TEXT-BACKGROUND;
+  background: $TEXT-BACKGROUND;
 
   .show-menu-icon {
     position: absolute;
     left: 2 * $RESPONSIVE-SPACING;
-    top: 0.5vw;
+    top: 1.333 * $RESPONSIVE-SPACING;
   }
 
   @include media-query(DESKTOP) {
@@ -141,11 +142,18 @@ body {
 
 .main-div-container {
   width: 100%;
+  min-height: 100vh;
   padding: 0;
+
+  background-color: $TEXT-BACKGROUND;
+  background: $TEXT-BACKGROUND;
 
   @include media-query(DESKTOP) {
     display: flex;
     flex-direction: row;
+
+    background-color: $TRANSPARENT;
+    background: $TRANSPARENT;
   }
 }
 
@@ -153,14 +161,14 @@ body {
   display: block;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  margin: 0 0;
+  background-color: $TEXT-BACKGROUND;
+  background: $TEXT-BACKGROUND;
 
-  margin: 3*$RESPONSIVE-SPACING auto;
-
-  width: 100vw - 4 * $RESPONSIVE-SPACING;
+  padding: 3 * $RESPONSIVE-SPACING 1.5 * $RESPONSIVE-SPACING;
 
   @include media-query(DESKTOP) {
-    width: 70vw - 2 * $RESPONSIVE-SPACING;
-    margin: $RESPONSIVE-SPACING auto;
+    padding: $RESPONSIVE-SPACING 1.5 * $RESPONSIVE-SPACING;
   }
 }
 
@@ -172,7 +180,6 @@ body {
 
   padding: 14px;
   margin: 0 auto;
-  background-color: $TEXT-BACKGROUND;
 
   @include media-query(SMALLPHONE) {
     padding: 2.2vw;

@@ -1,5 +1,7 @@
 $BACKGROUND: #EFE2BA;
-$TEXT-BACKGROUND: $BACKGROUND;
+$TEXT-BACKGROUND: linear-gradient(to left, darken($BACKGROUND, 15%), $BACKGROUND);
+
+$TRANSPARENT: rgba(0,0,0,0);
 
 $TEXT-BASE: rgba(0,0,0,1);
 $TITLE-COLOR: lighten($TEXT-BASE, 10%);
