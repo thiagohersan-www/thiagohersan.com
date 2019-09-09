@@ -12,17 +12,8 @@ Collection of UNO card decks that were created and distributed in the United Sta
 ### Bailout
 {% include swipebox.html prefix="BailOut_UNO" %}
 
-### Barbie
-{% include swipebox.html prefix="Barbie_UNO" %}
-
-### USA
-{% include swipebox.html prefix="GodBlessAmerika_UNO" %}
-
 ### Not My Problem
 {% include swipebox.html prefix="NotMyProblem_UNO" %}
-
-### Red Scares
-{% include swipebox.html prefix="RedScare_UNO" %}
 
 ### Cut-up
 {% include swipebox.html prefix="CutUp_UNO" %}
