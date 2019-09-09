@@ -152,11 +152,8 @@ a, .email-icon {
 }
 
 .post {
-  text-align: justify;
+  text-align: left;
   line-height: 1.333;
-  @include media-query(DESKTOP) {
-    text-align: left;
-  }
 
   .post-title {
     font: bold $TITLE-SIZE-MOBILE $FAMILY-SANS;
