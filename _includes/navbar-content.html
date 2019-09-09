@@ -14,8 +14,9 @@
 </div>
 
 {% assign menuCategories = "collaboration,project,astrovandalistas" | split: ',' %}
+{% assign enableMenuCategories = false %}
 
-{% if page.category %}
+{% if enableMenuCategories and page.category %}
   {% assign menuCategories = page.category | split: ',' %}
 {% endif %}
 
