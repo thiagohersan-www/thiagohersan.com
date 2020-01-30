@@ -40,4 +40,4 @@ Traditionally, antennae shapes and sizes are chosen in order to amplify specific
 ---
 *This project was done in a residency at Delfina Foundation in January and February 2019.*
 
-*Many thanks to Karen Hoffmann, Moonjung Hwang and [Genietta Varsi Lari](https://www.geniettavarsi.com/){:target="_blank"} for their help in documenting this research.*
+*Many thanks to Moonjung Hwang and [Genietta Varsi Lari](https://www.geniettavarsi.com/){:target="_blank"} for their help in documenting this research.*
