@@ -30,7 +30,7 @@ Designed for the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio 
 
 <div style="height:64px"></div>
 ### Relative Intensity Collection™
-Designed during a residency at [ARE Holland](https://www.areholland.com/){:target="_blank"} in Enschede.
+<!-- Designed during a residency at [ARE Holland](https://www.areholland.com/){:target="_blank"} in Enschede. -->
 
 {% include swipebox.html prefix="antb-ri_" %}
 [Relative Intensity Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"}
