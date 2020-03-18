@@ -2,8 +2,9 @@
 category: project
 title: Untitled Astrolabe Project
 description: sensitivity, hybridity, photography, antenna, astrolabe
-github: https://github.com/thiagohersan/gr-scan
+github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/
+www: https://astrolabe.thiagohersan.com/
 ---
 ![](/assets/projects/astrolabe-project/astrolabe-project_8916.jpg)
 
