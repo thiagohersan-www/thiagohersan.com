@@ -6,28 +6,23 @@ $MENU-TITLE-SIZE: 1.1rem;
 $MENU-SUBTITLE-SIZE: 1.1rem;
 $MENU-ITEM-SIZE: 1rem;
 
-$TITLE-SIZE: 2.2vw;
-$TEXT-SIZE: 1.6vw;
-$LINK-SIZE: 1.7vw;
-
-$TITLE-SIZE-MOBILE: 1.5rem;
-$TEXT-SIZE-MOBILE: 1rem;
-$LINK-SIZE-MOBILE: 1rem;
+$TITLE-SIZE: 1.5rem;
+$TEXT-SIZE: 1rem;
+$LINK-SIZE: 1rem;
 
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 18px;
+  @include media-query(DESKTOP) {
+    font-size: 20px;
+  }
 }
 
 body {
-  font: normal $TEXT-SIZE-MOBILE $FAMILY-SANS;
+  font: normal $TEXT-SIZE $FAMILY-SANS;
   word-spacing: 3px;
   color: $TEXT-COLOR;
-
-  @include media-query(DESKTOP) {
-    font: normal $TEXT-SIZE $FAMILY-SANS;
-  }
 }
 
 strong {
@@ -43,16 +38,12 @@ s {
 }
 
 a, .email-icon {
-  font: 900 $LINK-SIZE-MOBILE $FAMILY-SANS;
+  font: 900 $LINK-SIZE $FAMILY-SANS;
   color: $LINK-COLOR;
   cursor: pointer;
   text-decoration: none;
   text-transform: uppercase;
   transition: all $TRANSITION-PERIOD linear;
-
-  @include media-query(DESKTOP) {
-    font: 900 $LINK-SIZE $FAMILY-SANS;
-  }
 
   &:visited {
     color: $LINK-COLOR-VISITED;
@@ -64,13 +55,9 @@ a, .email-icon {
 }
 
 .post p > a {
-  font: 900 $TEXT-SIZE-MOBILE $FAMILY-SANS;
+  font: 900 $TEXT-SIZE $FAMILY-SANS;
   text-decoration: underline;
   color: $LINK-COLOR-POST;
-
-  @include media-query(DESKTOP) {
-    font: 900 $TEXT-SIZE $FAMILY-SANS;
-  }
 
   &:hover {
     color: $LINK-COLOR-POST-HOVER;
@@ -91,10 +78,6 @@ a, .email-icon {
     font-weight: 900;
     color: $MENU-TEXT-COLOR;
     text-transform: none;
-
-    @include media-query(DESKTOP) {
-      font-size: $MENU-TITLE-SIZE;
-    }
 
     &:visited {
       color: $MENU-TEXT-COLOR;
@@ -133,9 +116,6 @@ a, .email-icon {
 
 .menu-title {
   font-size: $MENU-TITLE-SIZE;
-  @include media-query(DESKTOP) {
-    font-size: $MENU-TITLE-SIZE;
-  }
 }
 
 .menu-icon {
@@ -156,15 +136,10 @@ a, .email-icon {
   line-height: 1.333;
 
   .post-title {
-    font: bold $TITLE-SIZE-MOBILE $FAMILY-SANS;
+    font: bold $TITLE-SIZE $FAMILY-SANS;
     color: $TITLE-COLOR;
     text-transform: uppercase;
     text-align: center;
-
-    @include media-query(DESKTOP) {
-      font: bold $TITLE-SIZE $FAMILY-SANS;
-    }
-
   }
 }
 
