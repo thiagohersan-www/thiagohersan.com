@@ -3,6 +3,7 @@ category: project
 title: Algotypes
 description: sensitivity, hybridity, antenna, astrolabe, 2.4GHz
 github: https://github.com/thiagohersan/algotypes
+vimeo: https://vimeo.com/398714299
 www: https://astrolabe.thiagohersan.com/
 ---
 ![](/assets/projects/algotypes/algotypes_00.jpg)
@@ -18,3 +19,5 @@ Other than network names and some management packets, the pyramids can’t decod
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
 {% include swipebox.html prefix="algotypes_" %}
+
+{% include vimeo.html id="398714299" %}
