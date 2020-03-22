@@ -24,7 +24,7 @@ photos by: Felipe Gabriel (<a href="https://www.instagram.com/fgf0t/" target="_b
 
 <div style="height:64px"></div>
 ### Visualizing Worlds Collection™
-Designed for the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019.
+Designs inspired by the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019.
 
 {% include swipebox.html prefix="antb-vw_" %}
 
