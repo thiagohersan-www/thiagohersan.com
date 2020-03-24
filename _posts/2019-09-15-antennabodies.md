@@ -30,7 +30,8 @@ Designs inspired by the event <i>"Visualizações de Mundos"</i>, curated by [Cl
 
 <div style="height:64px"></div>
 ### Relative Intensity Collection™
+[Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"}
 <!-- Designed during a residency at [ARE Holland](https://www.areholland.com/){:target="_blank"} in Enschede. -->
 
 {% include swipebox.html prefix="antb-ri_" %}
-[Relative Intensity Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"}
+<!-- [Relative Intensity Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"} -->
