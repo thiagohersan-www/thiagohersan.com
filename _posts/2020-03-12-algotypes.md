@@ -20,4 +20,22 @@ Screens display information about the nearby WiFi networks showing network names
 
 {% include swipebox.html prefix="algotypes_" %}
 
+
+<br>
+Algorithms featured:
+
+0x00\. [Pseudo-Random Number Generator (using RC4)](https://en.wikipedia.org/wiki/RC4){:target="_blank"}  
+0x01\. [Fast Fourier Transform](https://en.wikipedia.org/wiki/Cooley–Tukey_FFT_algorithm){:target="_blank"}  
+0x02\. [Eigenvector and eigenvalues](https://en.wikipedia.org/wiki/Power_iteration){:target="_blank"}  
+0x08\. [Travelling Salesperson (using simulated annealing)](https://en.wikipedia.org/wiki/Simulated_annealing){:target="_blank"}  
+0x09\. [SHA3-512](https://keccak.team/keccak_specs_summary.html){:target="_blank"}  
+0x0A\. [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise){:target="_blank"}  
+0x0B\. [Tree Balancing (using Splay Trees)](https://en.wikipedia.org/wiki/Splay_tree){:target="_blank"}  
+0x0C\. [Matrix Inversion (using LU Decomposition)](https://en.wikipedia.org/wiki/LU_decomposition){:target="_blank"}  
+0x0F\. [JPEG Compression](http://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html){:target="_blank"}  
+0x10\. [Blockchain Proof-of-Work](https://en.bitcoin.it/wiki/Proof_of_work){:target="_blank"}  
+0x13\. [Primality Test and Generation](https://en.wikipedia.org/wiki/Primality_test){:target="_blank"}  
+0x15\. [PID Control](https://en.wikipedia.org/wiki/PID_controller){:target="_blank"}  
+
+
 {% include vimeo.html id="398714299" %}
