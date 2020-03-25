@@ -6,7 +6,7 @@ github: https://github.com/thiagohersan/algotypes
 vimeo: https://vimeo.com/398714299
 www: https://astrolabe.thiagohersan.com/
 ---
-![](/assets/projects/algotypes/algotypes_00.jpg)
+{% include vimeo.html id="400462133" %}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
 
