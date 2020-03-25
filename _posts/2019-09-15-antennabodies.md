@@ -15,7 +15,9 @@ These are collections of wearable antennas made of copper and brass pieces model
 
 Like the [Astrolabe](https://thiagohersan.com/astrolabe-project/), these antennas suggest a more embodied form of navigating a network. They are ontological machines for exploring the relationships between humans, nature, culture, objects and networks, and making their intra-actions a little more significantly felt.
 
-<div style="height:64px"></div>
+[Catalog](/assets/projects/antennabodies/antennabodies-web.pdf){:target="_blank"}
+
+<div style="height:16px"></div>
 ### Navigation Collection™
 Designed collectively and collaboratively during a workshop for the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019.
 
@@ -30,8 +32,7 @@ Designs inspired by the event <i>"Visualizações de Mundos"</i>, curated by [Cl
 
 <div style="height:64px"></div>
 ### Relative Intensity Collection™
-[Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"}
+<!-- [Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"} -->
 <!-- Designed during a residency at [ARE Holland](https://www.areholland.com/){:target="_blank"} in Enschede. -->
 
 {% include swipebox.html prefix="antb-ri_" %}
-<!-- [Relative Intensity Catalog](/assets/projects/antennabodies/relative-intensity-web.pdf){:target="_blank"} -->
