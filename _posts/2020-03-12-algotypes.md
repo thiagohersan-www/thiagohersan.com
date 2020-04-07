@@ -41,7 +41,7 @@ Algorithms featured:
 0x10\. [Blockchain Proof-of-Work](https://en.bitcoin.it/wiki/Proof_of_work){:target="_blank"}  
 0x11\. [Sine and Cosine (using CORDIC)](https://en.wikipedia.org/wiki/CORDIC){:target="_blank"}  
 0x13\. [Primality Test and Generation](https://en.wikipedia.org/wiki/Primality_test){:target="_blank"}  
-0x14\. [Dimensionality Reduction (using Hilbert curve](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.4165){:target="_blank"}  
+0x14\. [Dimensionality Reduction (using Hilbert curve)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.4165){:target="_blank"}  
 0x15\. [PID Control](https://en.wikipedia.org/wiki/PID_controller){:target="_blank"}  
 
 
