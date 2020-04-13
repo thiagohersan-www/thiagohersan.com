@@ -23,7 +23,7 @@ Screens display information about the nearby WiFi networks showing network names
 
 <br>
 Algorithms featured:
-<div class="code-list" markdown=1>
+<div class="code-list" markdown="1">
 0x00\. [Pseudo-Random Number Generator (using RC4)](https://en.wikipedia.org/wiki/RC4){:target="_blank"}  
 0x01\. [Fast Fourier Transform](https://en.wikipedia.org/wiki/Cooley–Tukey_FFT_algorithm){:target="_blank"}  
 0x02\. [PageRank (using eigenvalue power iteration)](https://en.wikipedia.org/wiki/Power_iteration){:target="_blank"}  
