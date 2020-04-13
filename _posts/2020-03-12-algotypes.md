@@ -23,7 +23,7 @@ Screens display information about the nearby WiFi networks showing network names
 
 <br>
 Algorithms featured:
-
+<div class="code-list" markdown=1>
 0x00\. [Pseudo-Random Number Generator (using RC4)](https://en.wikipedia.org/wiki/RC4){:target="_blank"}  
 0x01\. [Fast Fourier Transform](https://en.wikipedia.org/wiki/Cooley–Tukey_FFT_algorithm){:target="_blank"}  
 0x02\. [PageRank (using eigenvalue power iteration)](https://en.wikipedia.org/wiki/Power_iteration){:target="_blank"}  
@@ -46,6 +46,7 @@ Algorithms featured:
 0x13\. [Primality Test and Generation](https://en.wikipedia.org/wiki/Primality_test){:target="_blank"}  
 0x14\. [Dimensionality Reduction (using Hilbert curve)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.4165){:target="_blank"}  
 0x15\. [Travelling Salesperson (using simulated annealing)](https://en.wikipedia.org/wiki/Simulated_annealing){:target="_blank"}  
+</div>
 
 
 {% include vimeo.html id="398714299" %}
