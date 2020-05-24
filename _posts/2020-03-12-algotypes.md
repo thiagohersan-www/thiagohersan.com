@@ -5,6 +5,7 @@ description: sensitivity, hybridity, antenna, astrolabe, 2.4GHz
 github: https://github.com/thiagohersan/algotypes
 vimeo: https://vimeo.com/398714299
 www: https://astrolabe.thiagohersan.com/
+collab: https://outras.ml
 ---
 {% include vimeo.html id="400462133" %}
 
