@@ -14,7 +14,7 @@
 </div>
 
 {% assign menuCategories = "collaboration,project,astrovandalistas" | split: ',' %}
-{% assign enableMenuCategories = false %}
+{% assign enableMenuCategories = true %}
 
 {% if enableMenuCategories and page.category %}
   {% assign menuCategories = page.category | split: ',' %}
@@ -23,7 +23,13 @@
 {% assign currentYear = "" %}
 
 {% for post in site.posts %}
-  {% if menuCategories contains post.category %}
+  {% assign isAstroProject = 'false' %}
+  {% if post.category contains 'astrovandalistas' and menuCategories contains 'project' %}
+    {% assign isAstroProject = 'true' %}
+  {% endif %}
+
+  {% if menuCategories contains post.category or isAstroProject == 'true' %}
+
     {% assign postYear = post.date | date: "%Y" %}
     {% if postYear != currentYear %}
       <div class="menu-item menu-year">{{ postYear }}</div>
@@ -31,15 +37,15 @@
     {% endif %}
 
     <div class="menu-item-post-container">
-      {% if post.category == 'collaboration' %}
+      {% if post.category contains 'collaboration' %}
         <a class="menu-item menu-item-post" href="{{site.baseurl}}/collaborations/">
           <i class="fa fa-heart" aria-hidden="true"></i>
         </a>
-      {% elsif post.category == 'project' %}
+      {% elsif post.category contains 'project' %}
         <a class="menu-item menu-item-post" href="{{site.baseurl}}/projects/">
           <i class="fa fa-hashtag" aria-hidden="true"></i>
         </a>
-      {% elsif post.category == 'astrovandalistas' %}
+      {% elsif post.category contains 'astrovandalistas' %}
         <a class="menu-item menu-item-post" href="{{site.baseurl}}/astrovandalistas/">
           <i class="fa fa-asterisk" aria-hidden="true"></i>
         </a>

@@ -2,6 +2,6 @@
 title: Projects
 permalink: '/projects/'
 layout: list
-description: projects
+description: projects and astrovandalistas
 category: project
 ---
