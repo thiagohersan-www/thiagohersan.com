@@ -8,19 +8,14 @@
     <div class="main-div-container">
       {% include navbar.html %}
       <div class="main-div">
-        {% assign homeContent = "" %}
-        {% if page.permalink == '/' %}
-          {% assign homeContent = "home-content" %}
-        {% endif %}
-        <div class="post {{ homeContent }}">
-          {% unless page.permalink == '/' %}
-            <div class="post-title">{{ page.title }}</div>
-          {% endunless %}
+        <div class="post">
           <content>
-            {{ content }}
-            {% if page.swipebox %}
-              {% include swipebox.html prefix=page.swipebox %}
+            {% if page.permalink == '/' %}
+              {% include home-content.html %}
+            {% else %}
+              {% include post-content.html %}
             {% endif %}
+
             {% include social-footer.html %}
           </content>
         </div>

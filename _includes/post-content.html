@@ -1,0 +1,7 @@
+<div class="post-title">{{ page.title }}</div>
+
+{{ content }}
+
+{% if page.swipebox %}
+  {% include swipebox.html prefix=page.swipebox %}
+{% endif %}

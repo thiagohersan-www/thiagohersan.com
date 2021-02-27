@@ -226,13 +226,6 @@ body {
   }
 }
 
-.home-content p {
-  text-align: center;
-  @include media-query(DESKTOP) {
-    text-align: inherit;
-  }
-}
-
 .inline-image-container {
   margin-bottom: $VERTICAL-SECTION-SPACING/2;
   img {

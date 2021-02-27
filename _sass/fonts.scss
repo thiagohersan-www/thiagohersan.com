@@ -54,7 +54,8 @@ a, .email-icon {
   }
 }
 
-.post p > a {
+.post p > a,
+.post a.home-link {
   font: 900 $TEXT-SIZE $FAMILY-SANS;
   text-decoration: underline;
   color: $LINK-COLOR-POST;
@@ -64,7 +65,7 @@ a, .email-icon {
   }
 }
 
-.post .black-links p > a {
+.post a.home-link {
   color: $LINK-COLOR;
 
   &:hover {
