@@ -1,7 +1,6 @@
 ---
 category: project
 title: Untitled Astrolabe Project
-description: sensitivity, hybridity, photography, antenna, astrolabe
 github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/
 www: https://astrolabe.thiagohersan.com/

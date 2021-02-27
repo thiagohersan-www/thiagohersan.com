@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Geobacter Micropulse
-description: insterspecific installation
 github: https://github.com/interspecifics/micro-ritmos
 vimeo: https://vimeo.com/170066980
 pics: https://www.flickr.com/photos/microhom/albums/72157673924298176

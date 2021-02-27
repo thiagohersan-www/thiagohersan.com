@@ -1,7 +1,6 @@
 ---
 category: astrovandalistas
 title: 'CoDEPI: #EstoNoEsInternet'
-description: intangible installation
 github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/noesinternet/
 www: http://accionesterritoriales.blogspot.com.br/

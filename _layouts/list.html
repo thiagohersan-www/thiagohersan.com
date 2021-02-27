@@ -11,9 +11,13 @@
         <div class="post">
           <div class="post-title">{{ page.title }}</div>
           <div class="list-container">
+            {% assign list_category = page.title | downcase %}
+            {% if list_category contains 'projects' %}
+              {% assign list_category = list_category | append: ' astrovandalistas' %}
+            {% endif %}
+
             {% for post in site.posts %}
-              {% assign pagedescription = page.description | downcase %}
-              {% if pagedescription contains post.category %}
+              {% if list_category contains post.category %}
                 <div class="list-item">
                   <a href="{{ post.url }}">
                     {% assign postSlug = post.url | split: "/" | last %}

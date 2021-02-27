@@ -1,7 +1,6 @@
 ---
 category: draft
 title: SP_Urban Digital Festival
-description: public intervention
 ---
 **Title**
 0.25 FPS

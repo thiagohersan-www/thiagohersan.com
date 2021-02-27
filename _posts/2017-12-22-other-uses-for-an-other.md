@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Other Uses for (An)Other
-description: installation, parapoetics, non-human agency
 ---
 ![](/assets/projects/other-uses-for-an-other/other-uses_00.jpg)
 

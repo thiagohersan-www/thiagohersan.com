@@ -1,7 +1,6 @@
 ---
 category: astrovandalistas
 title: La Sonora Telemática
-description: collaborative installation
 github: https://github.com/astrovandalistas/LaSonoraTelematica
 astros: http://astrovandalistas.cc/lasonora/
 ---

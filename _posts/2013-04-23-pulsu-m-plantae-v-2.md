@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Pulsu(m) Plantae v.2
-description: installation
 github: https://github.com/Lessnullvoid/Pulsum-Plantae/
 vimeo: https://vimeo.com/62232734/
 pics: https://www.flickr.com/photos/microhom/sets/72157628012884348/

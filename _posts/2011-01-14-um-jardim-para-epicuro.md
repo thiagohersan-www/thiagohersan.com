@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Um jardim para Epicuro
-description: collaborative garden
 github: https://github.com/thiagohersan/JardimParaEpicuroProcessing/
 vimeo: https://vimeo.com/43560352/
 www: https://jardimeletronico.wordpress.com/

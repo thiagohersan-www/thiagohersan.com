@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Cosmic Debris
-description: performance/ritual
 github: https://github.com/thiagohersan/cosmicDebrisOF
 vimeo: https://vimeo.com/250676786
 ---

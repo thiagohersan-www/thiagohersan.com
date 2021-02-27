@@ -1,7 +1,6 @@
 ---
 category: draft
 title: 'Dear Obama, ...'
-description: performance/protest
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw
 collab: https://karhoff.wordpress.com/
 swipebox: dear-obama

@@ -1,7 +1,6 @@
 ---
 category: project
 title: "America's #1 Card Game"
-description: collage and public service
 pics: https://www.flickr.com/photos/draw4/albums
 www: https://drive.google.com/drive/folders/1hcfjRKOTuthkQeizNNcog7nMox_EpyLe?usp=sharing
 ---

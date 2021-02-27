@@ -1,7 +1,6 @@
 ---
 category: draft
 title: iGotPoked
-description: performance/collage
 ---
 ![](/assets/projects/igotpoked/iGotPoked.png)
 

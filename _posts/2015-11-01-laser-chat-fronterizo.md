@@ -1,7 +1,6 @@
 ---
 category: astrovandalistas
 title: "Imaginario Inverso: Laser Chat Fronterizo"
-description: interactive public installation and transborder intervention
 github: https://github.com/astrovandalistas/ImaginarioInverso
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: http://rubin.utep.edu/index.php/past1/68

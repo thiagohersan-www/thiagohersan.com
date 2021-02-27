@@ -1,7 +1,6 @@
 ---
 category: project
 title: Maximization of Printability by Extreme Regularity
-description: MS thesis in electrical engineering
 ---
 ![](/assets/projects/maximization-of-printability-by-extreme-regularity/22or25.jpg)
 

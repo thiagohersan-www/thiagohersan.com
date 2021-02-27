@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Not Too Public
-description: interactive public installation/intervention
 github: https://github.com/thiagohersan/NotTooPublic
 collab: http://www.lo13.com/
 ---

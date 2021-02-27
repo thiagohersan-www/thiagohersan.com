@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Os Que Chegam Com a Noite
-description: public intervention
 github: https://github.com/thiagohersan/osQueChegamComANoite
 vimeo: https://vimeo.com/70635175
 www: http://oqccan.pedroveneroso.com/

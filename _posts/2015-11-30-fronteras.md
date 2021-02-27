@@ -1,7 +1,6 @@
 ---
 category: astrovandalistas
 title: "Imaginario Inverso: Fronteras"
-description: photography and installation
 github: https://github.com/thiagohersan/Fronteras
 astros: http://astrovandalistas.cc/imaginario/
 swipebox: fronteras_laser0

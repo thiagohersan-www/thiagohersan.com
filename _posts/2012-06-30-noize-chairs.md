@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Nóize Chairs
-description: design object
 github: https://github.com/thiagohersan/NoizeChairsProcessing/
 vimeo: https://vimeo.com/45568573
 www: https://gutorequena.com/noize-1/

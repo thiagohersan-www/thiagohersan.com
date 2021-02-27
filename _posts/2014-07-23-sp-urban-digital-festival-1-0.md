@@ -1,7 +1,6 @@
 ---
 category: draft
 title: "SP_Urban Digital Festival (draft)"
-description: public intervention
 ---
 **Motivations**
 As we keep racing to make our communication devices better, faster and smaller, in an attempt to streamline our interactions, it is not hard to imagine a future where public space has been completely relegated to the virtual. A future where protests, celebrations, civic participation and public communication, all happen over apps and other kinds of standardized digital interfaces.

@@ -1,7 +1,6 @@
 ---
 category: project
 title: Antennabodies
-description: sensitivity, hybridity, antenna, astrolabe, wearable
 github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml

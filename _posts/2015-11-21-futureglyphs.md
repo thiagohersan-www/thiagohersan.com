@@ -1,7 +1,6 @@
 ---
 category: astrovandalistas
 title: "Imaginario Inverso: Futureglyphs"
-description: interactive public installation and transborder land intervention
 github: https://github.com/astrovandalistas/word_encoder
 vimeo: https://vimeo.com/228727744
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199

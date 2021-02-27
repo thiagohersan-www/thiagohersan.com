@@ -1,7 +1,6 @@
 ---
 category: project
 title: Angry Letters
-description: performance/ritual
 github: https://github.com/thiagohersan/AngryLetters
 vimeo: https://vimeo.com/98120021
 swipebox: angry-letters

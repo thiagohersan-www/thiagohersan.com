@@ -1,7 +1,6 @@
 ---
 category: project
 title: Fofoque-me
-description: public installation and communication system
 github: https://github.com/thiagohersan/Fofoqueme
 vimeo: https://vimeo.com/48852839
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508

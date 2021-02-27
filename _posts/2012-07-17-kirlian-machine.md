@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Kirlian Machine
-description: mystic apparatus
 swipebox: kirlian_
 ---
 ![](/assets/projects/kirlian-machine/kirlian-draw.jpg)

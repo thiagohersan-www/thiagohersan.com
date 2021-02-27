@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Video Boleba
-description: installation
 github: https://github.com/thiagohersan/videoBolebaArduino
 collab: https://www.youtube.com/user/CelinaPortella
 ---

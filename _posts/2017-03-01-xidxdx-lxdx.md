@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Xidxdx Lxdx
-description: application, performance, text, publication
 github: https://github.com/thiagohersan/xidxdxlxdx.thiagohersan.com
 www: https://xidxdxlxdx.thiagohersan.com/
 collab: http://www.lgdesviante.org/

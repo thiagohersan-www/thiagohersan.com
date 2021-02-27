@@ -1,7 +1,6 @@
 ---
 category: project
 title: iLikeMe (on facebook)
-description: online app
 github: https://github.com/thiagohersan/iLikeMe
 vimeo: https://vimeo.com/82536764
 ---

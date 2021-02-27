@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Facebukkake
-description: online performance
 swipebox: facebukkake_
 ---
 ![](/assets/projects/facebukkake/tgh02.jpg)
