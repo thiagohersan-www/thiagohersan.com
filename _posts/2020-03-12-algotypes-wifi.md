@@ -18,7 +18,7 @@ Other than network names and some management packets, the pyramids can’t decod
 
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
-{% include swipebox.html prefix="algotypes_" %}
+{% include swipebox.html prefix="algotypes-wifi_" %}
 
 
 <br>
