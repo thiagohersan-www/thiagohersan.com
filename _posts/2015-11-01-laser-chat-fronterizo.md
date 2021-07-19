@@ -23,28 +23,15 @@ As a practical manifestation of our experience, we decided to develop a communic
 
 We began developing the project in México, where we first showed a version of our chat system at the exhibition [ACCIONES TERRITORIALES](http://accionesterritoriales.blogspot.mx/){:target="_blank"} that took place in November of 2014, at Ex Teresa Arte Actual. Here, the laser only trasnmitted information about the use of the internal network we created for [#EstoNoEsInternet](/codepi-estonoesinternet/) from the balcony high above to the gallery where we project this data between images of saints.
 
-![](/assets/projects/laser-chat-fronterizo/exteresa00.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/exteresa03.jpg)
+{% include swipebox.html prefix="exteresa0" %}
 
 Then, in December of 2014 we further developed the laser modem during the [LABiC-MX](http://www.ciudadania20.org/labicmx/){:target="_blank"} event, where we implemented full duplex transmission and reception between two stations.
 
-![](/assets/projects/laser-chat-fronterizo/labic01.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/labic03.jpg)
+{% include swipebox.html prefix="labic0" %}
 
 In November of 2015 we showed a final version of the system in Juárez/El Paso, as part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68){:target="_blank"} exhibition at the Rubin Center for the Arts. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of laser-connected nodes on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
 
 {% include vimeo.html id="165527282" %}
 
-![](/assets/projects/laser-chat-fronterizo/fact01.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/fact02.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/rubin00.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/rubin01.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/rubin02.jpg)
-
-![](/assets/projects/laser-chat-fronterizo/rubin03.jpg)
+{% include swipebox.html prefix="fact0" %}
+{% include swipebox.html prefix="rubin0" %}
