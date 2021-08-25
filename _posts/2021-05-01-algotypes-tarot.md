@@ -15,6 +15,6 @@ Besides, algorithms are written by humans, and as a result, they contain the des
 
 Today, they are part of very complicated social systems, and, while their steps are predictable, their impact isn't. Instead of simply performing step-by-step instructions, algorithms have become performing entities that sort, select, evaluate, transform, and (re)produce, not only data, but worldviews.
 
-The possible representations, interpretations, and rereadings presented here are meant to facilitate potential connections between material, abstract, personal, political and social aspects of computation. It's a way to use the algorithmic as a form of mirror to amplify what is human within these logics.
+The possible representations, interpretations, and rereadings presented here are meant to facilitate potential connections between material, abstract, personal, political and social aspects of computation. It's a way to use the algorithmic as a kind of lens to amplify and surface what is concealed within these logics.
 
 {% include swipebox.html prefix="algotypes-tarot_" %}
