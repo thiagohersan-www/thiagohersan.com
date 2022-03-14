@@ -6,7 +6,8 @@ vimeo: https://vimeo.com/398714299
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 ---
-{% include vimeo.html id="400462133" %}
+<!-- {% include vimeo.html id="400462133" %} -->
+{% include vimeo.html id="398714299" %}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
 
@@ -48,5 +49,3 @@ Algorithms featured:
 0x15\. [PID Control](https://en.wikipedia.org/wiki/PID_controller){:target="_blank"}  
 </div>
 
-
-{% include vimeo.html id="398714299" %}
