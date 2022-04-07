@@ -17,7 +17,7 @@
 {% assign enableMenuCategories = true %}
 
 {% if enableMenuCategories and page.category %}
-  {% assign menuCategories = page.category | split: ',' %}
+  {% assign menuCategories = page.category | replace:'draft','project' | split: ',' %}
 {% endif %}
 
 {% assign currentYear = "" %}
