@@ -43,7 +43,7 @@ a, .email-icon {
   cursor: pointer;
   text-decoration: none;
   text-transform: uppercase;
-  transition: all $TRANSITION-PERIOD linear;
+  transition: color $TRANSITION-PERIOD linear;
 
   &:visited {
     color: $LINK-COLOR-VISITED;
