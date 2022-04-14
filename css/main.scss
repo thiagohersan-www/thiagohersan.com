@@ -162,17 +162,17 @@ body {
 }
 
 .list-item {
-  width: 45%;
+  width: 50%;
   position: relative;
-  margin: 12px 2%;
+  padding: 12px 2%;
   overflow: hidden;
   filter: grayscale(1);
   transition: filter $TRANSITION-PERIOD linear;
   box-sizing: border-box;
 
   @include media-query(DESKTOP) {
-    width: 30%;
-    margin: 12px 1%;
+    width: 33%;
+    padding: 12px 1%;
   }
 
   &:hover {
