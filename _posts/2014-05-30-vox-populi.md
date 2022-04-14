@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: 'Fofoque-me: Vox Populi'
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli
 vimeo: https://vimeo.com/98495273

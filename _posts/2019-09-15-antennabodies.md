@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: Antennabodies
 github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/

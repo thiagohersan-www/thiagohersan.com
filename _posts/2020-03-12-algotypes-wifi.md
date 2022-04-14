@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: Algotypes
 github: https://github.com/thiagohersan/algotypes
 vimeo: https://vimeo.com/398714299

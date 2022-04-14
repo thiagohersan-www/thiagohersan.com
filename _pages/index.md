@@ -2,7 +2,7 @@
 title: Thiago Hersan
 permalink: '/'
 layout: list
-categories: "project"
+categories: "feat"
 ---
 
 Artist. Researcher. Design-Technologist.

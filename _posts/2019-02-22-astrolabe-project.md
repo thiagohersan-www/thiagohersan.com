@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: Untitled Astrolabe Project
 github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/

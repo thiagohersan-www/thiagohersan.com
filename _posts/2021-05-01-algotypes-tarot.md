@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: Algotypes (tarot)
 github: https://github.com/thiagohersan/algotypes
 ---

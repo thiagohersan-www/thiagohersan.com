@@ -1,5 +1,5 @@
 ---
-category: project
+category: feat
 title: XOXOXOLOLOLOL
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
 vimeo: https://vimeo.com/251641273

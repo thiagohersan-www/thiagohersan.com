@@ -1,5 +1,5 @@
 ---
-category: astrovandalistas
+category: feat
 title: "Imaginario Inverso: Futureglyphs"
 github: https://github.com/astrovandalistas/word_encoder
 vimeo: https://vimeo.com/228727744
