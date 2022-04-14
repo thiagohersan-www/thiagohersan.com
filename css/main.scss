@@ -25,8 +25,12 @@ body {
   justify-content: space-between;
 
   width: 100%;
-  padding: 12px 20px;
+  padding: 12px 12px;
   box-sizing: border-box;
+
+  @include media-query(DESKTOP) {
+    padding: 12px 36px;
+  }
 
   .menu-items-container {
     display: flex;
@@ -218,11 +222,8 @@ body {
 .swipebox-gallery {
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-direction: row;
   flex-direction: row;
-  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: center;
   justify-content: center;
 
   .swipebox {
@@ -269,9 +270,7 @@ body {
 }
 
 .fu-footer {
-  display: -webkit-flex;
   display: flex;
-  -webkit-justify-content: center;
   justify-content: center;
 
   margin: $VERTICAL-SECTION-SPACING 0;

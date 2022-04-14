@@ -9,15 +9,15 @@
       {% include navbar.html %}
       <div class="main-div">
         <div class="post">
-          <content>
-            {% if page.permalink == '/about/' %}
-              {% include about-content.html %}
-            {% else %}
-              {% include post-content.html %}
-            {% endif %}
+          {% unless page.permalink == '/about/' %}
+            <div class="post-title">{{ page.title }} ({{ page.date | date: "%Y" }})</div>
+          {% endunless %}
+              
+          {{ content }}
 
-            {% include social-footer.html %}
-          </content>
+          {% if page.swipebox %}
+            {% include swipebox.html prefix=page.swipebox %}
+          {% endif %}
         </div>
       </div>
     </div>
