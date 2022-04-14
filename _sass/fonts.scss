@@ -73,66 +73,7 @@ a, .email-icon {
   }
 }
 
-#navbar, #navbar-desktop {
-  .menu-item {
-    font-size: $MENU-TITLE-SIZE;
-    font-weight: 900;
-    color: $MENU-TEXT-COLOR;
-    text-transform: none;
-
-    &:visited {
-      color: $MENU-TEXT-COLOR;
-    }
-
-    &:hover {
-      color: $MENU-TEXT-HOVER-COLOR;
-    }
-  }
-
-  .menu-subtitle {
-    font-size: $MENU-SUBTITLE-SIZE;
-    @include media-query(DESKTOP) {
-      font-size: $MENU-SUBTITLE-SIZE;
-    }
-
-    &:hover {
-      color: $MENU-TEXT-COLOR;
-    }
-  }
-
-  .menu-item-post {
-    font-size: $MENU-ITEM-SIZE;
-    font-weight: normal;
-    @include media-query(DESKTOP) {
-      font-size: $MENU-ITEM-SIZE;
-    }
-  }
-
-  .menu-year {
-    &:hover {
-      color: $MENU-TEXT-COLOR;
-    }
-  }
-}
-
-.menu-title {
-  font-size: $MENU-TITLE-SIZE;
-}
-
-.menu-icon {
-  font: 900 1.5rem $FAMILY-SANS;
-  color: $LINK-COLOR;
-  cursor: pointer;
-  text-decoration: none;
-  text-transform: uppercase;
-  transition: color $TRANSITION-PERIOD linear;
-
-  &:hover {
-    color: $LINK-COLOR-POST-HOVER;
-  }
-}
-
-.post {
+  .post {
   text-align: left;
   line-height: 1.333;
 

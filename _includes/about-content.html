@@ -1,0 +1,8 @@
+<div class="">
+  LA la la la
+</div>
+
+{% for link in site.data['home-links'] %}
+  <a class="home-link" href="{{ link.url }}" target="_blank">{{ link.title }}</a>
+  {% unless forloop.last %}//{% endunless %}
+{% endfor %}

@@ -20,123 +20,37 @@ body {
   min-height: 100vh;
 }
 
-.navbar-mobile {
+.menu {
+  left: 0;
   display: block;
-  z-index: 10;
-  position: relative;
-  padding: 2*$RESPONSIVE-SPACING 0 $RESPONSIVE-SPACING / 2;
-  text-align: center;
-
-  background-color: $TEXT-BACKGROUND;
-  background: $TEXT-BACKGROUND;
-
-  .show-menu-icon {
-    position: absolute;
-    left: 2 * $RESPONSIVE-SPACING;
-    top: 1.333 * $RESPONSIVE-SPACING;
-  }
-
-  @include media-query(DESKTOP) {
-    display: none;
-  }
-}
-
-#navbar, #navbar-desktop {
-  position: fixed;
-  overflow-y: scroll;
-  z-index: 20;
-
-  width: 100%;
-  height: 100%;
-  left: -100%;
-  top: 0;
-  padding: 2 * $RESPONSIVE-SPACING;
-  transition: left 0.5s linear;
-
-  box-sizing: border-box;
-  background-color: $MENU-BACKGROUND-COLOR;
-  background-image: $MENU-BACKGROUND-COLOR;
-
-  @include media-query(DESKTOP) {
-    position: relative;
-    overflow-y: visible;
-    left: 0;
-    display: block;
-    max-width: $MENU-WIDTH;
-    min-width: $MENU-WIDTH;
-    padding: $HORIZONTAL-ITEM-SPACING;
-    transition: none;
-  }
-
-  .hide-menu-icon {
-    display: block;
-    position: absolute;
-    top: $RESPONSIVE-SPACING / 2;
-    right: $RESPONSIVE-SPACING / 2;
-
-    @include media-query(DESKTOP) {
-      display: none;
-    }
-  }
+  max-width: $MENU-WIDTH;
+  min-width: $MENU-WIDTH;
+  padding: $HORIZONTAL-ITEM-SPACING;
+  transition: none;
 
   a {
     display: block;
-  }
+    font-weight: 100;
+    color: $MENU-TEXT-COLOR;
+    text-transform: none;
 
-  .menu-item {
-    padding: $LIST-SPACING/2 0;
-  }
+    &:visited {
+      color: $MENU-TEXT-COLOR;
+    }
 
-  .menu-title {
-    padding-bottom: 4 * $MENU-ITEM-SPACING;
-    display: none;
-
-    @include media-query(DESKTOP) {
-      display: inherit;
+    &:hover {
+      color: $MENU-TEXT-HOVER-COLOR;
     }
   }
 
-  .menu-subtitle {
-    padding-top: 4 * $MENU-ITEM-SPACING;
+  a.menu-item {
+    margin: $LIST-SPACING/2 0;
+    font-size: $MENU-ITEM-SIZE;
   }
 
-  .menu-item-post-container {
-    @include media-query(DESKTOP) {
-      line-height: 0.8;
-      padding-bottom: 10px;
-    }
-  }
-
-  .menu-item-post {
-    display: inline;
-  }
-
-  .menu-year {
-    padding: 20px 0 4px;
-    border-bottom: 1px solid $TEXT-COLOR;
-    margin-bottom: 4px;
-  }
-}
-
-#navbar.menu-hide {
-  left: -100%;
-}
-
-#navbar.menu-show {
-  left: 0;
-}
-
-#navbar {
-  display: block;
-  @include media-query(DESKTOP) {
-    display: none;
-  }
-}
-
-#navbar-desktop {
-  display: none;
-  @include media-query(DESKTOP) {
-    display: block;
+  a.menu-title {
+    margin-bottom: 4 * $MENU-ITEM-SPACING;
+    font-size: $MENU-TITLE-SIZE;
   }
 }
 

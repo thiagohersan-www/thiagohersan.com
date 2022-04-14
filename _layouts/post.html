@@ -10,8 +10,8 @@
       <div class="main-div">
         <div class="post">
           <content>
-            {% if page.permalink == '/' %}
-              {% include home-content.html %}
+            {% if page.permalink == '/about/' %}
+              {% include about-content.html %}
             {% else %}
               {% include post-content.html %}
             {% endif %}

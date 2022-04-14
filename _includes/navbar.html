@@ -1,18 +1,13 @@
-<div class="navbar-mobile">
-  <span class="menu-icon show-menu-icon">&#9776;</span>
-  <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-</div>
+<div class="menu">
+  <a class="menu-title" href="{{site.baseurl}}/">
+    {{ site.title }}
+  </a>
 
-<div id="navbar">
-  <div class="menu-icon hide-menu-icon">✖</div>
-  <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-  {% include navbar-content.html %}
-</div>
+  <a class="menu-item" href="{{site.baseurl}}/">
+    Projects
+  </a>
 
-<div id="navbar-desktop">
-  <div class="menu-icon hide-menu-icon">✖</div>
-  <a class="menu-item menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-  {% include navbar-content.html %}
+  <a class="menu-item" href="{{site.baseurl}}/about/">
+    About
+  </a>
 </div>
-
-<script src="{{ site.baseurl }}/js/navbar.js"></script>

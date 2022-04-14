@@ -1,8 +1,6 @@
 ---
 title: Thiago Hersan
 permalink: '/'
-github: https://github.com/thiagohersan
-vimeo: https://vimeo.com/thiagohersan
-email: 'thiago.hersan'
+layout: list
+category: projects
 ---
-Website of Thiago Hersan.
