@@ -9,30 +9,8 @@
       {% include navbar.html %}
       <div class="main-div">
         <div class="post">
-          <div class="list-container">
-            {% assign list_category = page.category | downcase %}
-            {% if list_category contains 'projects' %}
-              {% assign list_category = list_category | append: ' astrovandalistas' %}
-            {% endif %}
-
-            {% for post in site.posts %}
-              {% if list_category contains post.category %}
-                <div class="list-item">
-                  <a href="{{ post.url }}">
-                    {% assign postSlug = post.url | split: "/" | last %}
-                    {% for file in site.static_files %}
-                      {% if file.path contains postSlug %}
-                        {% assign postCover = site.baseurl | append: file.path %}
-                        {% break %}
-                      {% endif %}
-                    {% endfor %}
-                    <div class="list-image" style="background-image: url('{{ postCover }}');" alt="{{ post.title }}" title="{{ post.title }}"></div>
-                    <div class="list-title">{{ post.title }}</div>
-                  </a>
-                </div>
-              {% endif %}
-            {% endfor %}
-          </div>
+          {{ content }}
+          {% include project-list.html categories=page.categories %}
         </div>
       </div>
     </div>

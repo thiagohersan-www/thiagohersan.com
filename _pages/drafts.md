@@ -2,6 +2,6 @@
 title: Drafts
 permalink: '/drafts/'
 layout: list
-category: draft
+categories: "draft"
 ---
 Some project drafts, proposals, WiP, etc...

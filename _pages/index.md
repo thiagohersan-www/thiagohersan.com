@@ -2,5 +2,7 @@
 title: Thiago Hersan
 permalink: '/'
 layout: list
-category: projects
+categories: "project"
 ---
+
+Hello. Home.

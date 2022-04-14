@@ -2,6 +2,6 @@
 title: Collaborations
 permalink: '/collaborations/'
 layout: list
-category: collaboration
+categories: "collaboration"
 ---
 Latest collaborative projects.
