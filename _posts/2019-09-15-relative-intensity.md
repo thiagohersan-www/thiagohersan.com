@@ -15,24 +15,12 @@ These are collections of wearable antennas made of copper and brass pieces model
 
 Like the [Astrolabe]({{ site.baseurl }}/astrolabe-project/), these antennas suggest a more embodied form of navigating a network. They are ontological machines for exploring the relationships between humans, nature, culture, objects and networks, and making their intra-actions a little more significantly felt.
 
-[Catalog]({{ site.baseurl }}/assets/projects/relative-intensity/relative-intensity-web.pdf){:target="_blank"}
+<!-- 
+### Visualizing Worlds
+Designed collectively and collaboratively during a workshop for the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019. photos by: Felipe Gabriel (<a href="https://www.instagram.com/fgf0t/" target="_blank">@fgf0t</a>)
 
-<div style="height:16px"></div>
-### Navigation Collection™
-Designed collectively and collaboratively during a workshop for the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019.
-
-{% include swipebox.html prefix="antb-rb_" %}
-photos by: Felipe Gabriel (<a href="https://www.instagram.com/fgf0t/" target="_blank">@fgf0t</a>)
-
-<div style="height:64px"></div>
-### Visualizing Worlds Collection™
-Designs inspired by the event <i>"Visualizações de Mundos"</i>, curated by [Cláudio Bueno](http://buenozdiaz.net/){:target="_blank"} in São Paulo, September 2019.
+{% include swipebox.html prefix="antb-rb_" %} -->
 
 {% include swipebox.html prefix="antb-vw_" %}
-
-<div style="height:64px"></div>
-### Relative Intensity Collection™
-[Catalog]({{ site.baseurl }}/assets/projects/relative-intensity/relative-intensity-web.pdf){:target="_blank"}  
-Designed during a residency at [ARE Holland](https://www.areholland.com/){:target="_blank"} in Enschede.
 
 {% include swipebox.html prefix="antb-ri_" %}
