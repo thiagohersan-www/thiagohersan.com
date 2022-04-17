@@ -4,11 +4,7 @@ title: Facebukkake
 ---
 ![](/assets/projects/facebukkake/tgh02.jpg)
 
-If you don't know what *bukkake* is, don't look it up. Specially not on google images. All you need to know is that it's japanese for *[e pluribus unum](http://en.wikipedia.org/wiki/E_pluribus_unum){:target="_blank"}*, or, "from many, to one".
-
-Oh! you looked it up? Way to go!
-
-Anyway. This was a performance of sorts that took place on a popular social networking site during the week of my 29th birthday.
+This was a performance of sorts that took place on a popular social networking site during the week of my 29th birthday.
 
 I tried to investigate the relationship I have with my own image, and notions of self-representation by creating multiple accounts on a popular social-networking site, and then allowing different people to log into my accounts to augment/alter my personality.
 

@@ -1,5 +1,5 @@
 ---
-category: draft
+category: collaboration
 title: Cosmic Debris
 github: https://github.com/thiagohersan/cosmicDebrisOF
 ---

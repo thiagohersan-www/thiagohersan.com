@@ -22,7 +22,7 @@ Participants will be able to walk in front of the camera and have their picture 
 Another way for the public to be involved with the project is through a workshop that we would like to host during the first week of the festival. During the workshop, participants will learn enough programming to be able to design their own filters and image effects, which will get incorporated into the installation.
 
 **Urban Digital Art**  
-On the one hand, this project can be seen as a minimalist sculpture and site-specific installation made up of a camera, a mirror and a building, where the building’s narcissistic tendencies reflect our own desires for self-promotion and self-importance accelerated and propagated by technology. On the other hand, the work is an open platform that invites direct participation and creates an opportunity for playfulness, social interaction and collective communication through the use of a simple interface that nonetheless transforms and reinterprets our urban landscape.
+As a public art intervention, this project is a kind of homage to other forms of technology-mediated communications, like architecture and photography. On the one hand, this project can be seen as a minimalist sculpture and site-specific installation made up of a camera, a mirror and a building, where the building’s narcissistic tendencies reflect our own desires for self-promotion and self-importance accelerated and propagated by technology. On the other hand, the work is an open platform that invites direct participation and creates an opportunity for playfulness, social interaction and collective communication through the use of a simple interface that nonetheless transforms and reinterprets our urban landscape. It is an experience, without being a spectacle.
 
 **Summary**
 - we’re proposing to install a camera and a mirror in the area in front of the building
@@ -33,8 +33,6 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 
 **Illustrative Example**
 {% include swipebox.html prefix="FIESP00_tgh_" %}
-
-{% include vimeo.html id="101879119" %}
 
 **Radamés Ajna**
 Brazilian multimedia artist with background in physics, mathematics and computation. Has worked as the coordinator for the interfaces lab at the **Museum of Image and Sound**, in São Paulo, and as a consultant for many media artists, designers, musicians, and architects, helping them create works with new technologies. As an educator, created the space **Hacklab.es**, teaching art and technology to students of various backgrounds. Was the recipient of a **[VIDA 15.0](http://vida.fundaciontelefonica.com/){:target="_blank"}** Production Incentive award from **Fundación Telefónica**, with Thiago Hersan.
