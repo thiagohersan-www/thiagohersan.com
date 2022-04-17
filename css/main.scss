@@ -2,21 +2,52 @@
 ---
 
 @import 'constants';
-@import 'fonts';
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  @include media-query(DESKTOP) {
+    font-size: 20px;
+  }
+}
 
 body {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-
-  @include media-query(DESKTOP) {
-    flex-direction: row;
-  }
-
   margin: 0;
   padding: 0;
   min-height: 100vh;
+
+  font: 400 $TEXT-SIZE $FAMILY-SANS;
+  word-spacing: 3px;
+  color: $TEXT-COLOR;
+}
+
+a {
+  font: 600 $LINK-SIZE $FAMILY-SANS;
+  color: $LINK-COLOR;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color $TRANSITION-PERIOD linear;
+
+  &:visited {
+    color: $LINK-COLOR-VISITED;
+  }
+
+  &:hover {
+    color: $LINK-COLOR-POST-HOVER;
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+s {
+  text-decoration: line-through;
 }
 
 .menu {
@@ -26,7 +57,7 @@ body {
 
   width: 100%;
   margin: 0 auto;
-  padding: 12px 0;
+  padding: 12px;
   box-sizing: border-box;
 
   @include media-query(DESKTOP) {
@@ -42,7 +73,7 @@ body {
 
   a {
     display: block;
-    font-weight: 100;
+    font: 200 $LINK-SIZE $FAMILY-SANS;
     color: $MENU-TEXT-COLOR;
     text-transform: none;
 
@@ -100,8 +131,21 @@ body {
   margin: 0 auto 20px;
   padding: 0;
 
+  text-align: left;
+  line-height: 1.5;
+
   @include media-query(DESKTOP) {
     max-width: 800px;
+  }
+
+  .post-title {
+    font: 200 $TITLE-SIZE $FAMILY-SANS;
+    color: $TITLE-COLOR;
+    text-align: center;
+  }
+
+  .code-list {
+    font-family: monospace;
   }
 
   img {
@@ -117,21 +161,10 @@ body {
     margin-bottom: 2vw;
     font-style: italic;
   }
+
   .quote-author {
-    font-weight: bold;
+    font-weight: 600;
     padding-top: 0.8vw;
-  }
-
-  .img-mp3-container {
-    margin-bottom: 1em;
-
-    p {
-      margin-bottom: 0;
-    }
-
-    .audio-player {
-      width: 100%;
-    }
   }
 
   h3 + p, h2 + p {
@@ -148,6 +181,15 @@ body {
     @include media-query(DESKTOP) {
       text-align: left;
       padding: 0;
+    }
+    a {
+      font: 600 $TEXT-SIZE $FAMILY-SANS;
+      text-decoration: underline;
+      color: $LINK-COLOR-POST;
+
+      &:hover {
+        color: $LINK-COLOR-POST-HOVER;
+      }
     }
   }
 }
@@ -275,13 +317,20 @@ body {
 .fu-footer {
   display: flex;
   justify-content: center;
-
   margin: $VERTICAL-SECTION-SPACING 0;
 
   .fu-icon {
     padding: 0 $HORIZONTAL-ITEM-SPACING/2;
+
     @include media-query(TWO) {
       padding: 0 $HORIZONTAL-ITEM-SPACING;
+    }
+
+    a {
+      font-size: 1.9rem;
+      @include media-query(DESKTOP) {
+        font-size: 2.4rem;
+      }
     }
   }
 }
