@@ -5,9 +5,6 @@ github: https://github.com/thiagohersan/algotypes
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 ---
-{% include vimeo.html id="400462133" %}
-
-{% comment %}
 <div class="video-wrapper video-wrapper-16x9">
   <video playsinline autoplay muted loop class="home-video">
     <source src="{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes.webm" type="video/webm">
@@ -17,7 +14,7 @@ collab: https://outras.ml
     </div>
   </video>
 </div>
-{% endcomment %}
+
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
 
@@ -30,6 +27,7 @@ Other than network names and some management packets, the pyramids can’t decod
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
 {% include vimeo.html id="398714299" %}
+<!-- {% include vimeo.html id="400462133" %} -->
 
 {% include swipebox.html prefix="algotypes-wifi_" %}
 
