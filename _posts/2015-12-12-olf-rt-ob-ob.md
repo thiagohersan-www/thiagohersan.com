@@ -11,10 +11,10 @@ The [Object Liberation Front](http://olf.alab.space/){:target="_blank"} is a gro
 
 Given the complex relationships that humans have today with both “natural” systems (as evidenced by global warming), and engineered systems (internet as surveillance), we have been compelled into imagining a world without humans, or, at least, a world where the division between humans/nonhumans, as well as divisions between nature/culture, sciences/humanities, matter/thought, don’t make as much sense as they used to.
 
-The group was initially formed by [Alex](http://alexpearl.miriadonline.info/){:target="_blank"}, [Sam](http://samskinner.net/){:target="_blank"}, [Radamés](https://radames.in/){:target="_blank"} and myself while we were Researchers in Residence at FACT in Liverpool in 2015. It has grown to include many more people, objects and machines.
+The group was initially formed by [Alex](http://alexpearl.miriadonline.info/){:target="_blank"}, [Sam](http://samskinner.net/){:target="_blank"}, [Radamés](https://radames.in/){:target="_blank"} and myself while we were Researchers in Residence at FACT in Liverpool in 2015. It has grown to include many more humans, non-humans, objects and machines.
 
 ## Reading & Thinging
-Reading and Thinging is an informal monthly get-together that crosses a reading group with a ’show and tell’ session, exploring different themes in philosophy, science and culture through a curated reading list, discussions and manipulation of objects. It is an opportunity to make different areas of research, like philosophy, media theory and robotics, open and accessible, and to develop a community of readers, thinkers and thingers! that mix theory and making.
+Reading and Thinging is an informal monthly get-together that crosses a reading group with a ’show and tell’ session, exploring different themes in philosophy, science and culture through a curated reading list, discussions and manipulation of objects. It is an opportunity to make different areas of research, like philosophy, media theory and robotics, open and accessible, and to develop a community of readers, thinkers and thingers.
 
 {% include swipebox.html prefix="rnt010" %}
 

@@ -1,6 +1,4 @@
-$BACKGROUND: lighten(goldenrod, 40%);
 $BACKGROUND: rgba(255, 255, 255, 1);
-$TEXT-BACKGROUND: linear-gradient(to left, darken($BACKGROUND, 15%), $BACKGROUND);
 $TEXT-BACKGROUND: $BACKGROUND;
 
 $TRANSPARENT: rgba(0,0,0,0);
