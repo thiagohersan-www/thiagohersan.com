@@ -95,7 +95,7 @@ body {
   width: 100%;
   box-sizing: border-box;
 
-  margin: 0 auto;
+  margin: 0 auto 20px;
   padding: 0;
 
   @include media-query(DESKTOP) {

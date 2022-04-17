@@ -1,7 +1,6 @@
 ---
-category: collaboration
-title: "OLF's R&T + Ob_ & Ob_"
-vimeo: https://vimeo.com/165095890
+category: project
+title: "Reading & Thinging"
 pics: http://olf.alab.space/post/ob-ject-and-ob-serve/#swipebox-gallery
 www: http://olf.alab.space/
 collab: http://asmallview.co.uk/
@@ -29,5 +28,7 @@ Some of the *thingings* we've done: playing cat's craddle, building machines tha
 
 ## Ob_ject and Ob_serve
 Ob_ject and Ob_serve was an exhibition we put together at [A Small View](http://asmallview.co.uk/){:target="_blank"} in Liverpool in February of 2016. Alex presented work that looks at the relationship between breakdown in machines and people. Radamés, Edgar and Thiago presented ongoing work that deals with the hidden lives of our communication technologies. Sam presented a collection of text-based prints and ephemera drawn from archival research, conversations with former Liverpool observatory employees, and his project notebooks.
+
+{% include vimeo.html id="165095890" %}
 
 {% include swipebox.html prefix="obob0" %}

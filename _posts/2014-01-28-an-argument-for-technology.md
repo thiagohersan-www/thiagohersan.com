@@ -2,7 +2,6 @@
 category: draft
 title: An Argument For Technology
 github: https://github.com/astrovandalistas/AFT
-vimeo: https://vimeo.com/85982338
 astros: http://astrovandalistas.cc/aft/
 ---
 ![](/assets/projects/an-argument-for-technology/AFT_0.jpg)

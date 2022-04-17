@@ -2,7 +2,6 @@
 category: collaboration
 title: Nóize Chairs
 github: https://github.com/thiagohersan/NoizeChairsProcessing/
-vimeo: https://vimeo.com/45568573
 www: https://gutorequena.com/noize-1/
 collab: http://gutorequena.com.br/
 ---

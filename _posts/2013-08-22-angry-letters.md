@@ -2,8 +2,6 @@
 category: project
 title: Angry Letters
 github: https://github.com/thiagohersan/AngryLetters
-vimeo: https://vimeo.com/98120021
-swipebox: angry-letters
 ---
 ![](/assets/projects/angry-letters/xIMG_0491.jpg)
 
@@ -20,3 +18,5 @@ A simple ritual for sharing angry messages with the world:
 7. Send, burn, burry or eat the letters.
 
 {% include vimeo.html id="98120021" %}
+
+{% include swipebox.html prefix="angry-letters" %}

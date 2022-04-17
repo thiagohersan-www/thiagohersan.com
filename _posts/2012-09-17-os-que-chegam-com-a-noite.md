@@ -2,7 +2,6 @@
 category: collaboration
 title: Os Que Chegam Com a Noite
 github: https://github.com/thiagohersan/osQueChegamComANoite
-vimeo: https://vimeo.com/70635175
 www: http://oqccan.pedroveneroso.com/
 collab: https://vimeo.com/cimarcelle/
 ---
@@ -17,8 +16,10 @@ The project was an installation/intervention that modified the behavior of the l
   <source src="/assets/projects/os-que-chegam-com-a-noite/oqccan.mp4" type="video/mp4">
 </video>
 
+{% include vimeo.html id="70635175" %}
+
 <p style="margin-top:-4px; font-size: 16px;" markdown="1">
-  fotos: <a href="http://pedroveneroso.com/" target="_blank" style="font-size: 16px;">Pedro Veneroso</a>
+  images: <a href="http://pedroveneroso.com/" target="_blank" style="font-size: 16px;">Pedro Veneroso</a>
 </p>
 
 In order to do that, we had to build circuits that were capable of switching lights on and off based on signals coming from a microcontroller through an RF transmitter. The circuit is really quite simple, it consists of an atmega328 chip, a 434 MHz RF receiver and a relay. I helped prototype the receiver circuit, but Pedro Cimini was responsible for the final board design that we used. It looked something liked this:

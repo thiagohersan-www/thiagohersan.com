@@ -3,7 +3,6 @@ category: astrovandalistas
 title: "Imaginario Inverso: Fronteras"
 github: https://github.com/thiagohersan/Fronteras
 astros: http://astrovandalistas.cc/imaginario/
-swipebox: fronteras_laser0
 ---
 ![](/assets/projects/fronteras/fronteras_laser00.jpg)
 
@@ -23,3 +22,5 @@ Of course, before all of this, well before, the region was already inhabited by 
   <source src="/assets/projects/fronteras/fronteras_mov01.webm" type="video/webm">
   <source src="/assets/projects/fronteras/fronteras_mov01.mp4" type="video/mp4">
 </video>
+
+{% include swipebox.html prefix="fronteras_laser0" %}

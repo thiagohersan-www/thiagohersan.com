@@ -4,7 +4,6 @@ title: "Imaginario Inverso: Laser Chat Fronterizo"
 github: https://github.com/astrovandalistas/ImaginarioInverso
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: http://rubin.utep.edu/index.php/past1/68
-vimeo: https://vimeo.com/165527282
 astros: http://astrovandalistas.cc/imaginario/
 ---
 ![](/assets/projects/laser-chat-fronterizo/exteresa01.jpg)

@@ -1,7 +1,6 @@
 ---
 category: collaboration
 title: Kirlian Machine
-swipebox: kirlian_
 ---
 ![](/assets/projects/kirlian-machine/kirlian-draw.jpg)
 
@@ -38,3 +37,5 @@ Here’s a picture of the circuit on a board. That huge white ceramic rectangle 
 ![](/assets/projects/kirlian-machine/kirlian-board.jpg)
 
 Now we could take pictures of our hands, fingers and other body parts without getting hurt, and of plants and coins without starting fires:
+
+{% include swipebox.html prefix="kirlian_" %}

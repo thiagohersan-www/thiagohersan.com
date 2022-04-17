@@ -2,7 +2,6 @@
 category: project
 title: iLikeMe (on facebook)
 github: https://github.com/thiagohersan/iLikeMe
-vimeo: https://vimeo.com/82536764
 ---
 ![](/assets/projects/ilikeme-on-facebook/fb-understandThisPhoto.png)
 

@@ -2,7 +2,6 @@
 category: astrovandalistas
 title: ÆffectLab
 github: https://github.com/astrovandalistas/AEffect-Lab
-vimeo: https://vimeo.com/77366588
 astros: http://astrovandalistas.cc/aeffect/
 ---
 ![](/assets/projects/aeffectlab/IMG_0264.jpg)

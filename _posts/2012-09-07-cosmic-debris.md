@@ -2,7 +2,6 @@
 category: draft
 title: Cosmic Debris
 github: https://github.com/thiagohersan/cosmicDebrisOF
-vimeo: https://vimeo.com/250676786
 ---
 ![](/assets/projects/cosmic-debris/eletronika00.jpg)
 

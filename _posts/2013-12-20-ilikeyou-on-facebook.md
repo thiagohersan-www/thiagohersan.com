@@ -2,7 +2,6 @@
 category: project
 title: iLikeYou (on facebook)
 github: https://github.com/thiagohersan/iLikeYou
-vimeo: https://vimeo.com/83561856
 www: http://ilikeyou.thiagohersan.com/
 ---
 Anyone who understands big data will agree that: 

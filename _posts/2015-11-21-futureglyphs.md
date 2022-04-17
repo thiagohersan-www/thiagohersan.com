@@ -2,7 +2,6 @@
 category: feat
 title: "Imaginario Inverso: Futureglyphs"
 github: https://github.com/astrovandalistas/word_encoder
-vimeo: https://vimeo.com/228727744
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: https://futureglyphs.astrovandalistas.cc/
 astros: http://astrovandalistas.cc/futureglyphs/

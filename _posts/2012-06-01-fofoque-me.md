@@ -2,7 +2,6 @@
 category: project
 title: Fofoque-me
 github: https://github.com/thiagohersan/Fofoqueme
-vimeo: https://vimeo.com/48852839
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508
 collab: https://www.radames.in/
 ---
@@ -24,8 +23,6 @@ Once we become solely concerned with sending (and "trending", "like-ing", etc), 
 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 
-{% include vimeo.html id="43057300" %}
-
 These messages are first passed through a series of cell phones before being broadcast through a megaphone and speech synthesis system. In addition to giving physicality to the message, these cell phones can also interfere with the message in their own way, adding a little bit of their personalities and anxieties.
 
 {% include vimeo.html id="43858648" %}
@@ -33,3 +30,7 @@ These messages are first passed through a series of cell phones before being bro
 Since these broadcasts only exist for a short amount of time in a specific physical location, we hope they can promote a unique kind of "social grooming" that motivates physical interactions amongst participants.
 
 {% include vimeo.html id="43282923" %}
+
+{% include vimeo.html id="43057300" %}
+
+{% include vimeo.html id="48852839" %}

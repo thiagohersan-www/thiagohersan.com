@@ -2,10 +2,8 @@
 category: feat
 title: 'Fofoque-me: Vox Populi'
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli
-vimeo: https://vimeo.com/98495273
 www: http://www.sescsp.org.br/multitude/
 collab: https://www.radames.in/
-swipebox: vox-populi_
 ---
 ![](/assets/projects/vox-populi/dddd3.jpg)
 
@@ -32,3 +30,5 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 ![](/assets/projects/vox-populi/fofoque-me-vox-populi.jpg)
 
 {% include vimeo.html id="98495273" %}
+
+{% include swipebox.html prefix="vox-populi_" %}

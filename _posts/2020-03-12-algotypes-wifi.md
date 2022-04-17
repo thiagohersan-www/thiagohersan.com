@@ -2,12 +2,22 @@
 category: feat
 title: Algotypes
 github: https://github.com/thiagohersan/algotypes
-vimeo: https://vimeo.com/398714299
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 ---
-<!-- {% include vimeo.html id="400462133" %} -->
-{% include vimeo.html id="398714299" %}
+{% include vimeo.html id="400462133" %}
+
+{% comment %}
+<div class="video-wrapper video-wrapper-16x9">
+  <video playsinline autoplay muted loop class="home-video">
+    <source src="{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes.webm" type="video/webm">
+    <source src="{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes.mp4" type="video/mp4">
+    <div class="home-image-banner" 
+         style="background-image: url('{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes-wifi_00.jpg')">
+    </div>
+  </video>
+</div>
+{% endcomment %}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
 
@@ -19,9 +29,12 @@ Other than network names and some management packets, the pyramids can’t decod
 
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
+{% include vimeo.html id="398714299" %}
+
 {% include swipebox.html prefix="algotypes-wifi_" %}
 
 
+{% comment %}
 <br>
 Algorithms featured:
 <div class="code-list" markdown="1">
@@ -48,4 +61,4 @@ Algorithms featured:
 0x14\. [Convex Hull (using Monotone Chains)](https://rosettacode.org/wiki/Convex_hull){:target="_blank"}  
 0x15\. [PID Control](https://en.wikipedia.org/wiki/PID_controller){:target="_blank"}  
 </div>
-
+{% endcomment %}

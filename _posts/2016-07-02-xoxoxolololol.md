@@ -2,7 +2,6 @@
 category: feat
 title: XOXOXOLOLOLOL
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
-vimeo: https://vimeo.com/251641273
 www: http://tmp.thiagohersan.com/tmp/XOXOXOLOLOLOL/xoxoxolololol.pdf
 collab: http://www.incubadoradeartistas.com.br/
 ---

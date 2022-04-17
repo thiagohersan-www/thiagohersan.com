@@ -2,7 +2,6 @@
 category: collaboration
 title: Pulsu(m) Plantae v.2
 github: https://github.com/Lessnullvoid/Pulsum-Plantae/
-vimeo: https://vimeo.com/62232734/
 pics: https://www.flickr.com/photos/microhom/sets/72157628012884348/
 www: http://lessnullvoid.cc/pulsum/
 collab: http://lessnullvoid.cc/
@@ -28,3 +27,5 @@ The interface also displayed graphs of the six signals, and different videos dep
 ![](/assets/projects/pulsu-m-plantae-v-2/interface00.jpg)
 
 ![](/assets/projects/pulsu-m-plantae-v-2/interface02.jpg)
+
+{% include vimeo.html id="62232734" %}

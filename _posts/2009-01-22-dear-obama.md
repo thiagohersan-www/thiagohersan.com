@@ -3,7 +3,6 @@ category: draft
 title: 'Dear Obama, ...'
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw
 collab: https://karhoff.wordpress.com/
-swipebox: dear-obama
 ---
 ![](/assets/projects/dear-obama/dear05.jpg)
 
@@ -11,4 +10,4 @@ Self-explanatory performance done on January 20th, 2009, the day Obama got inaug
 
 Neither a party, nor a protest, this was a more subtle celebration.
 
-All photos were taken by the lovely and talented khoff.
+{% include swipebox.html prefix="dear-obama" %}

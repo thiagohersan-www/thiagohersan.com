@@ -2,7 +2,6 @@
 category: project
 title: uLikeMe (on facebook)
 github: https://github.com/thiagohersan/uLikeMe
-vimeo: https://vimeo.com/112552633
 www: http://ulikeme.thiagohersan.com/
 ---
 ![](/assets/projects/ulikeme-on-facebook/albums.jpg)

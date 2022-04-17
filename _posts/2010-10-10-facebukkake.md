@@ -1,7 +1,6 @@
 ---
 category: draft
 title: Facebukkake
-swipebox: facebukkake_
 ---
 ![](/assets/projects/facebukkake/tgh02.jpg)
 
@@ -16,3 +15,5 @@ I tried to investigate the relationship I have with my own image, and notions of
 ![](/assets/projects/facebukkake/tgh01.jpg)
 
 Social networking profiles are the new self-portrait; and this was a way of getting other people to build a digital "portrait" of me while creating multiple, conflicting personalities in a way that isn't any more unreal than a single profile.
+
+{% include swipebox.html prefix="facebukkake_" %}
