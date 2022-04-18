@@ -1,5 +1,5 @@
 ---
-category: astrovandalistas
+category: workshop
 title: La Sonora Telemática
 github: https://github.com/astrovandalistas/LaSonoraTelematica
 astros: http://astrovandalistas.cc/lasonora/
