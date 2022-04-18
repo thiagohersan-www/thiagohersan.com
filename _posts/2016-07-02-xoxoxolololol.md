@@ -20,22 +20,6 @@ Physically, it began as a kind of mail art game: participants received a mouth-s
 
 ![](/assets/projects/xoxoxolololol/envelope00.jpg)
 
-## O Afeto na Era de Sua Reprodutibilidade Digital
-A few months later, the project was reformulated as a two-day workshop for discussing the effects of the internet on the body. After a short presentation about how the internet works and what is behind some of the more popular sites, we talked about how this technology influences our behavior on- and offline.
-
-We then used alginate, silicone rubber and other analog materials to create objects for an (inter)active, presential network. Silicone-cast body parts were by far the most popular objects created, and mouths were by far the most popular body part cast.
-
-Once we had our objects, we performed our network in a town plaza, implicating other objects, humans and animals in our communication rituals.
-
-![](/assets/projects/xoxoxolololol/FATA2016_workshop01.jpg)
-
-<video loop autoplay muted width="100%">
-  <source src="/assets/projects/xoxoxolololol/movWorkshop08.webm" type="video/webm">
-  <source src="/assets/projects/xoxoxolololol/movWorkshop08.mp4" type="video/mp4">
-</video>
-
-{% include swipebox.html prefix="FATA2016_workshop" %}
-
 ## Atibaia
 When invited to show the project, XOXOXOLOLOLOL became an exhibition inside an exhibition. In order to make visible the idea of a distributed affection network, I invited everyone who had been a part of the project so far to contribute to the installation.
 
