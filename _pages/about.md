@@ -6,7 +6,7 @@ github: https://github.com/thiagohersan
 vimeo: https://vimeo.com/thiagohersan
 email: 'thiago.hersan'
 ---
-Thiago Hersan (he/they) is a mixed-media artist, researcher and educator.
+Thiago Hersan (he/they) is a mixed-media artist, researcher, design-technologist and educator.
 
 Holds a master's degree in [electrical](https://tinyurl.com/logic-bricks){:target="_blank"} and computer engineering, and has worked as an integrated circuit designer, web programmer and [design-technologist](https://beatbots.net){:target="_blank"} in small, medium and large companies.
 
