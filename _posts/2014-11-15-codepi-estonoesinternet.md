@@ -4,12 +4,11 @@ title: 'CoDEPI: #EstoNoEsInternet'
 github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/noesinternet/
 www: http://accionesterritoriales.blogspot.com.br/
+cover: /assets/projects/codepi-estonoesinternet/CODEPI_logo.png
 ---
 ![](/assets/projects/codepi-estonoesinternet/ZocaloRouters.png)
 
 In 2014 the [Astrovadalistas](http://astrovandalistas.cc/){:target="_blank"} collective started CoDEPI: Comisión de Discusión sobre el Espacio Público Intangible (Commission for the Discussion of Intangible Public Spaces) to coordinate actions related to telecommunication access and autonomy.
-
-![](/assets/projects/codepi-estonoesinternet/CODEPI_logo.png)
 
 The first set of CoDEPI events was organized in conjunction with the exhibition [Acciones Territoriales](http://accionesterritoriales.blogspot.mx/){:target="_blank"} that took place in November of 2014, at Ex Teresa Arte Actual, in Mexico City. The exhibition proposed to *"explore the concept of territory and resistances through four nodes of investigation: The idea of territory as Nation-State; Resistance through Memory; Navigable and Transitional Territories; and Everyday life: Imaginary, Representation, and Language"*.
 

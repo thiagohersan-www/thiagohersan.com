@@ -4,6 +4,7 @@ title: "Reading & Thinging"
 pics: http://olf.alab.space/post/ob-ject-and-ob-serve/#swipebox-gallery
 www: http://olf.alab.space/
 collab: http://asmallview.co.uk/
+cover: /assets/projects/olf-rt-ob-ob/obob00.jpg
 ---
 ![](/assets/projects/olf-rt-ob-ob/rt0200.jpg)
 

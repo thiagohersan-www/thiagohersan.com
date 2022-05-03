@@ -3,6 +3,7 @@ category: project
 title: iLikeYou (on facebook)
 github: https://github.com/thiagohersan/iLikeYou
 www: http://ilikeyou.thiagohersan.com/
+cover: /assets/projects/ilikeyou-on-facebook/ilikeyou-on-facebook.jpg
 ---
 Anyone who understands big data will agree that: 
 

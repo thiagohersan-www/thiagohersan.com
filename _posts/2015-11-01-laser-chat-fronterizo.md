@@ -5,6 +5,7 @@ github: https://github.com/astrovandalistas/ImaginarioInverso
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: http://rubin.utep.edu/index.php/past1/68
 astros: http://astrovandalistas.cc/imaginario/
+cover: /assets/projects/laser-chat-fronterizo/exteresa03.jpg
 ---
 ![](/assets/projects/laser-chat-fronterizo/exteresa01.jpg)
 

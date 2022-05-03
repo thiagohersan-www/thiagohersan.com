@@ -12,6 +12,11 @@
             {% break %}
           {% endif %}
         {% endfor %}
+
+        {% if post.cover %}
+          {% assign postCover = site.baseurl | append: post.cover %}
+        {% endif %}
+
         <div class="list-image" style="background-image: url('{{ postCover }}');" alt="{{ post.title }}" title="{{ post.title }}"></div>
         <div class="list-title">{{ post.title }}</div>
       </a>

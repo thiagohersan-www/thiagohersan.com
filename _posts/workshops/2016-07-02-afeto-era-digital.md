@@ -4,6 +4,7 @@ title: O Afeto na Era de Sua Reprodutibilidade Digital
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
 www: http://tmp.thiagohersan.com/tmp/XOXOXOLOLOLOL/xoxoxolololol.pdf
 collab: http://www.incubadoradeartistas.com.br/
+cover: /assets/projects/xoxoxolololol/FATA2016_workshop01.jpg
 ---
 ![](/assets/projects/xoxoxolololol/envelope02.jpg)
 

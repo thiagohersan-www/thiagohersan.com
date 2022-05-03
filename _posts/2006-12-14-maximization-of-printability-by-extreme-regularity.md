@@ -1,6 +1,7 @@
 ---
 category: project
 title: Maximization of Printability by Extreme Regularity
+cover: /assets/projects/maximization-of-printability-by-extreme-regularity/18.jpg
 ---
 ![](/assets/projects/maximization-of-printability-by-extreme-regularity/22or25.jpg)
 

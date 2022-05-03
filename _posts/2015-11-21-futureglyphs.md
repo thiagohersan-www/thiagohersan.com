@@ -5,8 +5,9 @@ github: https://github.com/astrovandalistas/word_encoder
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: https://futureglyphs.astrovandalistas.cc/
 astros: http://astrovandalistas.cc/futureglyphs/
+cover: /assets/projects/futureglyphs/laser00.jpg
 ---
-![](/assets/projects/futureglyphs/alaser01.jpg)
+![](/assets/projects/futureglyphs/laser01.jpg)
 
 In November of 2015 we were part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68){:target="_blank"} exhibition at the Rubin Center for the Arts in El Paso. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of [laser-connected modems](/laser-chat-fronterizo/) on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
 

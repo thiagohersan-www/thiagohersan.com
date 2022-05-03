@@ -4,6 +4,7 @@ title: Fofoque-me
 github: https://github.com/thiagohersan/Fofoqueme
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508
 collab: https://www.radames.in/
+cover: /assets/projects/fofoque-me/ffqme.jpg
 ---
 ![](/assets/projects/fofoque-me/ffqme.jpg)
 

@@ -4,6 +4,7 @@ title: Untitled Astrolabe Project
 github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/
 www: https://astrolabe.thiagohersan.com/
+cover: /assets/projects/astrolabe-project/astrolabe-project_130814.jpg
 ---
 ![](/assets/projects/astrolabe-project/astrolabe-project_8916.jpg)
 

@@ -4,6 +4,7 @@ title: Algotypes
 github: https://github.com/thiagohersan/algotypes
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
+cover: /assets/projects/algotypes-wifi/algotypes-wifi_00.jpg
 ---
 <div class="video-wrapper video-wrapper-16x9">
   <video playsinline autoplay muted loop class="home-video">

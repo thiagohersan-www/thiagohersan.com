@@ -2,6 +2,7 @@
 category: project
 title: Angry Letters
 github: https://github.com/thiagohersan/AngryLetters
+cover: /assets/projects/angry-letters/xIMG_0491.jpg
 ---
 ![](/assets/projects/angry-letters/xIMG_0491.jpg)
 

@@ -3,6 +3,7 @@ category: astrovandalistas
 title: ÆffectLab
 github: https://github.com/astrovandalistas/AEffect-Lab
 astros: http://astrovandalistas.cc/aeffect/
+cover: /assets/projects/aeffectlab/IMG_0264.jpg
 ---
 ![](/assets/projects/aeffectlab/IMG_0264.jpg)
 

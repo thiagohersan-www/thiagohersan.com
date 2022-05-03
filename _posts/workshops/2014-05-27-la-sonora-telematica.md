@@ -3,6 +3,7 @@ category: workshop
 title: La Sonora Telemática
 github: https://github.com/astrovandalistas/LaSonoraTelematica
 astros: http://astrovandalistas.cc/lasonora/
+cover: /assets/projects/la-sonora-telematica/xIMG_6255.jpg
 ---
 ![](/assets/projects/la-sonora-telematica/s_LaSonora02_bw.jpg)
 

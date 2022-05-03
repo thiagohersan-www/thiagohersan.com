@@ -4,6 +4,7 @@ title: 'Fofoque-me: Vox Populi'
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli
 www: http://www.sescsp.org.br/multitude/
 collab: https://www.radames.in/
+cover: /assets/projects/vox-populi/IMG_6365.jpg
 ---
 ![](/assets/projects/vox-populi/dddd3.jpg)
 

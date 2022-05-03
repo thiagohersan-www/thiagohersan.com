@@ -2,6 +2,7 @@
 category: feat
 title: Algotypes (tarot)
 github: https://github.com/thiagohersan/algotypes
+cover: /assets/projects/algotypes-tarot/algotypes-tarot_00.jpg
 ---
 ![](/assets/projects/algotypes-tarot/algotypes-tarot_00.jpg)
 
