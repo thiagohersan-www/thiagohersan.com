@@ -1,5 +1,5 @@
 ---
-category: astrovandalistas
+category: workshop
 title: 'CoDEPI: #EstoNoEsInternet'
 github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/noesinternet/
