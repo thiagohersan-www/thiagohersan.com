@@ -1,5 +1,5 @@
 ---
-category: draft
+category: archive
 title: Video Boleba
 github: https://github.com/thiagohersan/videoBolebaArduino
 collab: https://www.youtube.com/user/CelinaPortella

@@ -1,5 +1,5 @@
 ---
-category: draft
+category: archive
 title: Um jardim para Epicuro
 github: https://github.com/thiagohersan/JardimParaEpicuroProcessing/
 www: https://jardimeletronico.wordpress.com/

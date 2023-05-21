@@ -1,5 +1,5 @@
 ---
-category: draft
+category: archive
 title: SP_Urban Digital Festival
 ---
 **Title**
