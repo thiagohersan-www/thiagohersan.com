@@ -11,6 +11,6 @@ My work deals with the structures of power embedded in the digital, social and b
 I create objects, situations and devices that resensitize my body towards a continuous and plural process of becoming that hopefully is more open to entanglements with other species, histories, epistemologies and technologies.
 --->
 
-I create objects, situations and devices that hopefully contribute towards a more plural and constant process of becoming that is more open to entanglements with other species, histories, epistemologies and technologies.
+I create objects, situations and devices that hopefully contribute towards a more plural and continuous process of becoming that is more open to entanglements with other species, histories, epistemologies and technologies.
 
 **Representative Works:**
