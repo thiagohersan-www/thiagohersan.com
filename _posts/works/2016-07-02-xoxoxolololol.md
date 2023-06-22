@@ -32,10 +32,10 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 
 ![](/assets/projects/xoxoxolololol/FATA2016_xoxolol00.jpg)
 
-<video loop autoplay muted width="100%">
-  <source src="/assets/projects/xoxoxolololol/movFATA03.webm" type="video/webm">
-  <source src="/assets/projects/xoxoxolololol/movFATA03.mp4" type="video/mp4">
-</video>
+{% include video.html
+   webm="assets/projects/xoxoxolololol/movFATA03.webm"
+   image="assets/projects/xoxoxolololol/envelope02.jpg"
+%}
 
 {% include swipebox.html prefix="FATA2016_xoxolol" %}
 

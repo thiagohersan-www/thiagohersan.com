@@ -1,0 +1,11 @@
+{% assign path_webm = include.webm | relative_url %}
+{% assign path_mp4 = include.mp4 | default: path_webm | replace: ".webm", ".mp4" %}
+{% assign img_path = include.image | relative_url %}
+
+<div class="html-video-container">
+  <video playsinline autoplay muted loop width="100%">
+    <source src="{{ path_webm }}" type="video/webm">
+    <source src="{{ path_mp4 }}" type="video/mp4">
+    <div style="background-image: url('{{ img_path }}')"></div>
+  </video>
+</div>

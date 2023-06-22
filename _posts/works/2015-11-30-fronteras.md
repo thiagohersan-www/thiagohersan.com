@@ -17,9 +17,9 @@ Of course, before all of this, well before, the region was already inhabited by 
 
 *Fronteras* is a sculpture that celebrates and quesions our use of technology to demarcate territory, whether on the ground or outer space. It uses a laser pointer and a couple of motors to draw the US/Mexico border on a wall.
 
-<video loop autoplay muted width="100%">
-  <source src="/assets/projects/fronteras/fronteras_mov01.webm" type="video/webm">
-  <source src="/assets/projects/fronteras/fronteras_mov01.mp4" type="video/mp4">
-</video>
+{% include video.html
+   webm="assets/projects/fronteras/fronteras_mov01.webm"
+   image="assets/projects/fronteras/fronteras_laser02.jpg"
+%}
 
 {% include swipebox.html prefix="fronteras_laser0" %}

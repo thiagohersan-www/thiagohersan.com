@@ -16,10 +16,10 @@ Once we had our objects, we performed our network in a town plaza, implicating o
 
 ![](/assets/projects/xoxoxolololol/FATA2016_workshop01.jpg)
 
-<video loop autoplay muted width="100%">
-  <source src="/assets/projects/xoxoxolololol/movWorkshop08.webm" type="video/webm">
-  <source src="/assets/projects/xoxoxolololol/movWorkshop08.mp4" type="video/mp4">
-</video>
+{% include video.html
+   webm="assets/projects/xoxoxolololol/movWorkshop08.webm"
+   image="assets/projects/xoxoxolololol/FATA2016_workshop01.jpg"
+%}
 
 {% include swipebox.html prefix="FATA2016_workshop" %}
 

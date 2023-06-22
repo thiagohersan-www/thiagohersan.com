@@ -6,16 +6,10 @@ www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 cover: /assets/projects/algotypes-wifi/algotypes-wifi_00.jpg
 ---
-<div class="video-wrapper video-wrapper-16x9">
-  <video playsinline autoplay muted loop class="home-video">
-    <source src="{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes.webm" type="video/webm">
-    <source src="{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes.mp4" type="video/mp4">
-    <div class="home-image-banner" 
-         style="background-image: url('{{ site.baseurl }}/assets/projects/algotypes-wifi/algotypes-wifi_00.jpg')">
-    </div>
-  </video>
-</div>
-
+{% include video.html
+   webm="assets/projects/algotypes-wifi/algotypes.webm"
+   image="assets/projects/algotypes-wifi/algotypes-wifi_00.jpg"
+%}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
 

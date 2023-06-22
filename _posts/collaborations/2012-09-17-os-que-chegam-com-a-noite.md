@@ -11,10 +11,10 @@ In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.
 
 The project was an installation/intervention that modified the behavior of the lights in a park in order to create unique spacial/temporal environments during the event’s duration. It also provided for an interesting visual experience because it switched the lights on and off intermittently in specific patterns.
 
-<video loop autoplay muted width="100%">
-  <source src="/assets/projects/os-que-chegam-com-a-noite/oqccan.webm" type="video/webm">
-  <source src="/assets/projects/os-que-chegam-com-a-noite/oqccan.mp4" type="video/mp4">
-</video>
+{% include video.html
+   webm="assets/projects/os-que-chegam-com-a-noite/oqccan.webm"
+   image="assets/projects/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg"
+%}
 
 {% include vimeo.html id="70635175" %}
 
