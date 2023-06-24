@@ -21,8 +21,16 @@ Other than network names and some management packets, the pyramids can’t decod
 
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
+**References:**  
+[1] Reich, Wilhelm (2007). The function of the orgasm: The Discovery of the Orgone, Vol. 1. Farrar, Straus and Giroux.
+
+[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
+
+[3] Rosetta Code. Retrieved January 31, 2020, from [https://rosettacode.org](https://rosettacode.org){:target="_blank"}.
+
+[4] Goop.com. Retrieved January 31, 2020, from [https://goop.com](https://goop.com){:target="_blank"}.
+
 {% include vimeo.html id="398714299" %}
-<!-- {% include vimeo.html id="400462133" %} -->
 
 {% include swipebox.html prefix="algotypes-wifi_" %}
 
