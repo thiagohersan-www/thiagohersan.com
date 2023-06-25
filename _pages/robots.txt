@@ -2,9 +2,8 @@
 permalink: /robots.txt
 layout: null
 ---
-User-agent: *
-Crawl-delay: 10
-Disallow: /drafts/
-Disallow: /archive/
-Disallow: /collaborations/
-Sitemap: https://thiagohersan.com/sitemap.xml
+user-agent: *
+disallow: /drafts/
+disallow: /archive/
+disallow: /collaborations/
+sitemap: https://thiagohersan.com/sitemap.xml
