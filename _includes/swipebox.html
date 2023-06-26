@@ -2,10 +2,11 @@
   {% for file in site.static_files %}
     {% if file.path contains include.prefix %}
       <a rel="{{ include.prefix }}" href="{{ site.baseurl }}{{ file.path }}" class="swipebox" title="{{ include.subtitle }}">
-        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ include.subtitle }}">
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ include.subtitle }}" loading="lazy">
       </a>
     {% endif %}
   {% endfor %}
 </div>
 
-<script src="{{ site.baseurl }}/js/swipebox.js"></script>
+<script src="{{ site.baseurl }}/js/jquery.swipebox.min.js" defer></script>
+<script src="{{ site.baseurl }}/js/swipebox.js" defer></script>
