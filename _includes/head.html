@@ -1,6 +1,7 @@
 <title>{{ page.title }}</title>
 
-{% assign meta_description = page.content | strip_html | strip_newlines | truncatewords: 25 %}
+{% assign description_source = page.description | default: page.content %}
+{% assign meta_description = description_source | strip_html | strip_newlines | truncatewords: 25 %}
 
 <meta name="title" content="{{ page.title }}">
 <meta name="description" content="{{ meta_description }}">
