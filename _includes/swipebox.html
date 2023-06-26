@@ -1,8 +1,10 @@
+{% assign alt_txt = include.subtitle | default: page.title %}
+
 <div class="swipebox-gallery">
   {% for file in site.static_files %}
     {% if file.path contains include.prefix %}
-      <a rel="{{ include.prefix }}" href="{{ site.baseurl }}{{ file.path }}" class="swipebox" title="{{ include.subtitle }}">
-        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ include.subtitle }}" loading="lazy">
+      <a rel="{{ include.prefix }}" href="{{ site.baseurl }}{{ file.path }}" class="swipebox" title="{{ alt_txt }}">
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ alt_txt }}" loading="lazy">
       </a>
     {% endif %}
   {% endfor %}

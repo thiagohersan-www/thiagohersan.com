@@ -338,19 +338,10 @@ s {
       padding: 0 $HORIZONTAL-ITEM-SPACING;
     }
 
-    a, .fa.email {
+    a {
       font-size: 1.9rem;
       @include media-query(DESKTOP) {
         font-size: 2.4rem;
-      }
-    }
-
-    .fa.email:hover {
-      cursor: pointer;
-      color: $LINK-COLOR;
-      transition: color $TRANSITION-PERIOD linear;
-      &:hover {
-        color: $LINK-COLOR-POST-HOVER;
       }
     }
   }

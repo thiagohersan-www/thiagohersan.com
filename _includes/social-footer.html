@@ -2,17 +2,17 @@
   <div class="fu-footer">
     {% if page.github %}
       <div class="fu-icon">
-        <a href="{{ page.github }}" class="fa fa-github" target="_blank" aria-label="GitHub link"></a>
+        <a href="{{ page.github }}" class="fa fa-github" target="_blank" title="GitHub link"></a>
       </div>
     {% endif %}
     {% if page.vimeo %}
       <div class="fu-icon">
-        <a href="{{ page.vimeo }}" class="fa fa-vimeo" target="_blank" aria-label="Vimeo link"></a>
+        <a href="{{ page.vimeo }}" class="fa fa-vimeo" target="_blank" title="Vimeo link"></a>
       </div>
     {% endif %}
     {% if page.email %}
       <label class="fu-icon" for="emailCheck">
-        <div class="fa fa-envelope email"></div>
+        <a class="fa fa-envelope" title="Email link"></a>
       </label>
     {% endif %}
   </div>
