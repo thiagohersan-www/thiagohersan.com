@@ -4,15 +4,15 @@ title: Fofoque-me
 github: https://github.com/thiagohersan/Fofoqueme
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508
 collab: https://www.radames.in/
-cover: /assets/projects/fofoque-me/ffqme.jpg
+cover: /assets/projects/fofoque-me/ffqme.webp
 ---
-![](/assets/projects/fofoque-me/ffqme.jpg)
+![](/assets/projects/fofoque-me/ffqme.webp)
 
 Interactive sculpture/installation, done in collaboration with Radamés Ajna, for the event Circuito Vivo arte.mov 2012 - São Paulo, in May of 2012.
 
 Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml){:target="_blank"}*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".
 
-![](/assets/projects/fofoque-me/fofocas.jpg)
+![](/assets/projects/fofoque-me/fofocas.webp)
 
 And then came facebook... and twitter... and other interfaces that (in my understanding) promote broadcasting communication instead of the "social grooming talk" that was seen as positive by the article.
 
@@ -20,7 +20,7 @@ I'm guessing these kinds of interactions also have their benefits, as a generic 
 
 Once we become solely concerned with sending (and "trending", "like-ing", etc), are our phones and tablets going to be the only ones actually interacting?
 
-![](/assets/projects/fofoque-me/ffq_simulado.png)
+![](/assets/projects/fofoque-me/ffq_simulado.webp)
 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 
