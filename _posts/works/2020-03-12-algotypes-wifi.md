@@ -4,11 +4,11 @@ title: Algotypes
 github: https://github.com/thiagohersan/algotypes
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
-cover: /assets/projects/algotypes-wifi/algotypes-wifi_00.jpg
+cover: /assets/projects/algotypes-wifi/algotypes-wifi_00.webp
 ---
 {% include video.html
    webm="assets/projects/algotypes-wifi/algotypes.webm"
-   image="assets/projects/algotypes-wifi/algotypes-wifi_00.jpg"
+   image="assets/projects/algotypes-wifi/algotypes-wifi_00.webp"
 %}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.

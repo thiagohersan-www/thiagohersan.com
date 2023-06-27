@@ -2,9 +2,9 @@
 category: feat
 title: Algotypes (tarot)
 github: https://github.com/thiagohersan/algotypes
-cover: /assets/projects/algotypes-tarot/algotypes-tarot_00.jpg
+cover: /assets/projects/algotypes-tarot/algotypes-tarot_00.webp
 ---
-![](/assets/projects/algotypes-tarot/algotypes-tarot_00.jpg)
+![](/assets/projects/algotypes-tarot/algotypes-tarot_00.webp)
 
 "The Algorithm" is mysterious, omniscient, impenetrable.
 
