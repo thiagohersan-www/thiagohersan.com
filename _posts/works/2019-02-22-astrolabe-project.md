@@ -4,9 +4,9 @@ title: Untitled Astrolabe Project
 github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/
 www: https://astrolabe.thiagohersan.com/
-cover: /assets/projects/astrolabe-project/astrolabe-project_130814.jpg
+cover: /assets/projects/astrolabe-project/astrolabe-project_130814.webp
 ---
-![](/assets/projects/astrolabe-project/astrolabe-project_8916.jpg)
+![](/assets/projects/astrolabe-project/astrolabe-project_8916.webp)
 
 The starting point for this research was the astrolabe. An ancient instrument used by Islamic astronomers from around 550 AD, the astrolabe was made up of elaborate sliding metal discs and pointers, which were aligned to celestial bodies in order to give answers to astronomical, astrological and religious questions. Later on, this early measuring device had its moment in European history. It proved invaluable in helping to propagate and teach Islamic geometry during The Renaissance, and then, during the European age of empires, it was instrumental in maritime “discovery” expeditions.
 
@@ -34,9 +34,9 @@ Traditionally, antennae shapes and sizes are chosen in order to amplify specific
 
 {% include swipebox.html prefix="astrolabe-project_9" %}
 
-![](/assets/projects/astrolabe-project/astrolabe-project_all_dots_color.jpg)
+![](/assets/projects/astrolabe-project/astrolabe-project_all_dots_color.webp)
 
-![](/assets/projects/astrolabe-project/astrolabe-project_8694.jpg)
+![](/assets/projects/astrolabe-project/astrolabe-project_8694.webp)
 
 ---
 *This project was done in a residency at Delfina Foundation in January and February 2019.*
