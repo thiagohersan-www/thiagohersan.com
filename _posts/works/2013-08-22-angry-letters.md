@@ -2,9 +2,9 @@
 category: project
 title: Angry Letters
 github: https://github.com/thiagohersan/AngryLetters
-cover: /assets/projects/angry-letters/xIMG_0491.jpg
+cover: /assets/projects/angry-letters/angry-letters_00.webp
 ---
-![](/assets/projects/angry-letters/xIMG_0491.jpg)
+![](/assets/projects/angry-letters/angry-letters_00.webp)
 
 Just because they shouldn't be read, doesn't mean they can't be written!
 
@@ -20,4 +20,4 @@ A simple ritual for sharing angry messages with the world:
 
 {% include vimeo.html id="98120021" %}
 
-{% include swipebox.html prefix="angry-letters" %}
+{% include swipebox.html prefix="angry-letters_" %}
