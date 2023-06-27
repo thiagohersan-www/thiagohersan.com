@@ -4,7 +4,7 @@ title: 'Dear Obama, ...'
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw
 collab: https://karhoff.wordpress.com/
 ---
-![](/assets/projects/dear-obama/dear05.jpg)
+![]({{ "assets/archive/dear-obama/dear05.jpg" | relative_url }})
 
 Self-explanatory performance done on January 20th, 2009, the day Obama got inaugurated as the 44th president of the United States of America.
 
