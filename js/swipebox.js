@@ -1,5 +1,5 @@
 (function($) {
   $( '.swipebox' ).swipebox({
-    hideBarsDelay : 5000
+    hideBarsDelay : 1500
   });
 })(jQuery);
