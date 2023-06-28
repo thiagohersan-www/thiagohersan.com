@@ -3,20 +3,17 @@
   {% assign _posts = site.posts | where_exp:"item", "post_categories contains item.category" %}
 
   {% for post in _posts %}
-    {% assign postSlug = post.url | split: "/" | last %}
-    {% for file in site.static_files %}
-      {% if file.path contains postSlug %}
-        {% assign postCover = site.baseurl | append: file.path %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
 
     {% if post.cover %}
       {% assign postCover = post.cover | relative_url %}
+    {% else %}
+      {% assign postSlug = post.url | split: "/" | last %}
+      {% assign postFiles = site.static_files | where_exp:"item", "item.path contains postSlug" %}
+      {% assign postCover = postFiles[0].path | relative_url %}
     {% endif %}
 
     <div class="list-item">
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | relative_url }}">
         <div class="list-image" style="background-image: url('{{ postCover }}');" title="{{ post.title }}"></div>
         <div class="list-title">{{ post.title }}</div>
       </a>

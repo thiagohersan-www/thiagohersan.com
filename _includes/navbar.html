@@ -1,10 +1,10 @@
 <div class="menu">
-  <a class="menu-title" href="{{site.baseurl}}/">
+  <a class="menu-title" href="{{ '/' | relative_url }}">
     {{ site.title }}
   </a>
 
   <div class="menu-items-container">
-    <a class="menu-item" href="{{site.baseurl}}/works/">
+    <a class="menu-item" href="{{ 'works/' | relative_url }}">
       Works
     </a>
 
@@ -12,13 +12,11 @@
       Shop
     </a>
 
-    <!-- 
-    <a class="menu-item" href="{{site.baseurl}}/works/">
+    <!-- <a class="menu-item" href="{{ 'workshops/' | relative_url }}">
       Workshops
-    </a> 
-    -->
+    </a> -->
 
-    <a class="menu-item" href="{{site.baseurl}}/about/">
+    <a class="menu-item" href="{{ 'about/' | relative_url }}">
       About
     </a>
   </div>

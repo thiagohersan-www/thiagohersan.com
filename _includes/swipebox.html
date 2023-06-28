@@ -3,12 +3,12 @@
 <div class="swipebox-gallery">
   {% for file in site.static_files %}
     {% if file.path contains include.prefix %}
-      <a rel="{{ include.prefix }}" href="{{ site.baseurl }}{{ file.path }}" class="swipebox" title="{{ alt_txt }}">
-        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ alt_txt }}" loading="lazy">
+      <a rel="{{ include.prefix }}" href="{{ file.path | relative_url }}" class="swipebox" title="{{ alt_txt }}">
+        <img src="{{ file.path | relative_url }}" alt="{{ alt_txt }}" loading="lazy">
       </a>
     {% endif %}
   {% endfor %}
 </div>
 
-<script src="{{ site.baseurl }}/js/jquery.swipebox.min.js" defer></script>
-<script src="{{ site.baseurl }}/js/swipebox.js" defer></script>
+<script src="{{ 'js/jquery.swipebox.min.js' | relative_url }}" defer></script>
+<script src="{{ 'js/swipebox.js' | relative_url }}" defer></script>

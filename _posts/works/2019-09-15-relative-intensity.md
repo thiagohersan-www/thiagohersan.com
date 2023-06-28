@@ -14,7 +14,7 @@ In our world of embedded, pervasive, wearable technologies we are encompassed by
 
 These are collections of wearable antennas made of copper and brass pieces modeled after the shapes and sizes of body parts, sections and appendages. They are meant to be worn around the part of the body from which they were modeled, creating an additional connection between the original template body and that of the wearer.
 
-Like the [astrolabe]({{ site.baseurl }}/astrolabe-project/), these antennas suggest a more embodied form of navigating a network. They are ontological machines for exploring the relationships between humans, nature, culture, objects and networks, and making their intra-actions a little more significantly felt.
+Like the [astrolabe]({{ "astrolabe-project/" | relative_url }}), these antennas suggest a more embodied form of navigating a network. They are ontological machines for exploring the relationships between humans, nature, culture, objects and networks, and making their intra-actions a little more significantly felt.
 
 {% include swipebox.html prefix="antb-vw_" %}
 

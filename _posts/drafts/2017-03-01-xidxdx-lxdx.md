@@ -7,7 +7,7 @@ collab: http://www.lgdesviante.org/
 ---
 ![]({{ "assets/drafts/xidxdx-lxdx/cidade_desviante_cidade_linda.jpg" | relative_url }})
 
-Collaboration with Raquel Parrine for the [Cidade Queer Reader](http://www.edicoesaurora.com/cidade-queer-uma-leitora/){:targte="_blank"} publication. The idea was conceived during meetings of the [Laboratório Gráfico Queer/Desviante]({{ site.baseurl }}/lgqd).
+Collaboration with Raquel Parrine for the [Cidade Queer Reader](http://www.edicoesaurora.com/cidade-queer-uma-leitora/){:targte="_blank"} publication. The idea was conceived during meetings of the [Laboratório Gráfico Queer/Desviante]({{ "lgqd/" | relative_url }}).
 
 ### Cidade Lida
 The outside is pure fiction because there’s really no inside, no origin we can trace everything back to -- we are the hybrid products of elements whose source has been long lost, if indeed it ever existed. We are all exiles from cities whose bricks crumbled to dust ages ago. In a sense, we’re all aliens.

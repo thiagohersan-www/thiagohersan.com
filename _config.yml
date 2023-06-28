@@ -25,6 +25,7 @@ defaults:
       type: "pages"
     values:
       layout: "post"
+      cover: "assets/covers/cover.jpg"
 
 # Data
 social:
