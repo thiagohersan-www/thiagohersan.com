@@ -30,4 +30,4 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 
 {% include vimeo.html id="98495273" %}
 
-{% include swipebox.html prefix="ffq-vox_sesc_" %}
+{% include swipebox.html prefix="ffq-vox_sesc_0" %}

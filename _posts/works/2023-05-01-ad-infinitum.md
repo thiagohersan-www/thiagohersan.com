@@ -1,9 +1,9 @@
 ---
-category: draft
+category: feat
 title: Ad Infinitum
 github: https://github.com/thiagohersan-www/infinite-resources
 www: https://infinitum.thiagohersan.com/
-cover: /assets/projects/ad-infinitum/ad-infinitum_10.webp
+cover: /assets/projects/ad-infinitum/ad-infinitum_01.webp
 ---
 {% include video.html
    webm="assets/projects/ad-infinitum/ad-infinitum.webm"
