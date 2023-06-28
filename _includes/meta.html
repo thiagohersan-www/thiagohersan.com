@@ -11,17 +11,19 @@
 <meta property="og:site_name" content="{{site.title}}">
 <meta property="article:publisher" content="https://www.facebook.com/{{site.social.facebook_user}}">
 
-{% if page.cover %}
-  {% assign coverImagePath = page.cover %}
-{% else %}
-  {% assign postSlug = page.url | split: "/" | last %}
-  {% assign slugFiles = site.static_files | where_exp:"item", "item.path contains postSlug" %}
-  {% if slugFiles.size > 0 %}
-    {% assign coverImagePath = slugFiles[0].path %}
-  {% else %}
-    {% assign coverImagePath = "assets/covers/cover.jpg" %}
-  {% endif %}
-{% endif %}
+{%- assign coverImagePath = "assets/covers/cover.jpg" -%}
+
+{%- if page.cover -%}
+  {%- assign coverImagePath = page.cover -%}
+{%- else -%}
+  {%- assign postSlug = page.url | split: "/" | last -%}
+  {%- for f in site.static_files -%}
+    {%- if f.path contains postSlug -%}
+      {%- assign coverImagePath = f.path -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 
 <meta name="twitter:image" content="{{ coverImagePath | absolute_url }}">
 <meta property="og:image" content="{{ coverImagePath | absolute_url }}">
