@@ -2,11 +2,10 @@
 category: feat
 title: XOXOXOLOLOLOL
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
-www: http://tmp.thiagohersan.com/tmp/XOXOXOLOLOLOL/xoxoxolololol.pdf
 collab: http://www.incubadoradeartistas.com.br/
-cover: /assets/projects/xoxoxolololol/FATA2016_workshop-flyer.jpg
+cover: assets/projects/xoxoxolololol/FATA2016_flyer.jpg
 ---
-![](/assets/projects/xoxoxolololol/envelope02.jpg)
+![]({{ "assets/projects/xoxoxolololol/envelope02.jpg" | relative_url }})
 
 <div class="quote">
   Our Age of Anxiety is, in great part, the result of trying to do today's job with yesterday's tools and yesterday's concepts.<br>
@@ -17,9 +16,9 @@ XOXOXOLOLOLOL is a project of projects; an exploration into the possibilities of
 
 It starts with the recognition of the internet as an experiment that we conduct on ourselves, with all of its (commercial, personal, political) ramifications and (cultural, psychological, economic) consequences, and the need for other networks, interfaces, organisms and agential systems that take into account the desires created by our present forms of communication.
 
-Physically, it began as a kind of mail art game: participants received a mouth-shaped stamp along with an inkpad and "[instructions](/assets/projects/xoxoxolololol/regras_A6.pdf){:target="_blank"}" for how to play. The stamps were used in a variety of ways.
+Physically, it began as a kind of mail art game: participants received a mouth-shaped stamp along with an inkpad and "[instructions]({{ "assets/projects/xoxoxolololol/regras_A6.pdf" | relative_url }}){:target="_blank"}" for how to play. The stamps were used in a variety of ways.
 
-![](/assets/projects/xoxoxolololol/envelope00.jpg)
+![]({{ "assets/projects/xoxoxolololol/envelope00.jpg" | relative_url }})
 
 ## Atibaia
 When invited to show the project, XOXOXOLOLOLOL became an exhibition inside an exhibition. In order to make visible the idea of a distributed affection network, I invited everyone who had been a part of the project so far to contribute to the installation.
@@ -30,7 +29,7 @@ It ended up becoming a space that explored the way we transfer, translate and tr
 
 The exhibition was made up of a couple of video and photography pieces, some of the objects from the workshop and the original mail art game, as well as documentation for the process.
 
-![](/assets/projects/xoxoxolololol/FATA2016_xoxolol00.jpg)
+![]({{ "assets/projects/xoxoxolololol/FATA2016_xoxolol00.jpg" | relative_url }})
 
 {% include video.html
    webm="assets/projects/xoxoxolololol/movFATA03.webm"
@@ -39,7 +38,7 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 
 {% include swipebox.html prefix="FATA2016_xoxolol" %}
 
-![](/assets/projects/xoxoxolololol/rules.jpg)
+![]({{ "assets/projects/xoxoxolololol/rules.jpg" | relative_url }})
 
 {% include vimeo.html id="171869957" %}
 
