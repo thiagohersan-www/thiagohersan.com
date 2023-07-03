@@ -29,7 +29,7 @@ Like the [astrolabe]({{ "astrolabe-project/" | relative_url }}), these antennas 
 
 [5] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.
 
-[6] Harawy, Donna (1988). [Situated Knowledges](https://www.jstor.org/stable/3178066){:target="_blank"}: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575.
+[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.
 
 [7] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
 

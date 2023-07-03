@@ -30,7 +30,7 @@ Screens display information about the nearby WiFi networks showing network names
 
 [2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
 
-[3] Harawy, Donna (1988). [Situated Knowledges](https://www.jstor.org/stable/3178066){:target="_blank"}: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575.
+[3] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.
 
 [4] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
 
