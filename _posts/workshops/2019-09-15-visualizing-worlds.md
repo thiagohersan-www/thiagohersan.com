@@ -23,5 +23,9 @@ Photos by: Felipe Gabriel ([@fgf0t](https://www.instagram.com/fgf0t/){:target="_
 
 {% include swipebox.html prefix="antb-vw_" %}
 
+**Details:**  
+Length: 1 day x 3 hours  
+Materials: Projector, copper wire, copper tape, brass pieces, semi-precious stones, coaxial cable, soldering irons, solder, wire clippers, pliers
+
 **Previous instances:**  
 2019: Visualizações de Mundos, Red Bull Station - São Paulo, BR

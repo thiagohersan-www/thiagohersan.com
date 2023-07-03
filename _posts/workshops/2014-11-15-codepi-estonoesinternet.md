@@ -18,5 +18,9 @@ During a 4-day workshop, we worked with writers, journalists, artists, activists
 
 ![]({{ "assets/workshops/codepi-estonoesinternet/site_mockup2.png" | relative_url }})
 
+**Details:**  
+Length: 2-3 days x 2-3 hours each  
+Materials: WiFi routers and USB sticks
+
 **Previous instances:**  
 2014: Acciones Territoriales, Ex Teresa - México City, MX.

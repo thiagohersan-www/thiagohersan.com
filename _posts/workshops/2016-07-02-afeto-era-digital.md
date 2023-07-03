@@ -24,6 +24,10 @@ Slides: [pdf]({{ "../assets/docs/afeto-era-digital_2017-tomie.pdf" | relative_ur
 
 {% include swipebox.html prefix="FATA2016_workshop" %}
 
+**Details:**  
+Length: 2 days x 2 hours each  
+Materials: Projector, alginate, silicone, kitchen scale, 2-inch wood dowel, drawer knobs, small plastic bottles or cups
+
 **Previous instances:**  
 2017: Projeto Marcenaria, Instituto Tomie Ohtake - São Paulo, BR.  
 2016 FATA II, Galpão 27 - Atibaia, BR.

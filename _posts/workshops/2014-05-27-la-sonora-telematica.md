@@ -23,6 +23,10 @@ Once all the players are set up and installed in their locations, the media serv
 
 {% include swipebox.html prefix="s_LaSonora0" %}
 
+**Details:**  
+Length: 2-3 days x 2-3 hours each  
+Materials: 1 RaspberryPi per participant, +1 for server, assortment of TVs, projectors, speakers  
+
 **Previous instances:**  
 2015: Transitio_MX 06, Centro Nacional de las Artes - México City, MX.  
 2014: [Sight+Sound Festival](https://sightandsound.dance){:target="_blank"}, Eastern Bloc - Montréal, CA.

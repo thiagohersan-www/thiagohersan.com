@@ -6,4 +6,4 @@ categories: "workshop"
 ---
 Workshops
 
-Although some were designed as bespoke/detached workshops, most of these were thought within the context of an exhibition or festival, where they resulted in a collective piece.
+Even though most of these were developed within the context of an exhibition or festival, where they resulted in a collective piece for the event, they can all be organized as self-contained, standalone, workshops.
