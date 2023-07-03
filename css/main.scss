@@ -95,6 +95,13 @@ s {
 
   a.menu-item {
     font-size: $MENU-ITEM-SIZE;
+
+    &.hide-mobile {
+      display: none;
+      @include media-query(DESKTOP) {
+        display: block;
+      }
+    }
   }
 
   a.menu-item + a.menu-item {
