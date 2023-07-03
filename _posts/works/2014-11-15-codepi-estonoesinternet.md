@@ -5,6 +5,9 @@ github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/noesinternet/
 www: http://accionesterritoriales.blogspot.com.br/
 cover: assets/projects/codepi-estonoesinternet/codepi_logo.webp
+details:
+  'Exhibitions':
+    - '2014: Acciones Territoriales, Ex Teresa - México City, MX'
 ---
 ![]({{ "assets/projects/codepi-estonoesinternet/codepi_routers_zocalo.webp" | relative_url }})
 
@@ -20,5 +23,4 @@ The website was then hosted on a couple of modified WiFi routers, which were dis
 
 {% include swipebox.html prefix="codepi_routers" %}
 
-**Exhibitions:**  
-2014: Acciones Territoriales, Ex Teresa - México City, MX.
+{% include details.html %}

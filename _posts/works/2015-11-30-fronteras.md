@@ -3,11 +3,15 @@ category: astrovandalistas
 title: "Imaginario Inverso: Fronteras"
 github: https://github.com/thiagohersan/Fronteras
 astros: http://astrovandalistas.cc/imaginario/
-cover: /assets/projects/fronteras/fronteras_05.webp
+cover: assets/projects/fronteras/fronteras_05.webp
+details:
+  'Exhibitions':
+    - '2017: Periscópio, EAC - Montevideo, UY'
+    - '2016: Periscópio, Galeria Zipper - São Paulo, BR'
 ---
 {% include video.html
-   webm="assets/projects/fronteras/fronteras_mov03.webm"
-   image="assets/projects/fronteras/fronteras_05.webp"
+  webm="assets/projects/fronteras/fronteras_mov03.webm"
+  image="assets/projects/fronteras/fronteras_05.webp"
 %}
 
 *Imaginario Inverso* is a project that began during a residency in the border region between the states of Chihuahua in Mexico, and Texas and New Mexico in the United States. In this region, the city of Juárez/El Paso marks where the border between the two countries is no longer defined by the Rio Bravo and instead is formed by straight lines running to the Pacific Ocean.
@@ -21,12 +25,10 @@ Of course, before all of this, well before, the region was already inhabited by 
 *Fronteras* is a sculpture that contextualizes and questions our use of technology to demarcate territory, whether on the ground or outer space. It uses a laser and servo motors to draw the US/Mexico border on a wall.
 
 {% include video.html
-   webm="assets/projects/fronteras/fronteras_mov02.webm"
-   image="assets/projects/fronteras/fronteras_06.webp"
+  webm="assets/projects/fronteras/fronteras_mov02.webm"
+  image="assets/projects/fronteras/fronteras_06.webp"
 %}
 
 {% include swipebox.html prefix="fronteras_0" %}
 
-**Exhibitions:**  
-2017: Periscópio, EAC - Montevideo, UY.  
-2016: Periscópio, Galeria Zipper - São Paulo, BR.
+{% include details.html %}

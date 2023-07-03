@@ -3,11 +3,21 @@ category: feat
 title: Ad Infinitum
 github: https://github.com/thiagohersan-www/infinite-resources
 www: https://infinitum.thiagohersan.com/
-cover: /assets/projects/ad-infinitum/ad-infinitum_01.webp
+cover: assets/projects/ad-infinitum/ad-infinitum_01.webp
+details:
+  'References':
+    - '[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[2] Han, Byung-Chul (2017). [Saving Beauty](https://www.perlego.com/book/1536329/saving-beauty-pdf){:target="_blank"}. Polity Press.'
+    - '[3] Hui, Yuk Hui (2020). [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html){:target="_blank"}. Ubu Editora.'
+    - '[4] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.'
+  'Exhibitions':
+    - '2023: Salla_Taller, EAC - Montevideo, UY'
+    - '2022: Condições de Existência, Oi Futuro - Rio de Janeiro, BR'
+    - '2021: Jardim Mineral, Museu das Minas e do Metal - Belo Horizonte, BR'
 ---
 {% include video.html
-   webm="assets/projects/ad-infinitum/ad-infinitum.webm"
-   image="assets/projects/ad-infinitum/ad-infinitum_09.webp"
+  webm="assets/projects/ad-infinitum/ad-infinitum.webm"
+  image="assets/projects/ad-infinitum/ad-infinitum_09.webp"
 %}
 
 Ad Infinitum draws a link between our insatiable consumption of social media and the anthropocentric perspective which interprets terrestrial resources (and now, ever increasingly, cosmological resources) as infinite, exploiting them immeasurably. A concrete rock forms a mountain, while underground different minerals become layers of time in an [infinite scroll](https://infinitum.thiagohersan.com/){:target="_blank"}. In search of instant satisfaction, despite all the mundane textures, we dig with our fingers into a database of smooth and endless atmosphere.
@@ -27,16 +37,4 @@ This project was developed with [Mari Nagem](https://marinagem.com/){:target="_b
 
 {% include swipebox.html prefix="ad-infinitum_" %}
 
-**References:**  
-[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
-
-[2] Han, Byung-Chul (2017). [Saving Beauty](https://www.perlego.com/book/1536329/saving-beauty-pdf){:target="_blank"}. Polity Press.
-
-[3] Hui, Yuk Hui (2020). [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html){:target="_blank"}. Ubu Editora.
-
-[4] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.
-
-**Exhibitions:**  
-2023: Salla_Taller, EAC - Montevideo, UY.  
-2022: Condições de Existência, Oi Futuro - Rio de Janeiro, BR.  
-2021: Jardim Mineral, Museu das Minas e do Metal - Belo Horizonte, BR.
+{% include details.html %}

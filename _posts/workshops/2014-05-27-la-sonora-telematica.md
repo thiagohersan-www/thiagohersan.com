@@ -4,6 +4,13 @@ title: La Sonora Telemática
 github: https://github.com/astrovandalistas/LaSonoraTelematica
 astros: http://astrovandalistas.cc/lasonora/
 cover: assets/workshops/la-sonora-telematica/s_LaSonora02_bw.jpg
+details:
+  'Details':
+    - 'Length: 2-3 days x 2-3 hours each'
+    - 'Materials: 1 RaspberryPi per participant, +1 for server, assortment of TVs, projectors, speakers'
+  'Previous instances':
+    - '2015: Transitio_MX 06, Centro Nacional de las Artes - México City, MX'
+    - '2014: [Sight+Sound Festival](https://sightandsound.dance){:target="_blank"}, Eastern Bloc - Montréal, CA'
 ---
 ![]({{ "assets/workshops/la-sonora-telematica/s_LaSonora02_bw.jpg" | relative_url }})
 
@@ -21,12 +28,6 @@ Each workshop participant then programs a RaspberryPi computer connected to one 
 
 Once all the players are set up and installed in their locations, the media server starts sending out tags/keywords that describe an overall macro-narrative. Much like a symphony has movements, the server sets the mood and pace by stringing together tags/keywords that different players can respond to. Each player has their own logic, but they all followed queues from the same server/conductor.
 
+{% include details.html %}
+
 {% include swipebox.html prefix="s_LaSonora0" %}
-
-**Details:**  
-Length: 2-3 days x 2-3 hours each  
-Materials: 1 RaspberryPi per participant, +1 for server, assortment of TVs, projectors, speakers  
-
-**Previous instances:**  
-2015: Transitio_MX 06, Centro Nacional de las Artes - México City, MX.  
-2014: [Sight+Sound Festival](https://sightandsound.dance){:target="_blank"}, Eastern Bloc - Montréal, CA.

@@ -2,7 +2,7 @@
 category: project
 title: iLikeMe (on facebook)
 github: https://github.com/thiagohersan/iLikeMe
-cover: /assets/projects/ilikeme-on-facebook/tghWarholKissy.png
+cover: assets/projects/ilikeme-on-facebook/tghWarholKissy.png
 ---
 ![](/assets/projects/ilikeme-on-facebook/fb-understandThisPhoto.png)
 

@@ -1,0 +1,22 @@
+{% for d in page.details %}
+  {% assign detail_title = d[0] %}
+  {% assign detail_items = page.details[detail_title] %}
+
+  <div class="detail-list-container">
+    <label class="detail-label" for="detail-list-{{ detail_title }}">
+      <a class="detail-list-title">
+        {{ detail_title }}:
+      </a>
+    </label>
+    <input class="detail-list-checkbox" id="detail-list-{{ detail_title }}" type="checkbox">
+
+    <div class="detail-list">
+      {% for item in detail_items %}
+        <div class="detail-item">
+          {{ item | markdownify }}
+        </div>
+      {% endfor %}
+    </div>
+</div>
+
+{% endfor %}

@@ -5,6 +5,13 @@ github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 cover: assets/workshops/visualizing-worlds/antb-rb_02.jpg
+details:
+  'Details':
+    - 'Length: 1 day x 3 hours'
+    - 'Materials: Projector, copper wire, copper tape, brass pieces, semi-precious stones, coaxial cable, soldering irons, solder, wire clippers, pliers'
+    - 'Slides: [pdf](../assets/docs/visualizing-worlds_2019-red-bull.pdf){:target="_blank"}'
+  'Previous instances':
+    - '2019: Visualizações de Mundos, Red Bull Station - São Paulo, BR'
 ---
 ![]({{ "assets/workshops/visualizing-worlds/antb-vw_00.jpg" | relative_url }})
 
@@ -16,16 +23,9 @@ After a short presentation about antennas and electromagnetic waves, and a quick
 
 Afterwards, each antenna is analyzed to quantify their resonance and measure which frequency bands they amplify or attenuate.
 
-Slides: [pdf]({{ "../assets/docs/visualizing-worlds_2019-red-bull.pdf" | relative_url }}){:target="_blank"}
+{% include details.html %}
 
 {% include swipebox.html prefix="antb-rb_" %}
 Photos by: Felipe Gabriel ([@fgf0t](https://www.instagram.com/fgf0t/){:target="_blank"})
 
 {% include swipebox.html prefix="antb-vw_" %}
-
-**Details:**  
-Length: 1 day x 3 hours  
-Materials: Projector, copper wire, copper tape, brass pieces, semi-precious stones, coaxial cable, soldering irons, solder, wire clippers, pliers
-
-**Previous instances:**  
-2019: Visualizações de Mundos, Red Bull Station - São Paulo, BR

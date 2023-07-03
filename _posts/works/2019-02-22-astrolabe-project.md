@@ -4,7 +4,22 @@ title: Untitled Astrolabe Project
 github: https://github.com/thiagohersan/astrolabe-hackrf
 collab: http://www.delfinafoundation.com/
 www: https://astrolabe.thiagohersan.com/
-cover: /assets/projects/astrolabe-project/astrolabe-project_130814.webp
+cover: assets/projects/astrolabe-project/astrolabe-project_130814.webp
+details:
+  'References':
+    - '[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.'
+    - '[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.'
+    - '[3] Calvino, Italo (1997). Invisible Cities. Random House.'
+    - '[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[5] Descola, Philippe (2013). The Ecology of Others. Paradigm Press.'
+    - '[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.'
+    - '[7] Hartigan Jr., John (2014). Aesop’s Anthropology: A Multispecies Approach. U of Minnesota Press.'
+    - '[8] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.'
+    - '[9] Preciado, Beatriz (2015). Manifesto Contrassexual. N-1 Edições.'
+    - '[10] Sahlins, Marshall (2008). The Western Illusion of Human Nature. Paradigm Press.'
+    - '[11] Scheerbart, Paul (2011). The Perpetual Motion Machine: The Story of an Invention. Wakefield Press.'
+    - '[12] Simondon, Gilbert (2017). On the Mode of Existence of Technical Objects. Univocal.'
+    - '[13] Viveiros de Castro, Eduardo (2017). A inconstância da alma selvagem. Ubu Editora.'
 ---
 ![](/assets/projects/astrolabe-project/astrolabe-project_8916.webp)
 
@@ -43,29 +58,4 @@ Traditionally, antennae shapes and sizes are chosen in order to amplify specific
 
 *Many thanks to Moonjung Hwang and [Genietta Varsi Lari](https://www.geniettavarsi.com/){:target="_blank"} for their help in documenting this research.*
 
-**References:**  
-[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.
-
-[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.
-
-[3] Calvino, Italo (1997). Invisible Cities. Random House.
-
-[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
-
-[5] Descola, Philippe (2013). The Ecology of Others. Paradigm Press.
-
-[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.
-
-[7] Hartigan Jr., John (2014). Aesop’s Anthropology: A Multispecies Approach. U of Minnesota Press.
-
-[8] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
-
-[9] Preciado, Beatriz (2015). Manifesto Contrassexual. N-1 Edições.
-
-[10] Sahlins, Marshall (2008). The Western Illusion of Human Nature. Paradigm Press.
-
-[11] Scheerbart, Paul (2011). The Perpetual Motion Machine: The Story of an Invention. Wakefield Press.
-
-[12] Simondon, Gilbert (2017). On the Mode of Existence of Technical Objects. Univocal.
-
-[13] Viveiros de Castro, Eduardo (2017). A inconstância da alma selvagem. Ubu Editora.
+{% include details.html %}

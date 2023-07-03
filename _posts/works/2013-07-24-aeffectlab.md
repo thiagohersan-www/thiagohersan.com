@@ -3,7 +3,10 @@ category: astrovandalistas
 title: ÆffectLab
 github: https://github.com/astrovandalistas/AEffect-Lab
 astros: http://astrovandalistas.cc/aeffect/
-cover: /assets/projects/aeffectlab/aeffectlab_02.webp
+cover: assets/projects/aeffectlab/aeffectlab_02.webp
+details:
+  'Exhibitions':
+    - '2013: Æffect Lab, Museum Of Latin American Art - Long Beach, US'
 ---
 ![](/assets/projects/aeffectlab/aeffectlab_02.webp)
 
@@ -25,5 +28,4 @@ In addition to the network, we also developed 4 different prototypes based on ou
 
 {% include swipebox.html prefix="aeffectlab_0" %}
 
-**Exhibitions:**  
-2013: Æffect Lab, Museum Of Latin American Art - Long Beach, US.
+{% include details.html %}

@@ -208,6 +208,43 @@ s {
   }
 }
 
+.detail-list-container {
+  margin: 12px 0;
+
+  .detail-label {
+    user-select: none;
+
+    .detail-list-title {
+      text-decoration: underline;
+    }
+  }
+
+  .detail-list-checkbox {
+    display: none;
+
+    &:checked + .detail-list {
+      max-height: 0;
+    }
+
+    &:not(:checked) + .detail-list {
+      max-height: 500px;
+    }
+  }
+
+  .detail-list {
+    overflow: hidden;
+    transition: max-height 0.12s linear;
+  }
+
+  .detail-item {
+    padding: 0 12px;
+
+    p {
+      margin: initial;
+    }
+  }
+}
+
 .inline-image-container {
   margin-bottom: $VERTICAL-SECTION-SPACING/2;
   img {

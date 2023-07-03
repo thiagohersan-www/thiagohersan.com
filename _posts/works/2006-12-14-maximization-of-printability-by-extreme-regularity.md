@@ -1,7 +1,7 @@
 ---
 category: project
 title: Maximization of Printability by Extreme Regularity
-cover: /assets/projects/maximization-of-printability/18.webp
+cover: assets/projects/maximization-of-printability/18.webp
 ---
 ![]({{ "assets/projects/maximization-of-printability/22or25.webp" | relative_url }})
 

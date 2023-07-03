@@ -5,6 +5,17 @@ github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
 cover: assets/projects/relative-intensity/antb-ri_00.jpg
+details:
+  'References':
+    - '[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.'
+    - '[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.'
+    - '[3] Calvino, Italo (1997). Invisible Cities. Random House.'
+    - '[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[5] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.'
+    - '[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.'
+    - '[7] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.'
+  'Exhibitions':
+    - '2020: Signals and Words, XPO - Enschede, NL'
 ---
 ![]({{ "assets/projects/relative-intensity/antb-ri_00.jpg" | relative_url }})
 
@@ -18,20 +29,4 @@ Like the [astrolabe]({{ "astrolabe-project/" | relative_url }}), these antennas 
 
 {% include swipebox.html prefix="antb-ri_" %}
 
-**References:**  
-[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.
-
-[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.
-
-[3] Calvino, Italo (1997). Invisible Cities. Random House.
-
-[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
-
-[5] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.
-
-[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.
-
-[7] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
-
-**Exhibitions:**  
-2020: Signals and Words, XPO - Enschede, NL.
+{% include details.html %}

@@ -5,6 +5,10 @@ github: https://github.com/thiagohersan/FofoquemeVoxPopuli
 www: http://www.sescsp.org.br/multitude/
 collab: https://www.radames.in/
 cover: assets/projects/vox-populi/ffq-vox_p9_00.webp
+details:
+  'Exhibitions':
+    - '2016: Art Gym, Tate Liverpool - Liverpool, UK'
+    - '2014: Multitudes, SESC Pompéia - São Paulo, BR'
 ---
 ![]({{ "assets/projects/vox-populi/ffq-vox_fusion_00.webp" | relative_url }})
 
@@ -32,6 +36,4 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 
 {% include swipebox.html prefix="ffq-vox_sesc_0" %}
 
-**Exhibitions:**  
-2016: Art Gym, Tate Liverpool - Liverpool, UK.  
-2014: Multitudes, SESC Pompéia - São Paulo, BR.
+{% include details.html %}

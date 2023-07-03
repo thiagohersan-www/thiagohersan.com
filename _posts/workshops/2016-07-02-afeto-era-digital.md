@@ -4,6 +4,14 @@ title: O Afeto na Era de Sua Reprodutibilidade Digital
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
 collab: http://www.incubadoradeartistas.com.br/
 cover: assets/workshops/afeto-era-digital/FATA2016_workshop01.jpg
+details:
+  'Details':
+    - 'Length: 2 days x 2 hours each'
+    - 'Materials: Projector, alginate, silicone, kitchen scale, 2-inch wood dowel, drawer knobs, small plastic bottles or cups'
+    - 'Slides: [pdf](../assets/docs/afeto-era-digital_2017-tomie.pdf){:target="_blank"}'
+  'Previous instances':
+    - '2017: Projeto Marcenaria, Instituto Tomie Ohtake - São Paulo, BR'
+    - '2016 FATA II, Galpão 27 - Atibaia, BR'
 ---
 ![]({{ "assets/workshops/afeto-era-digital/FATA2016_flyer.jpg" | relative_url }})
 
@@ -13,21 +21,13 @@ We then use alginate, silicone rubber and other analog materials to create objec
 
 Once we have our objects, we perform our network in a town plaza, gallery or other public space, implicating other objects, humans and animals in our communication rituals.
 
-Slides: [pdf]({{ "../assets/docs/afeto-era-digital_2017-tomie.pdf" | relative_url }}){:target="_blank"}
+{% include details.html %}
 
 ![](/assets/workshops/afeto-era-digital/FATA2016_workshop01.jpg)
 
 {% include video.html
-   webm="assets/workshops/afeto-era-digital/movWorkshop08.webm"
-   image="assets/workshops/afeto-era-digital/FATA2016_workshop01.jpg"
+  webm="assets/workshops/afeto-era-digital/movWorkshop08.webm"
+  image="assets/workshops/afeto-era-digital/FATA2016_workshop01.jpg"
 %}
 
 {% include swipebox.html prefix="FATA2016_workshop" %}
-
-**Details:**  
-Length: 2 days x 2 hours each  
-Materials: Projector, alginate, silicone, kitchen scale, 2-inch wood dowel, drawer knobs, small plastic bottles or cups
-
-**Previous instances:**  
-2017: Projeto Marcenaria, Instituto Tomie Ohtake - São Paulo, BR.  
-2016 FATA II, Galpão 27 - Atibaia, BR.

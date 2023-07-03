@@ -3,7 +3,7 @@ category: project
 title: uLikeMe (on facebook)
 github: https://github.com/thiagohersan/uLikeMe
 www: http://ulikeme.thiagohersan.com/
-cover: /assets/projects/ulikeme-on-facebook/uLikeMe666_wide.png
+cover: assets/projects/ulikeme-on-facebook/uLikeMe666_wide.png
 ---
 ![](/assets/projects/ulikeme-on-facebook/albums.jpg)
 

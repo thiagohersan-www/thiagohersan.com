@@ -2,7 +2,16 @@
 category: feat
 title: Algotypes (tarot)
 github: https://github.com/thiagohersan/algotypes
-cover: /assets/projects/algotypes-tarot/algotypes-tarot_00.webp
+cover: assets/projects/algotypes-tarot/algotypes-tarot_00.webp
+details:
+  'References':
+    - '[1] Jodorowsky, Alejandro & Costa, Marianne (2009). O Caminho do Tarot. Chave Editora.'
+    - '[2] Nichols, Sallie (1988). Jung e o Tarô. Editora Cultrix.'
+  'Exhibitions':
+    - '2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE'
+    - '2021: online onsite, BICA plataforma - São Paulo, BR'
+    - '2021: The Future for Today, Witch Institute - Kingston, CA'
+    - '2020: stick.t.me, panke.gallery - Berlin, DE'
 ---
 ![](/assets/projects/algotypes-tarot/algotypes-tarot_00.webp)
 
@@ -20,13 +29,4 @@ The possible representations, interpretations, and rereadings presented here are
 
 {% include swipebox.html prefix="algotypes-tarot_" %}
 
-**References:**  
-[1] Jodorowsky, Alejandro & Costa, Marianne (2009). O Caminho do Tarot. Chave Editora.
-
-[2] Nichols, Sallie (1988). Jung e o Tarô. Editora Cultrix.
-
-**Exhibitions:**  
-2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE.  
-2021: online onsite, BICA plataforma - São Paulo, BR.  
-2021: The Future for Today, Witch Institute - Kingston, CA.  
-2020: stick.t.me, panke.gallery - Berlin, DE.
+{% include details.html %}

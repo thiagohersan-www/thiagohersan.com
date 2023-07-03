@@ -3,7 +3,7 @@ category: project
 title: "America's #1 Card Game"
 pics: https://www.flickr.com/photos/draw4/albums
 www: https://drive.google.com/drive/folders/1hcfjRKOTuthkQeizNNcog7nMox_EpyLe?usp=sharing
-cover: /assets/projects/americas-1-card-game/BailOut_UNO/BO_aback00.jpg
+cover: assets/projects/americas-1-card-game/BailOut_UNO/BO_aback00.jpg
 ---
 ![](/assets/projects/americas-1-card-game/americas-1-card-game.jpg)
 

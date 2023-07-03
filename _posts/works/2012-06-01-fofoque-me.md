@@ -4,9 +4,16 @@ title: Fofoque-me
 github: https://github.com/thiagohersan/Fofoqueme
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508
 collab: https://www.radames.in/
-cover: /assets/projects/fofoque-me/ffqme.webp
+cover: assets/projects/fofoque-me/ffqme_01.webp
+details:
+  'Exhibitions':
+    - '2012: Circuito Vivo arte.mov, Paço das Artes - São Paulo, BR'
+    - '2012: SESC Ribeirão Preto - Ribeirão Preto, BR'
 ---
-![](/assets/projects/fofoque-me/ffqme.webp)
+{% include video.html
+  webm="assets/projects/fofoque-me/ffqme_teaser.webm"
+  image="assets/projects/fofoque-me/ffqme2.webp"
+%}
 
 Interactive sculpture/installation, done in collaboration with Radamés Ajna, for the event Circuito Vivo arte.mov 2012 - São Paulo, in May of 2012.
 
@@ -20,22 +27,22 @@ I'm guessing these kinds of interactions also have their benefits, as a generic 
 
 Once we become solely concerned with sending (and "trending", "like-ing", etc), are our phones and tablets going to be the only ones actually interacting?
 
-![](/assets/projects/fofoque-me/ffq_simulado.webp)
+![](/assets/projects/fofoque-me/ffqme_01.webp)
+
+{% include swipebox.html prefix="ffqme_0" %}
 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 
 These messages are first passed through a series of cell phones before being broadcast through a megaphone and speech synthesis system. In addition to giving physicality to the message, these cell phones can also interfere with the message in their own way, adding a little bit of their personalities and anxieties.
 
-{% include vimeo.html id="43858648" %}
-
 Since these broadcasts only exist for a short amount of time in a specific physical location, we hope they can promote a unique kind of "social grooming" that motivates physical interactions amongst participants.
 
+{% include details.html %}
+
+{% include vimeo.html id="43858648" %}
+
+{% comment %}
 {% include vimeo.html id="43282923" %}
-
 {% include vimeo.html id="43057300" %}
-
 {% include vimeo.html id="48852839" %}
-
-**Exhibitions:**  
-2012: Circuito Vivo arte.mov, Paço das Artes - São Paulo, BR.  
-2012: SESC Ribeirão Preto - Ribeirão Preto, BR.
+{% endcomment %}

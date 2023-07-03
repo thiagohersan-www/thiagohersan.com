@@ -2,9 +2,12 @@
 category: project
 title: Angry Letters
 github: https://github.com/thiagohersan/AngryLetters
-cover: /assets/projects/angry-letters/angry-letters_00.webp
+cover: assets/projects/angry-letters/angry-letters_00.webp
+details:
+  'Exhibitions':
+    - '2014: Laboratório da Destruição, Nuvem - Rio de Janeiro, BR'
 ---
-![](/assets/projects/angry-letters/angry-letters_00.webp)
+![]({{ "assets/projects/angry-letters/angry-letters_00.webp" | relative_url }})
 
 Just because they shouldn't be read, doesn't mean they can't be written!
 
@@ -22,5 +25,4 @@ A simple ritual for sharing angry messages with the world:
 
 {% include swipebox.html prefix="angry-letters_" %}
 
-**Exhibitions:**  
-2014: Laboratório da Destruição, Nuvem - Rio de Janeiro, BR.
+{% include details.html %}

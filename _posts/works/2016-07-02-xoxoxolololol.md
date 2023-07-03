@@ -4,6 +4,19 @@ title: XOXOXOLOLOLOL
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
 collab: http://www.incubadoradeartistas.com.br/
 cover: assets/projects/xoxoxolololol/FATA2016_flyer.jpg
+details:
+  'References':
+    - '[1] Bauman, Zygmunt (2004). Amor Líquido: Sobre a fragilidade dos laços humanos. Editora Schwarcz - Companhia das Letras.'
+    - '[2] Benjamin, Walter (2008). The Work of Art in the Age of Mechanical Reproduction. Penguin UK.'
+    - '[3] Crary, Jonathan (2014). 24/7: Late Capitalism and the Ends of Sleep. Verso Books.'
+    - '[4] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.'
+    - '[5] Han, Byung-Chul (2017). In the Swarm: Digital Prospects. MIT Press.'
+    - '[6] Han, Byung-Chul (2015). The Transparency Society. Stanford University Press.'
+    - '[7] McLuhan, Marshall & Fiore, Quentin (2011). The Medium Is the Massage: An Inventory of Effects. Gingko Press Inc.'
+    - '[8] Russell, Legacy (2020). Glitch Feminism: A Manifesto. Verso Books.'
+    - '[9] Zilio, Marion (2020). Le livre des larves: Comment nous sommes devenu.e.s nos proies. PUF.'
+  'Exhibitions':
+    - '2016: FATA II, Galpão 27 - Atibaia, BR'
 ---
 ![]({{ "assets/projects/xoxoxolololol/envelope02.jpg" | relative_url }})
 
@@ -32,8 +45,8 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 ![]({{ "assets/projects/xoxoxolololol/FATA2016_xoxolol00.jpg" | relative_url }})
 
 {% include video.html
-   webm="assets/projects/xoxoxolololol/movFATA03.webm"
-   image="assets/projects/xoxoxolololol/envelope02.jpg"
+  webm="assets/projects/xoxoxolololol/movFATA03.webm"
+  image="assets/projects/xoxoxolololol/envelope02.jpg"
 %}
 
 {% include swipebox.html prefix="FATA2016_xoxolol" %}
@@ -42,30 +55,10 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 
 {% include vimeo.html id="171869957" %}
 
-## Participants
-This would not have been possible without the participation of some very special people. From the people who received stamps in the mail, to the people who participated in the workshop, interacted with us in the plaza, contributed to the installation, travelled with stamps, helped produce videos, gave advice, documented... 
+**Participants:**  
+This would not have been possible without the participation of some very special people. From the people who received stamps in the mail, to the people who participated in the workshop, interacted with us in the plaza, contributed to the installation, travelled with stamps, helped produce videos, gave advice, documented...
 
-Huge thanks to:  
+**Huge thanks to:**  
 Amanda, Amanda, Ana Paula, Anne Katherin, Belén, Cybelle, Gersey, Graziele, Gustavo, Igor, Ivan, Jason, José, Josy, Júlia, Lizzy, Marina, Natalia, Paloma, Paula, Ricardo, Rita, Salima, Shikha, Vinícius, Vitor.
 
-**References:**  
-[1] Bauman, Zygmunt (2004). Amor Líquido: Sobre a fragilidade dos laços humanos. Editora Schwarcz - Companhia das Letras.
-
-[2] Benjamin, Walter (2008). The Work of Art in the Age of Mechanical Reproduction. Penguin UK.
-
-[3] Crary, Jonathan (2014). 24/7: Late Capitalism and the Ends of Sleep. Verso Books.
-
-[4] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.
-
-[5] Han, Byung-Chul (2017). In the Swarm: Digital Prospects. MIT Press.
-
-[6] Han, Byung-Chul (2015). The Transparency Society. Stanford University Press.
-
-[7] McLuhan, Marshall & Fiore, Quentin (2011). The Medium Is the Massage: An Inventory of Effects. Gingko Press Inc.
-
-[8] Russell, Legacy (2020). Glitch Feminism: A Manifesto. Verso Books.
-
-[9] Zilio, Marion (2020). Le livre des larves: Comment nous sommes devenu.e.s nos proies. PUF.
-
-**Exhibitions:**  
-2016: FATA II, Galpão 27 - Atibaia, BR.
+{% include details.html %}

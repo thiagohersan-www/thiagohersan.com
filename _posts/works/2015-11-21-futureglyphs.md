@@ -5,7 +5,11 @@ github: https://github.com/astrovandalistas/word_encoder
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: https://futureglyphs.astrovandalistas.cc/
 astros: http://astrovandalistas.cc/futureglyphs/
-cover: /assets/projects/futureglyphs/laser_00.webp
+cover: assets/projects/futureglyphs/laser_00.webp
+details:
+  'Exhibitions':
+    - '2017: Unsettled Artifacts, SIGGRAPH 2017 - Los Angeles, US'
+    - '2015: Territory of the Imagination, Rubin Art Center - El Paso, US'
 ---
 ![]({{ "assets/projects/futureglyphs/laser_01.webp" | relative_url }})
 
@@ -33,6 +37,4 @@ Once engraved, these stones are returned to construction sites, gentrifying neig
 
 {% include swipebox.html prefix="futureglyphs_" %}
 
-**Exhibitions:**  
-2017: Unsettled Artifacts, SIGGRAPH 2017 - Los Angeles, US.  
-2015: Territory of the Imagination, Rubin Art Center - El Paso, US.
+{% include details.html %}

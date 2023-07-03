@@ -4,11 +4,25 @@ title: Algotypes
 github: https://github.com/thiagohersan/algotypes
 www: https://astrolabe.thiagohersan.com/
 collab: https://outras.ml
-cover: /assets/projects/algotypes-wifi/algotypes-wifi_00.webp
+cover: assets/projects/algotypes-wifi/algotypes-wifi_00.webp
+details:
+  'References':
+    - '[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.'
+    - '[3] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.'
+    - '[4] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.'
+    - '[5] Reich, Wilhelm (2013). The Bioelectrical Investigation of Sexuality and Anxiety. Farrar, Straus and Giroux.'
+    - '[6] Rosetta Code. Retrieved January 31, 2020, from [https://rosettacode.org](https://rosettacode.org){:target="_blank"}.'
+    - '[7] Goop.com. Retrieved January 31, 2020, from [https://goop.com](https://goop.com){:target="_blank"}.'
+  'Exhibitions':
+    - '2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE'
+    - '2021: Algoritmo Cósmico, Galeria Zipper - São Paulo, BR'
+    - '2021: Embodied Interface, embodiedinterface.com - Taiwan, TW'
+    - '2020: Signals and Words, XPO - Enschede, NL'
 ---
 {% include video.html
-   webm="assets/projects/algotypes-wifi/algotypes.webm"
-   image="assets/projects/algotypes-wifi/algotypes-wifi_00.webp"
+  webm="assets/projects/algotypes-wifi/algotypes.webm"
+  image="assets/projects/algotypes-wifi/algotypes-wifi_00.webp"
 %}
 
 Algotypes is an intervention in the 2.4GHz WiFi band, inspired by the more esoteric sides of science that have been used to explain invisible phenomena.
@@ -25,26 +39,7 @@ Screens display information about the nearby WiFi networks showing network names
 
 {% include swipebox.html prefix="algotypes-wifi_" %}
 
-**References:**  
-[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
-
-[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
-
-[3] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.
-
-[4] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
-
-[5] Reich, Wilhelm (2013). The Bioelectrical Investigation of Sexuality and Anxiety. Farrar, Straus and Giroux.
-
-[6] Rosetta Code. Retrieved January 31, 2020, from [https://rosettacode.org](https://rosettacode.org){:target="_blank"}.
-
-[7] Goop.com. Retrieved January 31, 2020, from [https://goop.com](https://goop.com){:target="_blank"}.
-
-**Exhibitions:**  
-2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE.  
-2021: Algoritmo Cósmico, Galeria Zipper - São Paulo, BR.  
-2021: Embodied Interface, embodiedinterface.com - Taiwan, TW.  
-2020: Signals and Words, XPO - Enschede, NL.
+{% include details.html %}
 
 {% comment %}
 <br>
