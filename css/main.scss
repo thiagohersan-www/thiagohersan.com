@@ -232,6 +232,13 @@ s {
   transition: filter $TRANSITION-PERIOD linear;
   box-sizing: border-box;
 
+  &.last-even-home {
+    display: none;
+    @include media-query(DESKTOP) {
+      display: initial;
+    }
+  }
+
   @include media-query(DESKTOP) {
     width: 33%;
     padding: 12px 1%;
