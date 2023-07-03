@@ -20,18 +20,23 @@ Ad Infinitum draws a link between our insatiable consumption of social media and
 
 ![]({{ "assets/projects/ad-infinitum/infinitum_02.webp" | relative_url }})
 
-In addition to the infinite scroll, a set of counterfunctional[[1]](#refs){:style="vertical-align:super;"} objects was designed to further explore the materiality of our everyday digital footprint. Despite their familiar form factor, the touch-sensitive cement phones are heavy, rough, cracked and only present the shadows of infinite infornmation, in complete opposition to the slick, smooth and glossy techno-positivism associated with our un-resistive flow of information.
+In addition to the infinite scroll, a set of counterfunctional[[4]](#refs){:style="vertical-align:super;"} objects was designed to further explore the materiality of our everyday digital footprint. Despite their familiar form factor, the touch-sensitive cement phones are heavy, rough, cracked and only present the shadows of infinite infornmation, in complete opposition to the slick, smooth and glossy techno-positivism associated with our un-resistive flow of information.
 
 [](){:#refs}
 This project was developed with [Mari Nagem](https://marinagem.com/){:target="_blank"} during the artistic residency ComCiência, at the Museum of Mines and Metals in Belo Horizonte, Brazil and later expanded and presented as part of Sala_Taller in the Space for Contemporary Art in Montevideo, Uruguay.
 
+{% include swipebox.html prefix="ad-infinitum_" %}
+
 **References:**  
-[1] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.
+[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
 
 [2] Han, Byung-Chul (2017). [Saving Beauty](https://www.perlego.com/book/1536329/saving-beauty-pdf){:target="_blank"}. Polity Press.
 
 [3] Hui, Yuk Hui (2020). [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html){:target="_blank"}. Ubu Editora.
 
-[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
+[4] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.
 
-{% include swipebox.html prefix="ad-infinitum_" %}
+**Exhibitions:**  
+2023: Salla_Taller, EAC - Montevideo, UY.  
+2022: Condições de Existência, Oi Futuro - Rio de Janeiro, BR.  
+2021: Jardim Mineral, Museu das Minas e do Metal - Belo Horizonte, BR.

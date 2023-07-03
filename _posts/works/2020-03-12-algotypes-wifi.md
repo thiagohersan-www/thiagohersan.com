@@ -21,19 +21,30 @@ Other than network names and some management packets, the pyramids can’t decod
 
 Screens display information about the nearby WiFi networks showing network names and channels, as well as a visualization of the packets being read and transmitted by the pyramids.
 
-**References:**  
-[1] Reich, Wilhelm (2007). The function of the orgasm: The Discovery of the Orgone, Vol. 1. Farrar, Straus and Giroux.
-
-[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
-
-[3] Rosetta Code. Retrieved January 31, 2020, from [https://rosettacode.org](https://rosettacode.org){:target="_blank"}.
-
-[4] Goop.com. Retrieved January 31, 2020, from [https://goop.com](https://goop.com){:target="_blank"}.
-
 {% include vimeo.html id="398714299" %}
 
 {% include swipebox.html prefix="algotypes-wifi_" %}
 
+**References:**  
+[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
+
+[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
+
+[3] Harawy, Donna (1988). [Situated Knowledges](https://www.jstor.org/stable/3178066){:target="_blank"}: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575.
+
+[4] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
+
+[5] Reich, Wilhelm (2013). The Bioelectrical Investigation of Sexuality and Anxiety. Farrar, Straus and Giroux.
+
+[6] Rosetta Code. Retrieved January 31, 2020, from [https://rosettacode.org](https://rosettacode.org){:target="_blank"}.
+
+[7] Goop.com. Retrieved January 31, 2020, from [https://goop.com](https://goop.com){:target="_blank"}.
+
+**Exhibitions:**  
+2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE.  
+2021: Algoritmo Cósmico, Galeria Zipper - São Paulo, BR.  
+2021: Embodied Interface, embodiedinterface.com - Taiwan, TW.  
+2020: Signals and Words, XPO - Enschede, NL.
 
 {% comment %}
 <br>

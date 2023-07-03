@@ -13,3 +13,7 @@ A future where we've successfully been able to optimize ourselves out, and techn
 {% include swipebox.html prefix="AFT-transmediale_0" %}
 
 In this particular instance, a megaphone and a computer monitor discuss the aftermath of their relationship and existence using fatalistic texts scraped from search engines and social networking sites.
+
+**Exhibitions:**  
+2017: Making Plans, Human Resources Gallery - Los Angeles, US.  
+2014: Transmediale’14, Haus der Kulturen der Welt - Berlin, DE.

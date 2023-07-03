@@ -4,4 +4,4 @@ permalink: '/collaborations/'
 layout: list
 categories: "collaboration"
 ---
-Some collaborative projects
+Collaborative projects

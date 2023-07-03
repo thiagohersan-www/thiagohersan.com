@@ -35,3 +35,7 @@ In November of 2015 we showed a final version of the system in Juárez/El Paso, 
 
 {% include swipebox.html prefix="fact0" %}
 {% include swipebox.html prefix="rubin0" %}
+
+**Exhibitions:**  
+2015: Territory of the Imagination, Rubin Art Center - El Paso, US.  
+2014: Acciones Territoriales, Ex Teresa - México City, MX.

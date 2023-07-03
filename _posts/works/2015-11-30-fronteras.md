@@ -25,5 +25,8 @@ Of course, before all of this, well before, the region was already inhabited by 
    image="assets/projects/fronteras/fronteras_06.webp"
 %}
 
-
 {% include swipebox.html prefix="fronteras_0" %}
+
+**Exhibitions:**  
+2017: Periscópio, EAC - Montevideo, UY.  
+2016: Periscópio, Galeria Zipper - São Paulo, BR.

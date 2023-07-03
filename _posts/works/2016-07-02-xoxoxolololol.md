@@ -47,3 +47,25 @@ This would not have been possible without the participation of some very special
 
 Huge thanks to:  
 Amanda, Amanda, Ana Paula, Anne Katherin, Belén, Cybelle, Gersey, Graziele, Gustavo, Igor, Ivan, Jason, José, Josy, Júlia, Lizzy, Marina, Natalia, Paloma, Paula, Ricardo, Rita, Salima, Shikha, Vinícius, Vitor.
+
+**References:**  
+[1] Bauman, Zygmunt (2004). Amor Líquido: Sobre a fragilidade dos laços humanos. Editora Schwarcz - Companhia das Letras.
+
+[2] Benjamin, Walter (2008). The Work of Art in the Age of Mechanical Reproduction. Penguin UK.
+
+[3] Crary, Jonathan (2014). 24/7: Late Capitalism and the Ends of Sleep. Verso Books.
+
+[4] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.
+
+[5] Han, Byung-Chul (2017). In the Swarm: Digital Prospects. MIT Press.
+
+[6] Han, Byung-Chul (2015). The Transparency Society. Stanford University Press.
+
+[7] McLuhan, Marshall & Fiore, Quentin (2011). The Medium Is the Massage: An Inventory of Effects. Gingko Press Inc.
+
+[8] Russell, Legacy (2020). Glitch Feminism: A Manifesto. Verso Books.
+
+[9] Zilio, Marion (2020). Le livre des larves: Comment nous sommes devenu.e.s nos proies. PUF.
+
+**Exhibitions:**  
+2016: FATA II, Galpão 27 - Atibaia, BR.

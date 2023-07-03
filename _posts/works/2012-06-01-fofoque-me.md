@@ -35,3 +35,7 @@ Since these broadcasts only exist for a short amount of time in a specific physi
 {% include vimeo.html id="43057300" %}
 
 {% include vimeo.html id="48852839" %}
+
+**Exhibitions:**  
+2012: Circuito Vivo arte.mov, Paço das Artes - São Paulo, BR.  
+2012: SESC Ribeirão Preto - Ribeirão Preto, BR.

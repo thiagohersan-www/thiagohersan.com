@@ -9,7 +9,7 @@ cover: /assets/projects/futureglyphs/laser_00.webp
 ---
 ![]({{ "assets/projects/futureglyphs/laser_01.webp" | relative_url }})
 
-In November of 2015 we were part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68){:target="_blank"} exhibition at the Rubin Center for the Arts in El Paso. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of [laser-connected modems](/laser-chat-fronterizo/) on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
+In November of 2015 the Astrovandalistas collective was part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68){:target="_blank"} exhibition at the Rubin Center for the Arts in El Paso. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of [laser-connected modems](/laser-chat-fronterizo/) on both sides of the border, but the groups we were working with in the region didn't see this kind of communication as a necessity.
 
 During workshops held in El Paso and Ciudad Juárez, we worked with different groups of people and talked about what role technology played in their daily lives. We used the vague notion of "technology" to trace simple past-present-future narratives about different topics pertinent to the region, like, the militarization of the border, factory life-cycles, agriculture, water and other natural resources.
 
@@ -32,3 +32,7 @@ Once engraved, these stones are returned to construction sites, gentrifying neig
 ![]({{ "assets/projects/futureglyphs/siggraph_00.webp" | relative_url }})
 
 {% include swipebox.html prefix="futureglyphs_" %}
+
+**Exhibitions:**  
+2017: Unsettled Artifacts, SIGGRAPH 2017 - Los Angeles, US.  
+2015: Territory of the Imagination, Rubin Art Center - El Paso, US.

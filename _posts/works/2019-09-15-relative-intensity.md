@@ -17,3 +17,21 @@ These are collections of wearable antennas made of copper and brass pieces model
 Like the [astrolabe]({{ "astrolabe-project/" | relative_url }}), these antennas suggest a more embodied form of navigating a network. They are ontological machines for exploring the relationships between humans, nature, culture, objects and networks, and making their intra-actions a little more significantly felt.
 
 {% include swipebox.html prefix="antb-ri_" %}
+
+**References:**  
+[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.
+
+[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.
+
+[3] Calvino, Italo (1997). Invisible Cities. Random House.
+
+[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.
+
+[5] Flusser, Vilém (1985). Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia.
+
+[6] Harawy, Donna (1988). [Situated Knowledges](https://www.jstor.org/stable/3178066){:target="_blank"}: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575.
+
+[7] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.
+
+**Exhibitions:**  
+2020: Signals and Words, XPO - Enschede, NL.

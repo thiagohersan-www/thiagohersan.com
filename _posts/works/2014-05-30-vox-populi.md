@@ -31,3 +31,7 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 {% include vimeo.html id="98495273" %}
 
 {% include swipebox.html prefix="ffq-vox_sesc_0" %}
+
+**Exhibitions:**  
+2016: Art Gym, Tate Liverpool - Liverpool, UK.  
+2014: Multitudes, SESC Pompéia - São Paulo, BR.

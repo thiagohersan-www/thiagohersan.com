@@ -18,9 +18,15 @@ Today, they are part of very complicated social systems, and, while their steps 
 
 The possible representations, interpretations, and rereadings presented here are meant to facilitate potential connections between material, abstract, personal, political and social aspects of computation, and act as a kind of lens to amplify and surface what is concealed within these logics.
 
+{% include swipebox.html prefix="algotypes-tarot_" %}
+
 **References:**  
 [1] Jodorowsky, Alejandro & Costa, Marianne (2009). O Caminho do Tarot. Chave Editora.
 
 [2] Nichols, Sallie (1988). Jung e o Tarô. Editora Cultrix.
 
-{% include swipebox.html prefix="algotypes-tarot_" %}
+**Exhibitions:**  
+2022: Elasticity of Resilience, SAVVY Contemporary / panke.gallery - Berlin, DE.  
+2021: online onsite, BICA plataforma - São Paulo, BR.  
+2021: The Future for Today, Witch Institute - Kingston, CA.  
+2020: stick.t.me, panke.gallery - Berlin, DE.

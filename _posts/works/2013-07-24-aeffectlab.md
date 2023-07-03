@@ -24,3 +24,6 @@ The first practical instance of this network was created in July of 2013 for the
 In addition to the network, we also developed 4 different prototypes based on our own experiences, and desires for human-human communication. These prototypes serve as custom input and output interfaces that are specific for this particular space. They serve as examples of what can be done with such a framework, so even though they can be easily replicated, the idea is to encourage and teach people to build their own devices and interfaces for affective communication.
 
 {% include swipebox.html prefix="aeffectlab_0" %}
+
+**Exhibitions:**  
+2013: Æffect Lab, Museum Of Latin American Art - Long Beach, US.
