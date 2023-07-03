@@ -17,3 +17,6 @@ The exhibition also coincided with growing [mass protests](http://www.theguardia
 During a 4-day workshop, we worked with writers, journalists, artists, activists, and programmers to prepare a collaborative, temporary, [clickbaiting](http://en.wikipedia.org/wiki/Clickbait){:target="_blank"} site with critical content about Mexico's telecommunication companies, and the government's proposed telecommunication and energy reform laws. The website was then hosted on a couple of modified WiFi routers, which were distributed throughout the city center, broadcasting the contents of the site on local wireless networks with names like: "Free Internet" and "Free WiFi". Upon joining these networks, which weren't connected to the internet, users would only be able to access our [collaborative site](http://estonoesinternet.astrovandalistas.cc/){:target="_blank"}.
 
 ![]({{ "assets/workshops/codepi-estonoesinternet/site_mockup2.png" | relative_url }})
+
+**Previous instances:**  
+2014: Acciones Territoriales, Ex Teresa - México City, MX.
