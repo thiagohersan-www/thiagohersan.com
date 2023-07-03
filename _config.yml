@@ -6,6 +6,20 @@ url: https://thiagohersan.com
 baseurl: ''
 permalink: :title/
 include: ['_pages']
+exclude: [
+  .git,
+  .gitignore,
+  Gemfile,
+  Gemfile.lock,
+  README.md,
+  .sass-cache/,
+  .jekyll-cache/,
+  gemfiles/,
+  node_modules/
+]
+
+sass:
+  sass_dir: css/_sass
 
 # Build settings
 markdown: kramdown
