@@ -7,8 +7,8 @@ collab: https://vimeo.com/cimarcelle/
 cover: assets/collaborations/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg
 ---
 {% include video.html
-   webm="assets/collaborations/os-que-chegam-com-a-noite/oqccan.webm"
-   image="assets/collaborations/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg"
+  webm="assets/collaborations/os-que-chegam-com-a-noite/oqccan.webm"
+  image="assets/collaborations/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg"
 %}
 
 In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.com/cimarcelle){:target="_blank"} and [Pedro Veneroso](http://pedroveneroso.com/){:target="_blank"} with their project: *Os Que Chegam Com a Noite*, for Belo Horizonte’s version of the [Nuit Blanche](http://en.wikipedia.org/wiki/Nuit_Blanche){:target="_blank"}.

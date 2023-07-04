@@ -16,7 +16,9 @@ Is part of [Astrovandalistas](https://astrovandalistas.cc){:target="_blank"}. Re
 
 Has been a resident at Impakt in Utrecht, Delfina Foundation in London and Autodesk in San Francisco; and participated in exhibitions like: Mirror Mirror in Lausanne, Humans Need Not Apply in Dublin, Unsettled Artifacts in Los Angeles, Follow in Liverpool and Multitudes in São Paulo.
 
-CV: [en]({{ 'assets/docs/hersan-cv__2022-04_en.pdf' | relative_url }}){:target="_blank"},
+Teaches [workshops]({{ "../workshops/" | relative_url }}). And is very [collaborative]({{ "../collaborations/" | relative_url }}).
+
+CV: [en]({{ 'assets/docs/hersan-cv__2023-05_en.pdf' | relative_url }}){:target="_blank"},
     [pt]({{ 'assets/docs/hersan-cv__2022-04_pt.pdf' | relative_url }}){:target="_blank"}
 
 <!-- {% include vimeo.html id="66541476" %} -->

@@ -4,4 +4,4 @@ permalink: '/collaborations/'
 layout: list
 categories: "collaboration"
 ---
-Collaborative projects
+Collaborations with other artists or collectives.
