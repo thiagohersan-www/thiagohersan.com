@@ -19,7 +19,7 @@ Has been a resident at Impakt in Utrecht, Delfina Foundation in London and Autod
 Teaches [workshops]({{ "../workshops/" | relative_url }}). And is very [collaborative]({{ "../collaborations/" | relative_url }}).
 
 CV: [en]({{ 'assets/docs/hersan-cv__2023-05_en.pdf' | relative_url }}){:target="_blank"},
-    [pt]({{ 'assets/docs/hersan-cv__2022-04_pt.pdf' | relative_url }}){:target="_blank"}
+    [pt]({{ 'assets/docs/hersan-cv__2023-05_pt.pdf' | relative_url }}){:target="_blank"}
 
 <!-- {% include vimeo.html id="66541476" %} -->
 {% include social-footer.html %}
