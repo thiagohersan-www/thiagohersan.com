@@ -10,7 +10,7 @@ details:
     - '[1] Barad, Karen (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831.'
     - '[2] Butler, Judith (2011). Gender Trouble: Feminism and the Subversion of Identity. Routledge.'
     - '[3] Calvino, Italo (1997). Invisible Cities. Random House.'
-    - '[4] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[4] Chabot, Pascal (2013). The Philosophy of Simondon. Bloomsbury Academic.'
     - '[5] Descola, Philippe (2013). The Ecology of Others. Paradigm Press.'
     - '[6] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.'
     - '[7] Hartigan Jr., John (2014). Aesop’s Anthropology: A Multispecies Approach. U of Minnesota Press.'

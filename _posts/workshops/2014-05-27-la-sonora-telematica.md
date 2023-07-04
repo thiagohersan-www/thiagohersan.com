@@ -10,7 +10,7 @@ details:
     - 'Materials: 1 RaspberryPi per participant, +1 for server, assortment of TVs, projectors, speakers'
   'Previous instances':
     - '2015: Transitio_MX 06, Centro Nacional de las Artes - México City, MX'
-    - '2014: [Sight+Sound Festival](https://sightandsound.dance){:target="_blank"}, Eastern Bloc - Montréal, CA'
+    - '2014: Sight+Sound Festival, Eastern Bloc - Montréal, CA'
 ---
 ![]({{ "assets/workshops/la-sonora-telematica/s_LaSonora02_bw.jpg" | relative_url }})
 

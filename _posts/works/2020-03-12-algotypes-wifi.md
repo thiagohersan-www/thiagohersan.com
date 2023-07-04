@@ -7,7 +7,7 @@ collab: https://outras.ml
 cover: assets/projects/algotypes-wifi/algotypes-wifi_00.webp
 details:
   'References':
-    - '[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
+    - '[1] Chabot, Pascal (2013). The Philosophy of Simondon. Bloomsbury Academic.'
     - '[2] Crawford, Kate (2022). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.'
     - '[3] Harawy, Donna (1991). Simians, Cyborgs and Women: The Reinvention of Nature. Routledge.'
     - '[4] Latour, Bruno (2012). We Have Never Been Modern. Harvard University Press.'

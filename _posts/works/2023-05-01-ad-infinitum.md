@@ -6,9 +6,9 @@ www: https://infinitum.thiagohersan.com/
 cover: assets/projects/ad-infinitum/ad-infinitum_01.webp
 details:
   'References':
-    - '[1] Chabot, Pascal (2013). [The Philosophy of Simondon](https://www.scribd.com/document/209029369/){:target="_blank"}. Bloomsbury Academic.'
-    - '[2] Han, Byung-Chul (2017). [Saving Beauty](https://www.perlego.com/book/1536329/saving-beauty-pdf){:target="_blank"}. Polity Press.'
-    - '[3] Hui, Yuk Hui (2020). [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html){:target="_blank"}. Ubu Editora.'
+    - '[1] Chabot, Pascal (2013). The Philosophy of Simondon. Bloomsbury Academic.'
+    - '[2] Han, Byung-Chul (2017). Saving Beauty. Polity Press.'
+    - '[3] Hui, Yuk Hui (2020). Tecnodiversidade. Ubu Editora.'
     - '[4] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.'
   'Exhibitions':
     - '2023: Salla_Taller, EAC - Montevideo, UY'
