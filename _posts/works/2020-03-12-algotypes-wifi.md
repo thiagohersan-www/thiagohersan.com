@@ -3,7 +3,7 @@ category: feat
 title: Algotypes
 github: https://github.com/thiagohersan/algotypes
 www: https://astrolabe.thiagohersan.com/
-collab: https://outras.ml
+collab: https://outras.thiagohersan.com
 cover: assets/projects/algotypes-wifi/algotypes-wifi_00.webp
 details:
   'References':

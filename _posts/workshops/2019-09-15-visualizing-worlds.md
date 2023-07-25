@@ -3,7 +3,7 @@ category: workshop
 title: Visualizing Worlds
 github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/
-collab: https://outras.ml
+collab: https://outras.thiagohersan.com
 cover: assets/workshops/visualizing-worlds/antb-rb_02.jpg
 details:
   'Details':

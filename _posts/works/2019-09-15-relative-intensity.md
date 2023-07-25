@@ -3,7 +3,7 @@ category: feat
 title: Relative Intensity Collection
 github: https://github.com/thiagohersan/astrolabe-hackrf
 www: https://astrolabe.thiagohersan.com/
-collab: https://outras.ml
+collab: https://outras.thiagohersan.com
 cover: assets/projects/relative-intensity/antb-ri_00.jpg
 details:
   'References':
