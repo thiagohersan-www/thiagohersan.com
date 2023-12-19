@@ -4,7 +4,7 @@ title: No More Heroes
 www: https://astrolabe.thiagohersan.com/
 ---
 
-Hello hello
+Project proposal images.
 
 ### SDR Hardware setup with two types of antennas
 ![]({{ "assets/drafts/no-more-heroes/no-more-heroes-00.jpg" | relative_url }})
