@@ -10,6 +10,7 @@ details:
     - '[2] Han, Byung-Chul (2017). Saving Beauty. Polity Press.'
     - '[3] Hui, Yuk Hui (2020). Tecnodiversidade. Ubu Editora.'
     - '[4] Pierce, James & Paulos, Eric (2014). [Counterfunctional](https://www.jamesjpierce.com/projects/project-d){:target="_blank"} things: Exploring possibilities in designing digital limitations. [Proceedings](https://dl.acm.org/doi/abs/10.1145/2598510.2598522){:target="_blank"} of the 2014 Conference on Designing Interactive Systems.'
+xdetails:
   'Exhibitions':
     - '2023: Salla_Taller, EAC - Montevideo, UY'
     - '2022: Condições de Existência, Oi Futuro - Rio de Janeiro, BR'
