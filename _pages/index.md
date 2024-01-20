@@ -5,7 +5,8 @@ layout: list
 categories: "feat"
 ---
 
-My work deals with the structures of power embedded in the digital, social and biological technologies that we use. I’m interested in the process of “hacking” as the deterritorialization of techniques necessary to shift, intervene and subvert these structures.
+My work deals with the structures of power embedded in the digital, social 
+and biological technologies that we use. I’m interested in the process of “hacking” as the reterritorialization of techniques necessary to shift, intervene and subvert these structures.
 
 <!---
 I create objects, situations and devices that resensitize my body towards a continuous and plural process of becoming that hopefully is more open to entanglements with other species, histories, epistemologies and technologies.
