@@ -158,6 +158,20 @@ s {
     text-align: center;
   }
 
+  .list-section {
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0 16px;
+
+    @include media-query(DESKTOP) {
+      padding: 0;
+    }
+  }
+
+  .list-section + p {
+    margin-top: 4px;
+  }
+
   .code-list {
     font-family: monospace;
   }
@@ -196,6 +210,7 @@ s {
       text-align: left;
       padding: 0;
     }
+
     a {
       font: 600 $TEXT-SIZE $FAMILY-SANS;
       text-decoration: underline;
