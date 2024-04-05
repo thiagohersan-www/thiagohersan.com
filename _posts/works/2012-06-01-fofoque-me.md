@@ -19,7 +19,9 @@ Interactive sculpture/installation, done in collaboration with Radamés Ajna, fo
 
 Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml){:target="_blank"}*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".
 
+{% comment %}
 ![](/assets/projects/fofoque-me/fofocas.webp)
+{% endcomment %}
 
 And then came facebook... and twitter... and other interfaces that (in my understanding) promote broadcasting communication instead of the "social grooming talk" that was seen as positive by the article.
 
