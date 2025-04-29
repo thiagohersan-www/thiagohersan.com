@@ -1,0 +1,37 @@
+---
+---
+
+.cv-section {
+  margin: 24px 0;
+  a {
+    text-decoration: underline;
+  }
+}
+
+.cv-subsection {
+  margin: 12px 0;
+  margin-left: 20px;
+}
+
+.cv-title {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+ul.cv-subsection,
+.cv-list {
+  margin-top: 0;
+}
+
+.two-cols {
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  column-gap: 20px;
+}
+
+.emph {
+  font-weight: 900;
+}

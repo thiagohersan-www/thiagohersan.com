@@ -1,0 +1,123 @@
+---
+permalink: '/cv/'
+layout: null
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ 'css/cv.css' | relative_url }}">
+    {% include meta.html %}
+  </head>
+  <body>
+    <div class="main-div-container">
+      {% include navbar.html %}
+      <div class="main-div">
+        <div class="post">
+          <div class="post-title">CV</div>
+
+          <div class="cv-section">
+            <div class="cv-title">Education</div>
+            {% for x in site.data.cv.edu %}
+              <div class="cv-subsection">
+                <div>{{x.title}}</div>
+                <div>{{x.school}}</div>
+                  {% if x.thesis %}
+                    <div>Thesis: {{x.thesis}}</div>
+                  {% endif %}
+              </div>
+            {% endfor %}
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Work Experience</div>
+            {% for x in site.data.cv.work %}
+              <div class="cv-subsection">
+                <div class="emph">{{x.emp}}</div>
+                <div>{{x.title}}</div>
+                <div>{{x.sub}}</div>
+                <!-- <ul class="cv-list">
+                  {% for y in x.resp %}
+                    <li>{{y}}</li>
+                  {% endfor %}
+                </ul> -->
+              </div>
+            {% endfor %}
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Publications</div>
+            {% for x in site.data.cv.pubs %}
+              <div class="cv-subsection">
+                <div><a href="{{x.link}}" target="_blank">{{x.title}}</a></div>
+                <div>{{x.dets}}</div>
+              </div>
+            {% endfor %}
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Patents</div>
+            {% for x in site.data.cv.patents %}
+              <div class="cv-subsection">
+                <div><a href="{{x.link}}" target="_blank">{{x.title}}</a></div>
+                <div>{{x.dets}}</div>
+              </div>
+            {% endfor %}
+          </div>
+
+          <!-- <div class="cv-section">
+            <div class="cv-title">Courses</div>
+            <ul class="cv-subsection two-cols">
+              {% for x in site.data.cv.courses %}
+                <li>{{x}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Courses from Amazon's internal MLU curriculum</div>
+            <ul class="cv-subsection two-cols">
+              {% for x in site.data.cv.other-courses %}
+                <li>{{x}}</li>
+              {% endfor %}
+            </ul>
+          </div> -->
+
+          <div class="cv-section">
+            <div class="cv-title">Skills</div>
+            {% for x in site.data.cv.skills %}
+              <div class="cv-subsection">
+                <div class="cv-subtitle">{{x[0]}}</div>
+                <ul class="cv-list">
+                  {% for y in x[1] %}
+                    <li><span class="emph">{{y.lang}}</span>: {{y.dets}}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endfor %}
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Residencies and Awards</div>
+            <ul class="cv-subsection">
+              {% for x in site.data.cv.awards %}
+                <li>{{x.title}} - {{x.dets}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="cv-section">
+            <div class="cv-title">Exhibitions</div>
+            <ul class="cv-subsection">
+              {% for x in site.data.cv.exhibitions %}
+                <li>{{x.title}} - {{x.dets}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
