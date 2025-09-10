@@ -10,7 +10,7 @@ urls:
   bot: https://beatbots.net
   silo: https://silo.org.br
 ---
-Thiago Hersan (he/they) is a mixed-media artist, researcher, design-technologist and educator.
+Thiago Hersan (he/they) is a mixed-media artist, researcher, design-technologist and educator. Is currently an assistant professor of data visualization at Parsons School of Design, teaching courses related to programming, ML and design.
 
 Holds a master's degree in electrical and computer engineering, and has worked as an integrated circuit designer, web programmer and design-technologist in small, medium and large companies.
 
@@ -20,7 +20,7 @@ Is part of [Astrovandalistas](https://astrovandalistas.cc){:target="_blank"}. Re
 
 Has been a resident at Impakt in Utrecht, Delfina Foundation in London and Autodesk in San Francisco; and participated in exhibitions like: Mirror Mirror in Lausanne, Humans Need Not Apply in Dublin, Unsettled Artifacts in Los Angeles, Follow in Liverpool and Multitudes in São Paulo.
 
-Also [teaches]({{ "../teaching/" | relative_url }}) and is very [collaborative]({{ "../collaborations/" | relative_url }}).
+Is also very [collaborative]({{ "../collaborations/" | relative_url }}).
 
 CV: [en]({{ 'assets/docs/hersan-cv__2023-05_en.pdf' | relative_url }}){:target="_blank"},
     [pt]({{ 'assets/docs/hersan-cv__2023-05_pt.pdf' | relative_url }}){:target="_blank"}
