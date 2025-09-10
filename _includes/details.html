@@ -1,8 +1,9 @@
 {% for d in page.details %}
   {% assign detail_title = d[0] %}
   {% assign detail_items = page.details[detail_title] %}
+  {% assign m_id = detail_title | downcase %}
 
-  <div class="detail-list-container">
+  <div id="{{ m_id }}" class="detail-list-container">
     <label class="detail-label" for="detail-list-{{ detail_title }}">
       <a class="detail-list-title">
         {{ detail_title }}:
