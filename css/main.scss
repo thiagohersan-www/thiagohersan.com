@@ -221,6 +221,18 @@ s {
       }
     }
   }
+
+  ul, ol {
+    a {
+      font: 600 $TEXT-SIZE $FAMILY-SANS;
+      text-decoration: underline;
+      color: $LINK-COLOR-POST;
+
+      &:hover {
+        color: $LINK-COLOR-POST-HOVER;
+      }
+    }
+  }
 }
 
 .detail-list-container {
