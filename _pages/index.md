@@ -14,4 +14,4 @@ I'm interested in the collaborative potential of technologies.
 
 I create tools, objects and situations as a way to deal with the ever more common and misconceived narratives of progress and techno-solutionism.
 
-**Representative Works:**
+**Selected Works:**
