@@ -11,6 +11,7 @@ details:
     - 'Materials: Projector, copper wire, copper tape, brass pieces, semi-precious stones, coaxial cable, soldering irons, solder, wire clippers, pliers'
     - 'Slides: [pdf](../assets/docs/visualizing-worlds_2019-red-bull.pdf){:target="_blank"}'
   'Previous instances':
+    - '2026: The Tropics, The Moon, and Mars, CUE Art - New York, US'
     - '2019: Visualizações de Mundos, Red Bull Station - São Paulo, BR'
 ---
 ![]({{ "assets/workshops/visualizing-worlds/antb-vw_00.jpg" | relative_url }})
@@ -25,7 +26,11 @@ Afterwards, each antenna is analyzed to quantify their resonance and measure whi
 
 {% include details.html %}
 
+{% include swipebox.html prefix="antb-cue_" %}
+Photos by Leo Ng, courtesy CUE Art, New York
+
 {% include swipebox.html prefix="antb-rb_" %}
-Photos by: Felipe Gabriel ([@fgf0t](https://www.instagram.com/fgf0t/){:target="_blank"})
+Photos by Felipe Gabriel, courtesy Red Bull Station, São Paulo
 
 {% include swipebox.html prefix="antb-vw_" %}
+Photos by Thiago Hersan
