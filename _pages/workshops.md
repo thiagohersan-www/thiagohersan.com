@@ -6,23 +6,40 @@ categories: "teaching,workshop"
 ---
 <div class="list-section">Courses:</div>
 
-2025  
-[Intro to Machine Learning](https://github.com/PSAM-5020-2025F-A/){:target="_blank"} Parsons Data Visualization 5020A  
-[Core Studio: Systems](#){:target="_blank"} Parsons Design Technology 3100A  
-[The Future of UX and AI](https://github.com/DM-GY-9103-2025S-D){:target="_blank"} NYU IDM 9103D  
-[Conservation of Digital Artworks](https://github.com/DM-GY-9103-2025S-N){:target="_blank"} NYU IDM 9103N  
-[Intro to Machine Learning](https://github.com/PSAM-5020-2025S-A/){:target="_blank"} Parsons Data Visualization 5020A  
-[Designing Generative Experiences](https://genxp-2506.github.io/){:target="_blank"} Shifta Creative Computing 2506  
+Data Visualization Studio/Thesis @ Parsons  
+[Spring 2026](https://dv.parsons.edu/archive/?category=Thesis&year=2026){:target="_blank"}
+[Fall 2026](https://dv.parsons.edu/archive/?category=Major+Studio&year=2026){:target="_blank"}
 
-2024  
-[Creative Coding](https://6063B.github.io/){:target="_blank"} NYU IDM 6063B  
-[Intro to Machine Learning](https://9103H.github.io/){:target="_blank"} NYU IDM 9103H  
-[Intro to Machine Learning](https://9103R.github.io/){:target="_blank"} NYU IDM 9103R  
-[Designing Generative Experiences](https://genxp-2411.github.io/){:target="_blank"} Shifta Creative Computing 2411  
-[Designing Generative Experiences](https://genxp-2406.github.io/){:target="_blank"} Shifta Creative Computing 2406  
+Intro to Data @ Parsons  
+[Spring 2026](https://github.com/PSAM-5005-2026S-A){:target="_blank"}
 
-2023  
-[Creative Coding](https://6063D.github.io/){:target="_blank"} NYU IDM 6063D  
+Intro to Machine Learning @ Parsons  
+[Spring 2025](https://github.com/PSAM-5020-2025S-A/){:target="_blank"},
+[Fall 2025](https://github.com/PSAM-5020-2025F-A/){:target="_blank"},
+[Spring 2026](https://github.com/PSAM-5020-2026S-A/){:target="_blank"},
+[Fall 2026](https://github.com/PSAM-5020-2026F-A/){:target="_blank"}
+
+Design Technology Core Studio: Systems @ Parsons  
+[Fall 2025](#){:target="_blank"}
+
+The Future of UX and AI @ NYU IDM  
+[Spring 2025](https://github.com/DM-GY-9103-2025S-D){:target="_blank"}
+
+Conservation of Digital Artworks @ NYU IDM  
+[Spring 2025](https://github.com/DM-GY-9103-2025S-N){:target="_blank"}
+
+Intro to Machine Learning @ NYU IDM  
+[Spring 2024](https://9103R.github.io/){:target="_blank"},
+[Fall 2024](https://9103H.github.io/){:target="_blank"}
+
+Creative Coding @ NYU IDM  
+[Fall 2023](https://6063D.github.io/){:target="_blank"},
+[Fall 2024](https://6063B.github.io/){:target="_blank"}
+
+Designing Generative Experiences @ SHIFTA / Elisava  
+[Summer 2024](https://genxp-2406.github.io/){:target="_blank"},
+[Fall 2024](https://genxp-2411.github.io/){:target="_blank"},
+[Summer 2025](https://genxp-2506.github.io/){:target="_blank"}
 
 <div class="list-section">Workshops:</div>
 
