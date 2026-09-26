@@ -12,6 +12,8 @@ and biological technologies that we use, and processes for reterritorializing th
 
 I'm interested in the collaborative potential of technologies.
 
-I create tools, objects and situations as a way to deal with the ever more common and misconceived narratives of progress and techno-solutionism.
+<!-- I create tools, objects and situations as a way to deal with the ever more common and misconceived narratives of progress and techno-solutionism. -->
+
+I create tools and objects as a way to deal with the ever more common and misconceived narratives of techno-solutionism.
 
 **Selected Works:**
